@@ -1,0 +1,6 @@
+import requests
+
+response = requests.get("https://marketweb-eu.blackdesertonline.com/Home/list/hot")
+
+
+print(response.status_code)
