@@ -82,7 +82,6 @@ class BDO_app:
         k_ap = ap + round((int(k_min_ap) + int(k_max_ap))/2)
         k_total_ap = int(self._chceck_bonus(k_ap)) + k_ap + int(k_bonus_ap)
         print(ap, k_ap, k_bonus_ap, int(self._chceck_bonus(k_ap)))
-        print('kutum', k_total_ap)
         # Count nouver total ap
         n_level, n_min_ap, n_max_ap, n_bonus_ap = nouver[n_level]
         try:
@@ -90,7 +89,6 @@ class BDO_app:
         except:
             n_ap = ap + round((int(n_min_ap) + int(n_max_ap))/2)
         n_total_ap = int(self._chceck_bonus(n_ap)) + n_ap
-        print('nouver', n_total_ap)
         maximum = max(k_total_ap, n_total_ap)
         print(maximum)
 
