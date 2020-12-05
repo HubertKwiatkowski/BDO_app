@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>800</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="mainButton">
+    <property name="enabled">
+     <bool>true</bool>
+    </property>
+    <property name="geometry">
+     <rect>
+      <x>630</x>
+      <y>510</y>
+      <width>150</width>
+      <height>25</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Main</string>
+    </property>
+    <property name="flat">
+     <bool>false</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="kutVsNouLabel">
+    <property name="geometry">
+     <rect>
+      <x>0</x>
+      <y>0</y>
+      <width>800</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>20</pointsize>
+      <strikeout>false</strikeout>
+      <kerning>true</kerning>
+     </font>
+    </property>
+    <property name="autoFillBackground">
+     <bool>false</bool>
+    </property>
+    <property name="text">
+     <string>Kutum vs Nouver comparison</string>
+    </property>
+    <property name="scaledContents">
+     <bool>false</bool>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <widget class="QLabel" name="classesLabel">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>40</y>
+      <width>311</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>20</pointsize>
+      <strikeout>false</strikeout>
+      <kerning>true</kerning>
+     </font>
+    </property>
+    <property name="autoFillBackground">
+     <bool>false</bool>
+    </property>
+    <property name="text">
+     <string>Check best for you</string>
+    </property>
+    <property name="scaledContents">
+     <bool>false</bool>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
+    </property>
+   </widget>
+   <widget class="QWidget" name="layoutWidget">
+    <property name="geometry">
+     <rect>
+      <x>11</x>
+      <y>81</y>
+      <width>781</width>
+      <height>121</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="gridLayout" rowstretch="1,1,1,1" columnstretch="1,1,1,1,1,1,1">
+     <item row="0" column="0">
+      <widget class="QLabel" name="apLevelLabel">
+       <property name="text">
+        <string>AP</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="5">
+      <widget class="QComboBox" name="weaponLevelComboBox">
+       <item>
+        <property name="text">
+         <string>0</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>+1</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>+2</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>+3</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>+4</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>+5</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>+6</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>+7</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>+8</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>+9</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>+10</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>+11</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>+12</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>+13</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>+14</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>+15</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>PRI</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>DUO</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>TRI</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>TET</string>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>PEN</string>
+        </property>
+       </item>
+      </widget>
+     </item>
+     <item row="1" column="2" colspan="2">
+      <widget class="QLabel" name="totalPveAplLabel">
+       <property name="text">
+        <string>Your total PvE AP is</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="1">
+      <widget class="QLineEdit" name="apLine"/>
+     </item>
+     <item row="0" column="4">
+      <widget class="QLabel" name="weaponLevelLabel">
+       <property name="text">
+        <string>Weapon level</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="2">
+      <widget class="QCheckBox" name="nouverCheckBox">
+       <property name="text">
+        <string>Nouver</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="3">
+      <widget class="QCheckBox" name="kutumCheckBox">
+       <property name="text">
+        <string>Kutum</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="6">
+      <widget class="QPushButton" name="submitButton">
+       <property name="enabled">
+        <bool>false</bool>
+       </property>
+       <property name="text">
+        <string>Submit</string>
+       </property>
+       <property name="flat">
+        <bool>false</bool>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="0" colspan="2">
+      <widget class="QLabel" name="totalPvpApLabel">
+       <property name="text">
+        <string>Your total PvP AP is</string>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="0">
+      <widget class="QLabel" name="nouverApLabel">
+       <property name="text">
+        <string>Nouver AP</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="0">
+      <widget class="QLabel" name="kutumApLabel">
+       <property name="text">
+        <string>Kutum AP</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="6">
+      <widget class="QLabel" name="kutPvpPenLabel">
+       <property name="text">
+        <string>PvP PEN</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="1">
+      <widget class="QLabel" name="kutPveTriLabel">
+       <property name="text">
+        <string>PvE TRI</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="2">
+      <widget class="QLabel" name="kutPveTetLabel">
+       <property name="text">
+        <string>PvE TET</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="3">
+      <widget class="QLabel" name="kutPvePenLabel">
+       <property name="text">
+        <string>PvE PEN</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="5">
+      <widget class="QLabel" name="kutPvpTetLabel">
+       <property name="text">
+        <string>PvP TET</string>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="4">
+      <widget class="QLabel" name="kutPvpTriLabel">
+       <property name="text">
+        <string>PvP TRI</string>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="1">
+      <widget class="QLabel" name="nouPveTriLabel">
+       <property name="text">
+        <string>PvE TRI</string>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="2">
+      <widget class="QLabel" name="nouPveTetLabel">
+       <property name="text">
+        <string>PvE TET</string>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="5">
+      <widget class="QLabel" name="nouPvpTetLabel">
+       <property name="text">
+        <string>PvP TET</string>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="4">
+      <widget class="QLabel" name="nouPvpTriLabel">
+       <property name="text">
+        <string>PvP TRI</string>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="3">
+      <widget class="QLabel" name="nouPvePenLabel">
+       <property name="text">
+        <string>PvE PEN</string>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="6">
+      <widget class="QLabel" name="nouPvpPenLabel">
+       <property name="text">
+        <string>PvP PEN</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>800</width>
+     <height>22</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

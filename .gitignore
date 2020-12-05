@@ -132,7 +132,6 @@ dmypy.json
 # Non-licenced stuff:
 images/
 temp/
-BDO_app/pyqt_ui/
 
 # Tests:
 tests/

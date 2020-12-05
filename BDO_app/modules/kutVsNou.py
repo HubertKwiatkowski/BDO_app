@@ -1,23 +1,23 @@
 import csv
-from tkinter import *
 
 kutum = [] # [level, AP min, AP max, bonus AP]
 nouver = [] # [level, AP min AP max]
 bonus = [] # [AP, extra AP]
+
 
 def open_kutum_nouver(apLevel, kutLevel, nouLevel):
     """Open kutum, nouver and bonus AP files."""
     kut = 'modules/kut_nou/kutum.csv'
     nou = 'modules/kut_nou/nouver.csv'
     bon = 'modules/kut_nou/bonus_ap.csv'
-    global kutum, nouver, bonus
+    global kutum, nouver, bonus # sprawdzic, czy jest to tu potrzebne
 
     # read kutum file
     with open(kut) as k:
         kutum.clear()
-        ku_reader = csv.reader(k)
-        ku_header_row = next(ku_reader)
-        for ku in ku_reader:
+        readKutum = csv.reader(k)
+        kutumRow = next(readKutum)
+        for ku in readKutum:
             kutum.append(ku)
 
     # read nouver file
@@ -36,25 +36,25 @@ def open_kutum_nouver(apLevel, kutLevel, nouLevel):
         for bo in bo_reader:
             bonus.append(bo)
 
-    _weapon_input(apLevel, kutLevel, nouLevel)
+    weaponInput(apLevel, kutLevel, nouLevel)
 
-def _weapon_input(apLevel, kutLevel, nouLevel):
+def weaponInput(apLevel, kutLevel, nouLevel):
     """Input boss weapon level."""
     # Count kutum total ap
     k_level, k_min_ap, k_max_ap, k_bonus_ap = kutum[int(kutLevel)]
     k_ap = apLevel + round((int(k_min_ap) + int(k_max_ap))/2)
-    k_total_ap = int(_chceck_bonus(k_ap)) + k_ap + int(k_bonus_ap)
+    k_total_ap = int(checkBonus(k_ap)) + k_ap + int(k_bonus_ap)
     # Count nouver total ap
     n_level, n_min_ap, n_max_ap, n_bonus_ap = nouver[int(nouLevel)]
     try:
         n_ap = ap + round((int(n_min_ap) + int(n_max_ap))/2) + int(n_bonus_ap)
     except:
         n_ap = ap + round((int(n_min_ap) + int(n_max_ap))/2)
-    n_total_ap = int(_chceck_bonus(n_ap)) + n_ap
+    n_total_ap = int(checkBonus(n_ap)) + n_ap
     maximum = max(k_total_ap, n_total_ap)
     print(maximum)
 
-def _chceck_bonus(ap):
+def checkBonus(ap):
     """Check bonus AP."""
     if ap < int(bonus[0][0]):
         return 0
@@ -69,3 +69,30 @@ def _chceck_bonus(ap):
                     return bonus[bo][1]
             except:
                 break
+
+
+def baseAp():
+    pass
+
+def triKutPvp():
+    baseAp = baseAp()
+    lev, minAp, maxAp, monsterAp = kutum[18]
+    baseAp = baseAp + round((minAp + maxAp)/2)
+    bonusAp = int(checkBonus(baseAp))
+    triKutPvp = bonusBase + bonusAp
+    return triKutPvp
+
+def triNouPvp():
+    pass
+
+def tetKutPvp():
+    pass
+
+def tetNouPvp():
+    pass
+
+def penKutPvp():
+    pass
+
+def penNouPvp():
+    pass
