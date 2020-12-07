@@ -5,11 +5,11 @@ nouver = [] # [level, AP min AP max]
 bonus = [] # [AP, extra AP]
 
 
-def open_kutum_nouver(apLevel, kutLevel, nouLevel):
+def openCsv():
     """Open kutum, nouver and bonus AP files."""
-    kut = 'modules/kut_nou/kutum.csv'
-    nou = 'modules/kut_nou/nouver.csv'
-    bon = 'modules/kut_nou/bonus_ap.csv'
+    kut = 'BDO_app/modules/kutVsNou/kutum.csv'
+    nou = 'BDO_app/modules/kutVsNou/nouver.csv'
+    bon = 'BDO_app/modules/kutVsNou/bonus_ap.csv'
     global kutum, nouver, bonus # sprawdzic, czy jest to tu potrzebne
 
     # read kutum file
@@ -36,9 +36,7 @@ def open_kutum_nouver(apLevel, kutLevel, nouLevel):
         for bo in bo_reader:
             bonus.append(bo)
 
-    weaponInput(apLevel, kutLevel, nouLevel)
-
-def weaponInput(apLevel, kutLevel, nouLevel):
+def weaponInput(totalAp, weaponLevel):
     """Input boss weapon level."""
     # Count kutum total ap
     k_level, k_min_ap, k_max_ap, k_bonus_ap = kutum[int(kutLevel)]
@@ -52,47 +50,71 @@ def weaponInput(apLevel, kutLevel, nouLevel):
         n_ap = ap + round((int(n_min_ap) + int(n_max_ap))/2)
     n_total_ap = int(checkBonus(n_ap)) + n_ap
     maximum = max(k_total_ap, n_total_ap)
-    print(maximum)
 
-def checkBonus(ap):
+
+def calculateCurrent(totalAp, weapon):
+    base = baseAp(totalAp, weapon)
+    wLevel, minAp, maxAp, monsterAp = weapon
+    totalAp = base + (int(minAp) + int(maxAp))/2
+    bonusAp = int(checkBonus(totalAp))
+    pve = totalAp + bonusAp + int(monsterAp)
+    pvp = totalAp + bonusAp
+    return pve, pvp
+
+
+def calcuclateAll(totalAp, weapon):
+    base = baseAp(totalAp, weapon)
+    allAp = []
+    weap = [kutum, nouver]
+    level = [18, 19, 20]
+    for w in range(len(weap)):
+        for l in range(len(level)):
+            lev = int(level[l])
+            weapName = weap[w]
+            ap = weaponPve(base, weapName, lev)
+            allAp.append(str(int(ap)))
+    for w in range(len(weap)):
+        for l in range(len(level)):
+            lev = int(level[l])
+            weapName = weap[w]
+            ap = weaponPvp(base, weapName, lev)
+            allAp.append(str(int(ap)))
+    return allAp
+
+
+def baseAp(totalAp, weapon):
+    baseAp = totalAp - (int(weapon[1]) + int(weapon[2]))/2
+    return baseAp
+
+
+def weaponPve(base, weapName, lev):
+    wLevel, minAp, maxAp, monsterAp = weapName[lev]
+    totalAp = base + (int(minAp) + int(maxAp))/2
+    bonusAp = int(checkBonus(totalAp))
+    weaponPve = totalAp + bonusAp + int(monsterAp)
+    return weaponPve
+
+
+def weaponPvp(base, weapName, lev):
+    wLevel, minAp, maxAp, monsterAp = weapName[lev]
+    totalAp = base + (int(minAp) + int(maxAp))/2
+    bonusAp = int(checkBonus(totalAp))
+    weaponPvp = totalAp + bonusAp
+    return weaponPvp
+
+
+def checkBonus(totalAp):
     """Check bonus AP."""
-    if ap < int(bonus[0][0]):
+    if totalAp < int(bonus[0][0]):
         return 0
-    elif ap > int(bonus[-1][0]):
+    elif totalAp > int(bonus[-1][0]):
         return bonus[-1][1]
     else:
         for bo in range(len(bonus)-1):
             b1 = int(bonus[bo][0])
             b2 = int(bonus[bo+1][0])
             try:
-                if b1 <= ap < b2:
+                if b1 <= totalAp < b2:
                     return bonus[bo][1]
             except:
                 break
-
-
-def baseAp():
-    pass
-
-def triKutPvp():
-    baseAp = baseAp()
-    lev, minAp, maxAp, monsterAp = kutum[18]
-    baseAp = baseAp + round((minAp + maxAp)/2)
-    bonusAp = int(checkBonus(baseAp))
-    triKutPvp = bonusBase + bonusAp
-    return triKutPvp
-
-def triNouPvp():
-    pass
-
-def tetKutPvp():
-    pass
-
-def tetNouPvp():
-    pass
-
-def penKutPvp():
-    pass
-
-def penNouPvp():
-    pass
