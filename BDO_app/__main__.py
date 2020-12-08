@@ -1,8 +1,8 @@
-from main import BDOApp
+import main
 
 def run():
-    app = BDOApp()
-    app.runApp()
+
+    main.main()
 
 if __name__ == '__main__':
     run()

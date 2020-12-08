@@ -6,7 +6,7 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>800</width>
+    <width>798</width>
     <height>600</height>
    </rect>
   </property>
@@ -46,9 +46,9 @@
    <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
-      <x>0</x>
+      <x>10</x>
       <y>420</y>
-      <width>791</width>
+      <width>781</width>
       <height>58</height>
      </rect>
     </property>
@@ -158,9 +158,9 @@
    <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
-      <x>0</x>
+      <x>10</x>
       <y>270</y>
-      <width>791</width>
+      <width>781</width>
       <height>89</height>
      </rect>
     </property>
@@ -194,7 +194,7 @@
      <item row="0" column="3">
       <widget class="QPushButton" name="cookingButton">
        <property name="enabled">
-        <bool>false</bool>
+        <bool>true</bool>
        </property>
        <property name="text">
         <string>Cooking</string>
@@ -355,9 +355,9 @@
    <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
-      <x>0</x>
+      <x>10</x>
       <y>90</y>
-      <width>791</width>
+      <width>781</width>
       <height>120</height>
      </rect>
     </property>
@@ -630,7 +630,7 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>800</width>
+     <width>798</width>
      <height>22</height>
     </rect>
    </property>

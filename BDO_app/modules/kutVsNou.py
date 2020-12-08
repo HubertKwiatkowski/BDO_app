@@ -1,8 +1,8 @@
 import csv
 
-kutum = [] # [level, AP min, AP max, bonus AP]
-nouver = [] # [level, AP min AP max]
-bonus = [] # [AP, extra AP]
+kutum = []  # [level, AP min, AP max, bonus AP]
+nouver = [] # [level, AP min AP max, bonus AP]
+bonus = []  # [AP, extra AP]
 
 
 def openCsv():
@@ -10,7 +10,7 @@ def openCsv():
     kut = 'BDO_app/modules/kutVsNou/kutum.csv'
     nou = 'BDO_app/modules/kutVsNou/nouver.csv'
     bon = 'BDO_app/modules/kutVsNou/bonus_ap.csv'
-    global kutum, nouver, bonus # sprawdzic, czy jest to tu potrzebne
+    global kutum, nouver, bonus
 
     # read kutum file
     with open(kut) as k:
@@ -36,24 +36,10 @@ def openCsv():
         for bo in bo_reader:
             bonus.append(bo)
 
-def weaponInput(totalAp, weaponLevel):
-    """Input boss weapon level."""
-    # Count kutum total ap
-    k_level, k_min_ap, k_max_ap, k_bonus_ap = kutum[int(kutLevel)]
-    k_ap = apLevel + round((int(k_min_ap) + int(k_max_ap))/2)
-    k_total_ap = int(checkBonus(k_ap)) + k_ap + int(k_bonus_ap)
-    # Count nouver total ap
-    n_level, n_min_ap, n_max_ap, n_bonus_ap = nouver[int(nouLevel)]
-    try:
-        n_ap = ap + round((int(n_min_ap) + int(n_max_ap))/2) + int(n_bonus_ap)
-    except:
-        n_ap = ap + round((int(n_min_ap) + int(n_max_ap))/2)
-    n_total_ap = int(checkBonus(n_ap)) + n_ap
-    maximum = max(k_total_ap, n_total_ap)
-
 
 def calculateCurrent(totalAp, weapon):
-    base = baseAp(totalAp, weapon)
+    """Calculate current weapon AP."""
+    base = _baseAp(totalAp, weapon)
     wLevel, minAp, maxAp, monsterAp = weapon
     totalAp = base + (int(minAp) + int(maxAp))/2
     bonusAp = int(checkBonus(totalAp))
@@ -63,7 +49,8 @@ def calculateCurrent(totalAp, weapon):
 
 
 def calcuclateAll(totalAp, weapon):
-    base = baseAp(totalAp, weapon)
+    """Calculate additional Kutum/Nouver levels."""
+    base = _baseAp(totalAp, weapon)
     allAp = []
     weap = [kutum, nouver]
     level = [18, 19, 20]
@@ -71,39 +58,42 @@ def calcuclateAll(totalAp, weapon):
         for l in range(len(level)):
             lev = int(level[l])
             weapName = weap[w]
-            ap = weaponPve(base, weapName, lev)
+            ap = _weaponPve(base, weapName, lev)
             allAp.append(str(int(ap)))
     for w in range(len(weap)):
         for l in range(len(level)):
             lev = int(level[l])
             weapName = weap[w]
-            ap = weaponPvp(base, weapName, lev)
+            ap = _weaponPvp(base, weapName, lev)
             allAp.append(str(int(ap)))
     return allAp
 
 
-def baseAp(totalAp, weapon):
+def _baseAp(totalAp, weapon):
+    """Calculate base AP (no off-hand weapon)."""
     baseAp = totalAp - (int(weapon[1]) + int(weapon[2]))/2
     return baseAp
 
 
-def weaponPve(base, weapName, lev):
+def _weaponPve(base, weapName, lev):
+    """Calculate all PvE AP."""
     wLevel, minAp, maxAp, monsterAp = weapName[lev]
     totalAp = base + (int(minAp) + int(maxAp))/2
-    bonusAp = int(checkBonus(totalAp))
+    bonusAp = int(_checkBonus(totalAp))
     weaponPve = totalAp + bonusAp + int(monsterAp)
     return weaponPve
 
 
-def weaponPvp(base, weapName, lev):
+def _weaponPvp(base, weapName, lev):
+    """Calculate all PVP AP."""
     wLevel, minAp, maxAp, monsterAp = weapName[lev]
     totalAp = base + (int(minAp) + int(maxAp))/2
-    bonusAp = int(checkBonus(totalAp))
+    bonusAp = int(_checkBonus(totalAp))
     weaponPvp = totalAp + bonusAp
     return weaponPvp
 
 
-def checkBonus(totalAp):
+def _checkBonus(totalAp):
     """Check bonus AP."""
     if totalAp < int(bonus[0][0]):
         return 0
