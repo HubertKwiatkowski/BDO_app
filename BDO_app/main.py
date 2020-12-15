@@ -1,6 +1,6 @@
 import sys
 from PyQt5 import QtCore, QtWidgets
-from PyQt5.QtWidgets import QMainWindow, QDialog, QApplication
+from PyQt5.QtWidgets import QMainWindow, QDialog, QApplication, QTableWidget, QTableWidgetItem
 from PyQt5.uic import loadUi
 
 
@@ -9,6 +9,7 @@ Window index list:
 0 - MainWindow
 1 - KutumVsNouverWindow
 2 - CookingWindow
+3 - NodesWindow
 """
 
 
@@ -20,12 +21,16 @@ class MainWindow(QMainWindow):
 
         self.kutVsNouButton.clicked.connect(self.gotoKutVsNou)
         self.cookingButton.clicked.connect(self.gotoCooking)
+        self.nodesButton.clicked.connect(self.gotoNodes)
 
     def gotoKutVsNou(self):
         widget.setCurrentIndex(1)
 
     def gotoCooking(self):
         widget.setCurrentIndex(2)
+
+    def gotoNodes(self):
+        widget.setCurrentIndex(3)
 
 
 class KutumVsNouverWindow(QMainWindow):
@@ -64,7 +69,7 @@ class KutumVsNouverWindow(QMainWindow):
 
 
     def _calculate(self, totalAp, weapon, weaponLevel):
-        """Calculate all the needed AP."""
+        """Calculate other AP."""
 
         import modules.kutVsNou as kvs
 
@@ -112,6 +117,84 @@ class CookingWindow(QMainWindow):
         widget.setCurrentIndex(0)
 
 
+class NodesWindow(QMainWindow):
+    """A class to manage the node window."""
+    def __init__(self):
+        super(NodesWindow, self).__init__()
+        loadUi("BDO_app/pyqt5_ui/nodesWindow.ui", self)
+
+        import modules.cityNodes as cn
+
+        self.tableWidget.clearContents()
+        self.createTable()
+
+        self.allButton.clicked.connect(self.showAll)
+        self.balenosButton.clicked.connect(self.showBalenos)
+        self.calpheonButton.clicked.connect(self.showCalpheon)
+        self.drieghanButton.clicked.connect(self.showDrieghan)
+        self.kamasylviaButton.clicked.connect(self.showKamasylvia)
+        self.mediahButton.clicked.connect(self.showMediah)
+        self.odyllitaButton.clicked.connect(self.showOdyllita)
+        self.serendiaButton.clicked.connect(self.showSerendia)
+        self.valenciaButton.clicked.connect(self.showValencia)
+
+        self.mainButton.clicked.connect(self.gotoMain)
+
+    def createTable(self):
+        import modules.cityNodes as cn
+        cn.filterAll()
+        self.cityNodes = cn.cityNodes
+
+        for row in range(len(self.cityNodes)):
+            self.tableWidget.insertRow(row)
+            width = len(self.cityNodes[row])
+            for col in range(width):
+                item = QTableWidgetItem(self.cityNodes[row][col])
+                self.tableWidget.setItem(row, col, item)
+
+    def showAll(self):
+        import modules.cityNodes as cn
+        cn.filterAll()
+
+    def showBalenos(self):
+        self.tableWidget.clearContents()
+        import modules.cityNodes as cn
+        cn.filterBalenos()
+        self.cityNodes = cn.cityNodes
+
+        for row in range(len(self.cityNodes)):
+            if self.cityNodes[0] == 'Balenos':
+                self.tableWidget.insertRow(row)
+                width = len(self.cityNodes[row])
+                for col in range(width):
+                    item = QTableWidgetItem(self.cityNodes[row][col])
+                    self.tableWidget.setItem(row, col, item)
+
+    def showCalpheon(self):
+        pass
+
+    def showDrieghan(self):
+        pass
+
+    def showKamasylvia(self):
+        pass
+
+    def showMediah(self):
+        pass
+
+    def showOdyllita(self):
+        pass
+
+    def showSerendia(self):
+        pass
+
+    def showValencia(self):
+        pass
+
+    def gotoMain(self):
+        widget.setCurrentIndex(0)
+
+
 def main():
     global app, widget
     app = QApplication(sys.argv)
@@ -120,10 +203,12 @@ def main():
     mainWindow = MainWindow()
     kutumVsNouverWindow = KutumVsNouverWindow()
     cookingWindow = CookingWindow()
+    nodesWindow = NodesWindow()
 
-    widget.addWidget(mainWindow)    # index 0
+    widget.addWidget(mainWindow)            # index 0
     widget.addWidget(kutumVsNouverWindow)   # index 1
-    widget.addWidget(cookingWindow)
+    widget.addWidget(cookingWindow)         # index 2
+    widget.addWidget(nodesWindow)           # index 3
 
     widget.setFixedWidth(800)
     widget.setFixedHeight(600)

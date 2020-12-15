@@ -1,0 +1,3641 @@
+region,city,address,cp,usage,level
+,,,,,
+,,,,,
+Balenos,Olvia,Olvia 1 - 1,1,Storage,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Olvia 1 – 2,1,Storage,1
+,,,,Mushroom Factory,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Olvia 1 - 3,2,Storage,2
+,,,,Furniture Workshop,1
+,,,,Residence,1
+,,,,,
+,,Olvia 2 - 1,3,Storage,2
+,,,,Lodging,2
+,,,,Furniture Workshop,2
+,,,,Residence,1
+,,,,,
+,,Olvia 2 - 2,1,Storage,1
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Olvia 2 - 3,1,Storage,1
+,,,,Lodging,1
+,,,,Carpentry Workshop,1
+,,,,Residence,1
+,,,,,
+,,Olvia 2 - 4,1,Storage,2
+,,,,Lodging,2
+,,,,Furniture Workshop,1
+,,,,Residence,1
+,,,,,
+,,Olvia 2 - 5 (1st Floor),2,Storage,3
+,,,,Handcraft Workshop,2
+,,,,Carpentry Workshop,2
+,,,,Residence,1
+,,,,,
+,,Olvia 2 - 5 (2nd Floor),2,Storage,3
+,,,,✩Refinery,3
+,,,,Residence,1
+,,,,,
+,,Olvia 3 - 1,1,Storage,1
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Olvia 3 - 2,1,Storage,1
+,,,,Tool Workshop,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Olvia 3 - 3,2,Storage,2
+,,,,Handcraft Workshop,2
+,,,,Horse Gear Workshop,1
+,,,,Residence,1
+,,,,,
+,,Olvia 3 - 4,3,Storage,3
+,,,,Tool Workshop,3
+,,,,Residence,1
+,,,,,
+,,Olvia 4 - 1 ,1,Storage,2
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Olvia 4 - 2,2,Storage,2
+,,,,Furniture Workshop,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Olvia 4 - 3,2,Storage,2
+,,,,Jeweler,2
+,,,,Tool Workshop,2
+,,,,Residence,1
+,,,,,
+,,Olvia 4 - 4,3,Storage,3
+,,,,Wagon Workshop,1
+,,,,Residence,1
+,,,,,
+,,Olvia 5 - 1,1,Storage,1
+,,,,Handcraft Workshop,1
+,,,,Residence,1
+,,,,,
+,,Olvia 5 - 2,1,Storage,2
+,,,,Furniture Workshop,2
+,,,,Residence,1
+,,,,,
+,,Olvia 6 - 1 ,1,Storage,1
+,,,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Olvia 6 - 2,2,Storage,2
+,,,,Lodging,2
+,,,,Residence,1
+,,,,,
+,,Olvia 6 - 3,2,Storage,3
+,,,,Lodging,3
+,,,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,Olvia 7 - 1 ,1,Storage,1
+,,,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Olvia 7 - 2 (1st Floor),2,Storage,1
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Olvia 7 - 2 (2nd Floor),1,Storage,2
+,,,,Tool Workshop,2
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Olvia 7 - 3,1,Storage,2
+,,,,Jeweler,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Olvia 7 - 4 ,2,Storage,3
+,,,,Furniture Workshop,3
+,,,,Residence,1
+,,,,,
+,,,,,
+,Velia,Velia 1 - 1,1,Storage,1
+,,Room 1,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Velia 1 - 1,1,Storage,1
+,,Room 2,,Lodging,2
+,,,,Furniture Workshop,1
+,,,,Residence,1
+,,,,,
+,,Velia 1 - 1,1,Storage,2
+,,Room 3,,Lodging,2
+,,,,Fish Factory,1
+,,,,Residence,1
+,,,,,
+,,Velia  2 -1 ,1,Storage,1
+,,,,Refinery,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Velia  2 - 2,2,Storage,2
+,,,,Carpentry Workshop,1
+,,,,Furniture Workshop,1
+,,,,Residence,1
+,,,,,
+,,Velia  2 - 3,5,Storage,3
+,,,,Wagon Workshop,1
+,,,,Furniture Workshop,2
+,,,,Residence,1
+,,,,,
+,,Velia  3 - 1,1,Storage,1
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Velia  3 - 2 ,2,Storage,2
+,,1st Floor,,Handcraft Workshop,1
+,,,,Tool Workshop,2
+,,,,Residence,1
+,,,,,
+,,Velia  3 - 2 ,5,Storage,3
+,,2nd Floor,,Shipyard,1
+,,,,Residence,1
+,,,,,
+,,Velia  No. 4,3,Storage,2
+,,,,Horse Ranch,2
+,,,,Weapon Workshop,1
+,,,,Armor Workshop,1
+,,,,Safe Asset Management Bank,1
+,,,,Residence,1
+,,,,,
+,,Velia  5 - 1,1,Storage,1
+,,,,Refinery,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Velia 5 - 2 ,2,Storage,2
+,,,,Handcraft Workshop,1
+,,,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,Iliya Island,Iliya Island 1 - 1,1,Storage,1
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Iliya Island 1 - 2,1,Storage,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Iliya Island 2 - 1,2,Storage,2
+,,,,Weapon Workshop,1
+,,,,Armor Workshop,1
+,,,,Ship Part Workshop,1
+,,,,Residence,1
+,,,,,
+,,Iliya Island 2 - 2,2,Storage,4
+,,,,✩Refinery,3
+,,,,Ship Part Workshop,2
+,,,,Residence,1
+,,,,,
+,,Iliya Island 3,3,Storage,4
+,,,,Shipyard,2
+,,,,Chiro's Ship Part Workshop,1
+,,,,Residence,1
+,,,,,
+,,Iliya Island 4 - 1,3,Storage,2
+,,,,Refinery,2
+,,,,Tool Workshop,2
+,,,,Residence,1
+,,,,,
+,,Iliya Island 4 - 2,1,Storage,1
+,,,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Iliya Island 5 - 1,2,Storage,2
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Iliya Island 6 - 1,1,Storage,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Iliya Island 6 - 2,2,Storage,2
+,,,,Lodging,1
+,,,,Tool Workshop,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,Loggia Farm,Loggia Farm 3 - 1,2,Storage,2
+,,,,Fish Factory,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Loggia Farm 3 - 2,1,Storage,2
+,,,,Refinery,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Finto Farm - 2,,,
+,,Finto Farm 2 - 1,1,Storage,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Finto Farm 2 - 2,2,Storage,2
+,,,,Tool Workshop,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,Balenos Forest,Balenos Forest 4 - 1 ,2,Storage,2
+,,,,Crop Factory,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Balenos Forest 4 - 2,1,Storage,2
+,,,,Furniture Workshop,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,Bartali Farm,Bartali Farm 1 - 1,2,Storage,2
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Bartali Farm 1 - 2,1,Storage,2
+,,,,Tool Workshop,1
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,Marino Farm,Marino Farm No. 5,2,Storage,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,Toscani Farm,Toscani Farm 6 - 1,3,Storage,3
+,,,,Lodging,2
+,,,,Refinery,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Toscani Farm 6 - 2,3,Storage,4
+,,,,Tool Workshop,2
+,,,,Refinery,2
+,,,,Furniture Workshop,4
+,,,,Residence,1
+,,,,,
+,,,,,
+,Casta Farm,Casta Farm No. 1,1,Storage,1
+,,Olvia,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Casta Farm No. 2,2,Storage,2
+,,Olvia,,Mushroom Factory,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,Wale Farm,Wale Farm No. 1,2,Storage,2
+,,Olvia,,Lodging,2
+,,,,Fish Factory,1
+,,,,Residence,1
+,,,,,
+,,Wale Farm No. 2,2,Storage,2
+,,Olvia,,Tool Workshop,2
+,,,,Residence,1
+,,,,,
+,,,,,
+,Lema Island,Lema Island No.1,1,Storage,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Serendia,Heidel,Heidel 1 - 1,1,Storage,1
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Heidel 1 - 2,1,Storage,1
+,,,,Lodging,1
+,,,,Refinery,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Heidel 1 - 3,2,Storage,2
+,,,,Handcraft Workshop,2
+,,,,Tool Workshop,2
+,,,,Residence,1
+,,,,,
+,,Heidel 1 - 4,3,Storage,3
+,,,,✩Siege Weapon Workshop,3
+,,,,Furniture Workshop,3
+,,,,Fish Factory,1
+,,,,Residence,1
+,,,,,
+,,Heidel 1 - 5,4,Storage,3
+,,,,Lodging,2
+,,,,Jeweler,2
+,,,,Refinery,2
+,,,,Ship Part Workshop,2
+,,,,Residence,1
+,,,,,
+,,Heidel 2 - 1 ,1,Storage,1
+,,1st Floor,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Heidel 2 - 1 ,1,Storage,1
+,,2nd Floor,,Refinery,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Heidel 2 - 2,3,Storage,2
+,,,,Handcraft Workshop,2
+,,,,Ship Part Workshop,1
+,,,,Furniture Workshop,2
+,,,,Residence,1
+,,,,,
+,,Heidel 2 - 3 ,2,Storage,2
+,,1st Floor,,Carpentry Workshop,2
+,,,,Jeweler,2
+,,,,Residence,1
+,,,,,
+,,Heidel 2 - 3 ,2,Storage,3
+,,2nd Floor,,Refinery,2
+,,,,Costume Mill,1
+,,,,Old Moon Costume Mill,1
+,,,,Residence,1
+,,,,,
+,,Heidel 3 - 1 ,1,Storage,1
+,,1st Floor,,Refinery,1
+,,,,Safe Asset Management Bank,1
+,,,,Residence,1
+,,,,,
+,,Heidel 3 - 1 ,4,Storage,3
+,,2nd Floor,,Jeweler,2
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Heidel 3 - 2,1,Storage,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Heidel 3 - 3,1,Storage,2
+,,,,Furniture Workshop,1
+,,,,Mushroom Factory,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Heidel 3 - 4,5,Storage,3
+,,,,✩Costume Mill,2
+,,,,Old Moon Costume Mill,1
+,,,,Wagon Workshop,2
+,,,,Residence,1
+,,,,,
+,,Heidel 4 - 1 ,1,Storage,1
+,,1st Floor,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Heidel 4 - 1,1,Storage,1
+,,2nd Floor,,Tool Workshop,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Heidel 4 - 2 ,1,Storage,1
+,,1st Floor,,Refinery,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Heidel 4 - 2 ,1,Storage,2
+,,2nd Floor,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Heidel 4 - 3,1,Storage,1
+,,,,Refinery,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Heidel 4 - 4,1,Storage,2
+,,,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,Heidel 4 - 5,3,Storage,3
+,,,,Wagon Part Workshop,2
+,,,,Furniture Workshop,2
+,,,,Residence,1
+,,,,,
+,,Heidel 5 - 1 ,2,Storage,1
+,,1st Floor,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Heidel 5 - 1 ,1,Storage,2
+,,2nd Floor,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Heidel 5 - 2 ,5,Storage,3
+,,,,Weapon Workshop,3
+,,,,Residence,1
+,,,,,
+,,Heidel 5 - 3,4,Storage,3
+,,,,Tool Workshop,3
+,,,,Furniture workshop,4
+,,,,Residence,1
+,,,,,
+,,Heidel 5 - 4 ,5,✩Storage,5
+,,2nd Floor,,✩Refinery,3
+,,,,Shipyard,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Heidel 6 - 1 ,1,Storage,1
+,,1st Floor,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Heidel 6 - 1 ,2,Storage,2
+,,2nd Floor,,Furniture Workshop,2
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Heidel 6 - 2 ,2,Storage,2
+,,1st Floor,,Tool Workshop,2
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Heidel 6 - 2 ,3,Storage,1
+,,2nd Floor,,Armor Workshop,3
+,,,,Residence,1
+,,,,,
+,,Heidel 6 - 3,4,Storage,3
+,,,,Horse Ranch,4
+,,,,Residence,1
+,,,,,
+,,Heidel 6 - 4 ,3,Storage,4
+,,1st Floor,,✩Horse Gear Workshop,3
+,,,,Ship Part Workshop,3
+,,,,Furniture Workshop,3
+,,,,Residence,1
+,,,,,
+,,Heidel 6 - 4 ,5,✩Storage,5
+,,2nd Floor,,Residence,1
+,,,,,
+,,Heidel 7 - 1,1,Storage,1
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Heidel 7 - 2 ,2,Storage,2
+,,1st Floor,,Carpentry Workshop,1
+,,,,Refinery,1
+,,,,Wood Workbench,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Heidel 7 - 2 ,3,Storage,3
+,,2nd Floor,,Weapon Workshop,2
+,,,,Tool Workshop,2
+,,,,Siege Weapon Workshop,2
+,,,,Residence,1
+,,,,,
+,,Heidel 7 - 3 ,1,Storage,2
+,,1st Floor,,Lodging,3
+,,,,Carpentry Workshop,2
+,,,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,Heidel 7 - 3,4,Storage,3
+,,2nd Floor,,Armor Workshop,3
+,,,,Residence,1
+,,,,,
+,,Heidel 7 - 4 ,2,Storage ,2
+,,1st Floor,,Refinery,2
+,,,,Furniture Workshop,3
+,,,,Residence,1
+,,,,,
+,,Heidel 7 - 4 ,2,Storage,3
+,,2nd Floor,,Jeweler,2
+,,,,Tool Workshop,3
+,,,,Costume Mill,1
+,,,,Old Moon Costume Mill,1
+,,,,Residence,1
+,,,,,
+,,Heidel 7 - 5,5,Storage,4
+,,,,Armor Workshop,4
+,,,,Residence ,1
+,,,,,
+,,Heidel 8 - 1 ,1,Storage,1
+,,Room 1,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Heidel 8 - 1 ,2,Storage,2
+,,Room 2,,Lodging,2
+,,,,Residence,1
+,,,,,
+,,Heidel 8 - 1 ,2,Storage,3
+,,Room 3,,Lodging,3
+,,,,Residence,1
+,,,,,
+,,Heidel 8 - 1 ,3,Storage,4
+,,Room 4,,✩Lodging,5
+,,,,Residence,1
+,,,,,
+,,Heidel 8 - 1,4,Storage,4
+,,Room 5,,Jeweler,3
+,,,,✩Refinery,3
+,,,,✩Horse Gear Workshop,3
+,,,,Residence,1
+,,,,,
+,,Heidel 8 - 2,1,Storage,1
+,,Underground,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Heidel 8 - 2,1,Storage,2
+,,1st Floor,,Refinery,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Heidel 8 - 2,2,Storage,2
+,,2nd Floor,,Refinery,2
+,,,,Wagon Part Workshop,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Heidel 8 - 3,2,Storage,2
+,,,,Armor Workshop,2
+,,,,Jeweler,1
+,,,,Residence,1
+,,,,,
+,,Heidel 8 - 4,3,Storage,3
+,,,,Tool Workshop,3
+,,,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,Heidel 8 - 5,4,Storage,3
+,,,,Carpentry Workshop,3
+,,,,Residence,1
+,,,,,
+,,Heidel 9 - 1,1,Storage,1
+,,1st Floor,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Heidel 9 - 1,1,Storage,2
+,,2nd Floor,,Lodging,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Heidel 9 - 2,1,Storage,1
+,,1st Floor,,Lodging,1
+,,,,Tool Workshop,1
+,,,,Residence,1
+,,,,,
+,,Heidel 9 - 2,2,Storage,2
+,,2nd Floor,,Lodging,1
+,,,,Siege Weapon Workshop,1
+,,,,Residence,1
+,,,,,
+,,Heidel 9 - 3,4,Storage,3
+,,,,Refinery,2
+,,,,Horse Gear Workshop,1
+,,,,Residence,1
+,,,,,
+,,Heidel 9 - 4,5,Storage,4
+,,,,Jeweler,3
+,,,,✩Refinery,3
+,,,,Wagon Part Workshop,3
+,,,,Residence,1
+,,,,,
+,,,,,
+,Glish,Glish No.1,1,Storage,1
+,,Room 1,,Lodging,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Glish No.1,2,Storage,2
+,,Room 2,,Lodging,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Glish No.1,2,Storage,3
+,,Room 3,,Lodging,2
+,,,,Tool Workshop,3
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Glish No.2,2,Storage,3
+,,,,Horse Ranch,4
+,,,,✩Ceramics Workshop,3
+,,,,Residence,1
+,,,,,
+,,Glish No.3,3,Storage,4
+,,,,Jeweler,3
+,,,,✩Tool Workshop,4
+,,,,✩Refinery,3
+,,,,Horse Gear Workshop,2
+,,,,Furniture Workshop,3
+,,,,Residence,1
+,,,,,
+,,Glish No.4,4,✩Storage,5
+,,,,✩Weapon Workshop,4
+,,,,✩Armor Workshop,5
+,,,,✩Handcraft Workshop,4
+,,,,✩Carpentry Workshop,4
+,,,,Residence,1
+,,,,,
+,,,,,
+,Costa Farm,Costa Farm 2 - 1,1,Storage,1
+,,1st Floor,,Crop Factory,1
+,,Heidel,,Residence,1
+,,,,,
+,,Costa Farm 2 - 1,2,Storage,2
+,,2nd Floor,,Lodging,1
+,,Heidel,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Costa Farm 2-2,2,Storage,2
+,,Heidel,,Furniture Workshop,2
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Costa Farm 2 - 3,3,Storage,3
+,,Heidel,,Carpentry Workshop,3
+,,,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,,,,
+,Moretti Plantation,Moretti Plantation No. 4,2,Storage,2
+,,Heidel,,Refinery,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,Alejandro Farm,Alejandro Farm,1,Storage,1
+,,1 - 1,,Refinery,1
+,,1st Floor,,Mushroom Factory,1
+,,Heidel,,Residence,1
+,,,,,
+,,Alejandro Farm,2,Storage,2
+,,1 - 1 2nd Floor,,Refinery,2
+,,Heidel,,Residence,1
+,,,,,
+,,Alejandro Farm,2,Storage,3
+,,1 - 2,,Handcraft Workshop,2
+,,Heidel,,Tool Workshop,2
+,,,,Residence,1
+,,,,,
+,,,,,
+,Lynch Ranch,Lynch Ranch No. 5,2,Storage,2
+,,,,Refinery,1
+,,,,Mushroom Factory,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,Northern Cienaga,Elda Farm No. 3,2,Storage,2
+,,Heidel,,Mushroom Factory,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,Southern Cienaga,Dernyl Farm,2,Storage,2
+,,Glish,,Refinery,1
+,,,,Wood Workbench,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Calpheon,Calpheon (North Gate),Calpheon No.1,3,Storage,3
+,,,,Lodging,3
+,,,,✩Horse Ranch,5
+,,,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,Calpheon No.2,3,Storage,3
+,,,,Lodging,2
+,,,,Horse Gear Workshop,1
+,,,,Residence,1
+,,,,,
+,,Calpheon No.3,2,Storage,2
+,,,,Lodging,2
+,,,,Tool Workshop,2
+,,,,Residence,1
+,,,,,
+,,Calpheon No.4,1,Storage,1
+,,1st Floor,,Lodging,1
+,,,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,Calpheon No.4,1,Storage,1
+,,2nd Floor,,Lodging,1
+,,,,Refinery,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,Calpheon (Slums),Calpheon 1 - 1,1,Storage,1
+,,1st Floor,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 1,1,Storage,1
+,,2nd Floor,,Fish Factory,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 2,1,Storage,1
+,,1st Floor,,Refinery,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 2,2,Storage,2
+,,2nd Floor,,Jeweler,1
+,,,,Furniture Workshop,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 3,1,Storage,1
+,,1st Floor,,Lodging,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 3,1,Storage,1
+,,2nd Floor,,Lodging,1
+,,,,Fish Factory,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 4,2,Storage,2
+,,1st Floor,,Lodging,1
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 4,2,Storage,2
+,,2nd Floor,,Carpentry Workshop,2
+,,,,Furniture Workshop,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 4,3,Storage,3
+,,3rd Floor,,Jeweler,1
+,,,,Furniture Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 5,2,Storage,2
+,,,,Handcraft Workshop,2
+,,,,Tool Workshop,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 1,1,Storage,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 2,3,Storage,2
+,,1st Floor,,Lodging,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 2,1,Storage,2
+,,2nd Floor,,Lodging,2
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 3,1,Storage,2
+,,2nd Floor,,Lodging,1
+,,,,Tool Workshop,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 3,1,Storage,2
+,,3rd Floor,,Lodging,2
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 4,1,Storage,2
+,,2nd Floor,,Jeweler,1
+,,,,Furniture Workshop,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 5,1,Storage,3
+,,1st Floor,,Armor Workshop,2
+,,,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 5,3,Storage,4
+,,2nd Floor,,Weapon Workshop,3
+,,,,Handcraft Workshop,3
+,,,,Carpentry Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 6,2,Storage,3
+,,1st Floor,,Tool Workshop,2
+,,,,Furniture Workshop,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 6,2,Storage,3
+,,2nd Floor,,Carpentry Workshop,3
+,,,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 7,2,Storage,3
+,,,,Handcraft Workshop,3
+,,,,Jeweler,2
+,,,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 1,1,Storage,1
+,,1st Floor,,Lodging,1
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 1,2,Storage,2
+,,2nd Floor,,Carpentry Workshop,1
+,,,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 2,2,Storage,1
+,,,,Refinery,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 3,2,Storage,2
+,,,,Jeweler,2
+,,,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 4,3,Storage,3
+,,,,Carpentry Workshop,3
+,,,,Costume Mill,1
+,,,,Old Moon Costume Mill,1
+,,,,Furniture Workshop,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 6,2,Storage,2
+,,,,Handcraft Workshop,2
+,,,,Furniture Workshop,2
+,,,,Residence,1
+,,,,,
+,Calpheon (East Gate),Calpheon No. 7,1,Storage,1
+,,,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Calpheon No. 8,1,Storage,1
+,,1st Floor,,Lodging,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Calpheon No. 8,2,Storage,2
+,,2nd Floor,,Carpentry Workshop,1
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Calpheon No. 9,2,Storage,2
+,,,,Horse Gear Workshop,1
+,,,,Furniture Workshop,2
+,,,,Residence,1
+,,,,,
+,Calpheon (Market Street),Calpheon 1 - 1 ,1,Storage,1
+,,2nd Floor,,Lodging,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 2,2,Storage,2
+,,1st Floor,,Armor Workshop,2
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 2,2,Storage,3
+,,2nd Floor,,Weapon Workshop,2
+,,,,Furniture Workshop,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 3,3,Storage,3
+,,2nd Floor,,Lodging,2
+,,,,Carpentry Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 4,5,✩Storage,5
+,,2nd Floor,,✩Handcraft Workshop,4
+,,,,✩Carpentry Workshop,4
+,,,,✩Refinery,3
+,,,,Furniture Workshop,4
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 5,1,Storage,1
+,,,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 6,1,Storage,1
+,,1st Floor,,Furniture Workshop,1
+,,,,Fish Factory,1
+,,,,Residence,1
+,,,,,
+,,Calpheon  1 - 6,2,Storage,2
+,,2nd Floor,,Tool Workshop,2
+,,,,Ship Part Workshop,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 7,3,Storage,2
+,,2nd Floor,,Jeweler,1
+,,,,Horse Gear Workshop,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 8,3,Storage,3
+,,1st Floor,,Furniture Workshop,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 8,1,Storage,2
+,,2nd Floor,,✩Horse Gear Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 8,2,Storage,3
+,,3rd Floor,,✩Refinery,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 1,1,Storage,1
+,,1st Floor,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 1,2,Storage,2
+,,2nd Floor,,Lodging,1
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 2,1,Storage,1
+,,2nd Floor,,Fish Factory,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 3,2,Storage,2
+,,1st Floor,,Refinery,1
+,,,,Wagon Part Workshop,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 3,4,Storage,3
+,,2nd Floor,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 4,4,Storage,4
+,,,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 1,1,Storage,1
+,,2nd Floor,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 2,1,Storage,1
+,,1st Floor,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 2,2,Storage,2
+,,2nd Floor,,Tool Workshop,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 2,4,Storage,3
+,,3rd Floor,,Residence,1
+,,,,,
+,,,,,
+,,Calpheon 3 - 3,2,Storage,2
+,,1st Floor,,Furniture Workshop,2
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 3,2,Storage,2
+,,2nd Floor,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 4,3,Storage,3
+,,,,Jeweler,2
+,,,,Wagon Part Workshop,2
+,,,,Furniture Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 5,2,Storage,3
+,,2nd Floor,,Residence,1
+,,,,,
+,,,,,
+,,Calpheon 3 - 6,2,Storage,3
+,,1st Floor,,Tool Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 6,5,Storage,3
+,,2nd Floor,,✩Weapon Workshop,4
+,,,,Armor Workshop,4
+,,,,✩Refinery,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 4 - 1,1,Storage,1
+,,,,Fish Factory,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 4 - 2,2,Storage,1
+,,1st Floor,,Refinery,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 4 - 2 ,5,Storage,3
+,,2nd Floor,,Residence,1
+,,,,,
+,,,,,
+,,Calpheon 4 - 3,1,Storage,1
+,,,,Tool Workshop,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 4 - 4,2,Storage,2
+,,1st Floor,,Handcraft Workshop,2
+,,,,Horse Gear Workshop,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 4 - 4,4,Storage,3
+,,2nd Floor,,Furniture Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 4 - 5,2,Storage,2
+,,1st Floor,,Carpentry Workshop,2
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 4 - 5,5,Storage,3
+,,2nd Floor,,Weapon Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 4 - 6 ,2,Storage,2
+,,,,Armor Workshop,2
+,,,,Horse Gear Workshop,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 4 - 7,3,Storage,2
+,,,,Csrpentry Workshop,3
+,,,,Jeweler,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 5 - 1,5,Storage,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 5 - 2,2,Storage,2
+,,,,Refinery,1
+,,,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 5 - 3,1,Storage,2
+,,1st Floor,,Jeweler,1
+,,,,Horse Gear Workshop,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 5 - 3,4,Storage,2
+,,2nd Floor,,Refinery,2
+,,,,Ship Part Workshop,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 5 - 4,2,Storage,2
+,,1st Floor,,Weapon Workshop,2
+,,,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 5 - 4,2,Storage,3
+,,2nd Floor,,Residence,1
+,,,,,
+,,,,,
+,,Calpheon 5 - 5,1,Storage,1
+,,1st Floor,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 5 - 5,2,Storage,2
+,,2nd Floor,,Lodging,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 5 - 6,2,Storage,2
+,,1st Floor,,Tool Workshop,1
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 5 - 6,5,Storage,2
+,,2nd Floor,,Furniture Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 5 - 7,2,Storage,2
+,,,,Armor Workshop,2
+,,,,Jeweler,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 6 - 1,1,Storage,1
+,,2nd Floor,,Fish Factory,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 6 - 2,1,Storage,1
+,,,,Refinery,1
+,,,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 6 - 3,2,Storage,2
+,,1st Floor,,Handcraft Workshop,1
+,,,,Carpentry Workshop,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 6 - 3,4,Storage,3
+,,2nd Floor,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 6 - 4,2,Storage,2
+,,,,Handcraft Workshop,2
+,,,,Tool Workshop,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 6 - 5,2,Storage,3
+,,1st Floor,,Residence,1
+,,,,,
+,,,,,
+,,Calpheon 6 - 5,3,Storage,4
+,,2nd Floor,,Horse Gear Workshop,2
+,,,,Furniture Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 7 - 1,2,Storage,3
+,,Room 1,,Tool Workshop,3
+,,,,Refinery,2
+,,,,✩Siege Weapon Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 7 - 1,3,Storage,4
+,,Room 2,,Residence,1
+,,,,,
+,,,,,
+,,Calpheon 7 - 2,4,Storage,3
+,,,,Carpentry Workshop,2
+,,,,Furniture Workshop,3
+,,,,Residence,1
+,,,,,
+,,,,,
+,,Calpheon 7 - 3,2,Storage,1
+,,1st Floor,,Lodging,1
+,,,,Mushroom Factory,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 7 - 3,1,Storage,1
+,,2nd Floor,,Refinery,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 7 - 4,1,Storage,2
+,,2nd Floor,,Lodging,1
+,,,,Fish Factory,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 7 - 5,5,Storage,3
+,,2nd Floor,,Jeweler,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 7 - 6,2,Storage,2
+,,1st Floor,,Lodging,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 7 - 6,2,Storage,3
+,,2nd Floor,,Lodging,3
+,,,,Costume Mill,1
+,,,,Old Moon Costume Mill,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 7 - 6,3,Storage,4
+,,3rd Floor,,Lodging,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 7 - 7,3,Storage,3
+,,1st Floor,,Residence,1
+,,,,,
+,,,,,
+,,Calpheon 7 - 7,5,✩Storage,5
+,,2nd Floor,,Shipyard,1
+,,,,Residence,1
+,,,,,
+,Calpheon (Workshop District),Calpheon 1 - 1,1,Storage,1
+,,Room 1,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 1,2,Storage,2
+,,Room 2,,Weapon Workshop,1
+,,,,Siege Weapon Workshop,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 2,1,Storage,1
+,,Underground,,Refinery,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 2,2,Storage,2
+,,1st Floor,,Jeweler,1
+,,,,Tool Workshop,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 3,2,Storage,2
+,,,,Horse Gear Workshop,1
+,,,,Furniture Workshop,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 4,3,Storage,3
+,,1st Floor,,Handcraft Workshop,2
+,,,,Tool Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 4,1,Storage,3
+,,2nd Floor,,Armor Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon  1 - 5,2,Storage,3
+,,1st Floor,,Carpentry Workshop,3
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 5,3,Storage,4
+,,2nd Floor,,Handcraft Workshop,3
+,,,,Jeweler,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 6,5,✩Storage,5
+,,1st Floor,,Wagon Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 1,1,Storage,1
+,,1st Floor,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 1,2,Storage,2
+,,2nd Floor,,Armor Workshop,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 2,1,Storage ,1
+,,1st Floor,,Refinery,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 2,2,Storage,2
+,,2nd Floor,,Carpentry Workshop,2
+,,,,Tool Workshop,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 3,2,Storage,2
+,,1st Floor,,Jeweler,1
+,,,,Tool Workshop,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 3,5,Storage,4
+,,2nd Floor,,✩Furniture Workshop,5
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 4,2,Storage,3
+,,2nd Floor,,Handcraft Workshop,2
+,,,,Tool Workshop,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 5,3,Storage,4
+,,1st Floor,,Weapon Workshop,3
+,,,,Armor Workshop,3
+,,,,✩Siege Weapon Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 5,5,✩Storage,5
+,,2nd Floor,,✩Horse Gear Workshop,3
+,,,,Residence,1
+,,,,,
+,Calpheon (Mechant Street),Calpheon 1 - 1,1,Storage,1
+,,Room 1,,Fish Factory,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 1,2,Storage,2
+,,Room 2,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 1,3,Storage,3
+,,Room 3,,Tool Workshop,3
+,,,,Ship Part Workshop,2
+,,,,Furniture Workshop,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 2,1,Storage,1
+,,,,Refinery,1
+,,,,Safe Asset Management Bank,1
+,,,,Residence,1
+,,,,,
+,Calpheon (Merchant Lane),Calpheon 2 - 1,2,Storage,2
+,,Room 1,,Tool Workshop,2
+,,,,Siege Weapon Workshop,2
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 1,2,Storage,3
+,,Room 2,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 2 ,1,Storage,1
+,,1st Floor,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 3,1,Storage,1
+,,2nd Floor,,Mushroom Factory,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 4,2,Storage,2
+,,1st Floor,,Carpentry Workshop,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 4,2,Storage,3
+,,2nd Floor,,Handcraft Workshop,2
+,,,,Carpentry Workshop,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 5,2,Storage,3
+,,Underground,,Jeweler,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 5,3,✩Storage,5
+,,1st Floor,,✩Costume Mill,2
+,,,,Old Moon Costume Mill,1
+,,,,Furniture Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 6,5,✩Storage,5
+,,,,Furniture Workshop,4
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 7,1,Storage,3
+,,1st Floor,,Refinery,2
+,,,,Furniture Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 7,2,Storage,3
+,,2nd Floor,,✩Refinery,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 7,2,Storage,4
+,,3rd Floor,,✩Horse Gear Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 8,2,Storage,3
+,,,,Handcraft Workshop,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 9,2,Storage,2
+,,1st Floor,,Weapon Workshop,1
+,,,,Furniture Workshop,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 9,5,Storage,4
+,,2nd Floor,,Residence,1
+,,,,,
+,,,,,
+,,Calpheon 3 - 1,5,✩Storage,5
+,,,,✩Horse Gear Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 2,3,Storage,3
+,,1st Floor,,Tool Workshop,2
+,,,,Horse Gear Workshop,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 2,3,Storage,4
+,,2nd Floor,,Carpentry Workshop,3
+,,,,Jeweler,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 3,2,Storage,2
+,,1st Floor,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 3,3,Storage,3
+,,2nd Floor,,Refinery,2
+,,,,Furniture Workshop,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 4,1,Storage,1
+,,1st Floor,,Fish Factory,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 4,2,Storage,2
+,,2nd Floor,,Residence,1
+,,,,,
+,,,,,
+,,Calpheon 3 - 5,1,Storage,1
+,,1st Floor,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 5,1,Storage,1
+,,2nd Floor,,Refinery,1
+,,,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 6,1,Storage,1
+,,1st Floor,,Tool Workshop,1
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 6,2,Storage,2
+,,2nd Floor,,Jeweler,1
+,,,,Horse Gear Workshop,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 7,2,Storage,2
+,,1st Floor,,Armor Workshop,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 7,4,Storage,3
+,,2nd Floor,,Handcraft Workshop,3
+,,,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 8,2,Storage,2
+,,,,Furniture Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 9,2,Storage,3
+,,1st Floor,,Jeweler,2
+,,,,Tool Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 9,5,✩Storage,5
+,,2nd Floor,,Furniture Workshop,4
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 10,5,Storage,4
+,,,,Weapon Workshop,3
+,,,,Armor Workshop,3
+,,,,✩Refinery,3
+,,,,Residence,1
+,,,,,
+,Calpheon (Chapel),Calpheon 1 - 1,1,Storage,1
+,,1st Floor,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 1,2,Storage,2
+,,2nd Floor,,Refinery,1
+,,,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 2,1,Storage,1
+,,,,Tool Workshop,1
+,,,,Fish Workshop,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 3,3,Storage,2
+,,1st Floor,,Wood Workbench,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 3,3,Storage,3
+,,2nd Floor,,Weapon Workshop,2
+,,,,Carpentry Workshop,2
+,,,,Wagon Part Workshop,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 4,1,Storage,2
+,,1st Floor,,Handcraft Workshop,2
+,,,,Horse Gear Workshop,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 4,2,Storage,3
+,,2nd Floor,,Carpentry Workshop,3
+,,,,Furniture Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 4,4,Storage,4
+,,3rd Floor,,Armor Workshop,3
+,,,,Jeweler,3
+,,,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 1,1,Storage,1
+,,1st Floor,,Fish Factory,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 1,2,Storage,2
+,,2nd Floor,,Weapon Workshop,1
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 2,2,Storage,2
+,,1st Floor,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 2,2,Storage,2
+,,2nd Floor,,Handcraft Workshop,2
+,,,,Jeweler,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 3,3,Storage,3
+,,1st Floor,,Tool Workshop,2
+,,,,Horse Gear Workshop,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 3,2,Storage,3
+,,2nd Floor,,Weapon Workshop,3
+,,,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 4,2,Storage,2
+,,,,Armor Workshop,2
+,,,,Carpentry Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 5,1,Storage,2
+,,1st Floor,,Lodging,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 5,2,Storage,3
+,,2nd Floor,,Lodging,3
+,,,,Costume Mill,1
+,,,,Old Moon Costume Mill,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 5,3,Storage,4
+,,3rd Floor,,Lodging,3
+,,,,Ship Part Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 1,1,Storage,1
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 2,2,Storage,2
+,,,,Carpentry Workshop,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 3,1,Storage,2
+,,,,Armor Workshop,2
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 4,3,Storage,3
+,,1st Floor,,Weapon Workshop,3
+,,,,Jeweler,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 4,4,Storage,4
+,,2nd Floor,,Handcraft Workshop,3
+,,,,Tool Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 5,2,Storage,3
+,,1st Floor,,Tool Workshop,3
+,,,,Furniture Workshop,4
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 5,2,Storage,4
+,,2nd Floor,,Weapon Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 6,4,Storage,4
+,,,,Armor Workshop,3
+,,,,✩Horse Gear Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 7,2,Storage,2
+,,1st Floor,,Weapon Workshop,2
+,,,,Jeweler,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 7,3,Storage,3
+,,2nd Floor,,Handcraft Workshop,3
+,,,,Carpentry Workshop,3
+,,,,Ship Part Workshop,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 8,1,Storage,2
+,,1st Floor,,Tool Workshop,2
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 8,2,Storage,3
+,,2nd Floor,,Horse Gear Workshop,2
+,,,,Furniture Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 9,2,Storage,2
+,,1st Floor,,Armor Workshop,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 9,3,Storage,2
+,,2nd Floor,,Handcraft Workshop,2
+,,,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 3 - 10,1,Storage,1
+,,2nd Floor,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 4 - 1,1,Storage,1
+,,1st Floor,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 4 - 1,2,Storage,2
+,,2nd Floor,,Carpentry Workshop,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 4 - 2,2,Storage,2
+,,1st Floor,,Tool Workshop,2
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 4 - 2,2,Storage,3
+,,2nd Floor,,Handcraft Workshop,2
+,,,,Jeweler,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 4 - 3,1,Storage,2
+,,,,Armor Workshop,2
+,,,,Furniture Workshop,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 4 - 4,3,Storage,3
+,,1st Floor,,Armor Workshop,2
+,,,,Horse Gear Workshop,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 4 - 5,1,Storage,3
+,,1st Floor,,Jeweler,2
+,,,,Furniture Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 4 - 5,3,Storage,4
+,,2nd Floor,,✩Refinery,3
+,,,,Horse Gear Workshop,2
+,,,,Wagon Part Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 4 - 6,5,Storage,4
+,,,,Weapon Workshop,3
+,,,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 4 - 7,5,✩Storage,5
+,,,,Armor Workshop,4
+,,,,Furniture Workshop,4
+,,,,Residence,1
+,,,,,
+,Calpheon East Gate,Calpheon No. 1,1,Storage,1
+,,1st Floor,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Calpheon No. 1,2,Storage,2
+,,2nd Floor,,Lodging,2
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Calpheon No. 2,1,Storage,1
+,,,,Fish Factory,1
+,,,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,Calpheon No. 3,1,Storage,2
+,,,,Tool Workshop,2
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon No. 4,2,Storage,2
+,,1st Floor,,Lodging,2
+,,,,Jeweler,1
+,,,,Residence,1
+,,,,,
+,,Calpheon No. 4,3,Storage,3
+,,2nd Floor,,Lodging,3
+,,,,Carpentry Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon No. 4,3,Storage,4
+,,3rd Floor,,Lodging,3
+,,,,Furniture Workshop,4
+,,,,Residence,1
+,,,,,
+,,Calpheon No. 5,2,Storage,2
+,,1st Floor,,Handcraft Workshop,2
+,,,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,Calpheon No. 5,4,Storage,3
+,,2nd Floor,,Tool Workshop,3
+,,,,Horse gear Workshop,2
+,,,,Residence,1
+,,,,,
+,,Calpheon No. 6,3,Storage,3
+,,1st Floor,,Refinery,2
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon No. 6,2,Storage,4
+,,2nd Floor,,Jeweler,1
+,,,,Horse Gear Workshop,2
+,,,,Residence,1
+,,,,,
+,Calpheon South Gate,Calpheon No. 1,2,Storage,2
+,,,,Lodging,2
+,,,,Residence,1
+,,,,,
+,,Calpheon No. 2,1,Storage,2
+,,1st Floor,,Lodging,2
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon No. 2,2,Storage,3
+,,2nd Floor,,Lodging,3
+,,,,Residence,1
+,,,,,
+,,Calpheon No. 3,1,Storage,1
+,,,,Refinery,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Calpheon No. 4,2,Storage,2
+,,1st Floor,,Lodging,2
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon No. 4,3,Storage,3
+,,2nd Floor,,Refinery,2
+,,,,Residence,1
+,,,,,
+,Calpheon (Noble Quarter),Calpheon 1 - 1,1,Storage,1
+,,,,Refinery ,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 2 ,1,Storage,1
+,,2nd Floor,,Refinery,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 3,2,Storage,2
+,,,,Tool Workshop,2
+,,,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 4,3,Storage,3
+,,1st Floor,,Handcraft Workshop,2
+,,,,Carpentry Workshop,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 4,5,Storage,3
+,,2nd Floor,,✩Armor Workshop,5
+,,,,✩Horse Gear Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 5,2,Storage,2
+,,1st Floor,,Armor Workshop,2
+,,,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 5,4,Storage,3
+,,2nd Floor,,Tool Workshop,3
+,,,,Furniture Workshop,4
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 6,3,Storage,3
+,,,,✩Costume Mill,2
+,,,,Old Moon Costume Mill,1
+,,,,Horse Gear Workshop,2
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 7,2,Storage,3
+,,1st Floor,,Refinery,2
+,,,,Furniture Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 7,3,Storage,4
+,,2nd Floor,,Weapon Workshop,3
+,,,,Jeweler,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 1 - 7,3,✩Storage,5
+,,3rd Floor,,✩Refinery,3
+,,,,Furniture Workshop,4
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 1,1,Storage,1
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 2,1,Storage,1
+,,1st Floor,,Refinery,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 2,3,Storage,1
+,,2nd Floor,,Jeweler,1
+,,,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 3,1,Storage,2
+,,1st Floor,,Tool Workshop,1
+,,,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 3,2,Storage,2
+,,2nd Floor,,Armor Workshop,2
+,,,,Carpentry Workshop,2
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 3,3,Storage,4
+,,3rd Floor,,Handcraft Workshop,3
+,,,,✩Siege Weapon Workshop,3
+,,,,Furniture Workshop,3
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 4,2,Storage,2
+,,1st Floor,,Refinery,1
+,,,,Wagon Part Workshop,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Calpheon 2 - 4,2,Storage,3
+,,2nd Floor,,Weapon Workshop,2
+,,,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,,,,
+,Keplan,Keplan 1 - 1,1,Storage,1
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Keplan 1 - 2,2,Storage,2
+,,1st Floor,,Lodging,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Keplan 1 - 2,3,Storage,3
+,,2nd Floor,,Jeweler,1
+,,,,Horse Gear Workshop,2
+,,,,Residence,1
+,,,,,
+,,Keplan 1 - 3,1,Storage,2
+,,1st Floor,,Lodging,1
+,,,,Tool Workshop,2
+,,,,Residence,1
+,,,,,
+,,Keplan 1 - 3,4,Storage,3
+,,2nd Floor,,Residence,1
+,,,,,
+,,Keplan 1 - 4,1,Storage,2
+,,1st Floor,,Lodging,1
+,,,,Refinery,2
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Keplan 1 - 4,3,Storage,3
+,,2nd Floor,,Residence,1
+,,,,,
+,,Keplan 1 - 5,3,Storage,3
+,,2nd Floor,,Jeweler,2
+,,,,Residence,1
+,,,,,
+,,Keplan 1 - 5,5,✩Storage,5
+,,3rd Floor,,✩Weapon Workshop,4
+,,,,✩Armor Workshop,5
+,,,,✩Refinery,3
+,,,,Residence,1
+,,,,,
+,,Keplan 2 - 1,1,Storage,1
+,,2nd Floor,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Keplan 2 - 2,2,Storage,2
+,,1st Floor,,Lodging,1
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Keplan 2 - 2,5,Storage,3
+,,2nd Floor,,Lodging,2
+,,,,Residence,1
+,,,,,
+,,Keplan 2 - 2,4,Storage,4
+,,3rd Floor,,✩Handcraft Workshop,4
+,,,,Jeweler,3
+,,,,Residence,1
+,,,,,
+,,Keplan 2 - 3,2,Storage,2
+,,1st Floor,,Wood workbench,1
+,,,,Residence,1
+,,,,,
+,,Keplan 2 - 3,3,Storage,3
+,,2nd Floor,,Residence,1
+,,,,,
+,,Keplan 2 - 3,4,✩Storage,5
+,,3rd Floor,,✩Carpentry Workshop,4
+,,,,✩Refinery,3
+,,,,Residence,1
+,,,,,
+,,Keplan 3 - 1,2,Storage,2
+,,,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Keplan 3 - 1,4,Storage,3
+,,Storage,,Lodging,2
+,,,,Residence,1
+,,,,,
+,,Keplan 3 - 2,1,Storage,2
+,,,,Refinery,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Keplan 3 - 3,1,Storage,2
+,,,,Mushroom Factory,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Keplan 3 - 3,4,Storage,4
+,,,,Horse Ranch,4
+,,,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,,,,
+,Epheria Port,Epheria Port 1 - 1,1,Storage,1
+,,1st Floor,,Lodging,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Epheria Port 1 - 1,2,Storage,2
+,,2nd Floor,,Lodging,1
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Epheria Port 1 - 2,2,Storage,2
+,,1st Floor,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Epheria Port 1 - 2,2,Storage,2
+,,2nd Floor,,Lodging,1
+,,,,Carpentry Workshop,2
+,,,,Residence,1
+,,,,,
+,,Epheria Port 1 - 2,3,Storage,1
+,,3rd Floor,,Refinery,2
+,,,,Furniture Workshop,3
+,,,,Residence,1
+,,,,,
+,,Epheria Port 1 - 3,4,Storage,3
+,,,,Tool Workshop,3
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Epheria Port 1 - 4,2,Storage,4
+,,1st Floor,,Lodging,3
+,,,,Residence,1
+,,,,,
+,,Epheria Port 1 - 4,3,✩Storage,5
+,,2nd Floor,,Lodging,3
+,,,,Jeweler,3
+,,,,✩Ship Part Workshop,4
+,,,,Residence,1
+,,,,,
+,,Epheria Port 2 - 1,1,Storage,1
+,,Room 1,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Epheria Port 2 - 1,1,Storage,1
+,,Room 2,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Epheria Port 2 - 1,2,Storage,2
+,,1st Floor,,Mushroom Factory,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Epheria Port 2 - 2,1,Storage,2
+,,1st Floor,,Tool Workshop,2
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Epheria Port 2 - 2,4,Storage,3
+,,2nd Floor,,Residence,1
+,,,,,
+,,Epheria Port 2 - 3,2,Storage,2
+,,1st Floor,,Jeweler,2
+,,,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,Epheria Port 2 - 3,1,Storage,3
+,,2nd Floor,,Lodging,2
+,,,,Residence,1
+,,,,,
+,,Epheria Port 2 - 4,1,Storage,2
+,,1st Floor,,Furniture Workshop,2
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Epheria Port 2 - 4,2,Storage,1
+,,2nd Floor,,Handcraft Workshop,3
+,,,,Residence,1
+,,,,,
+,,Epheria Port 2 - 5,5,✩Storage,5
+,,,,Lodging,3
+,,,,✩Refinery,3
+,,,,Residence,1
+,,,,,
+,,Epheria Port 3 - 1,1,Storage,1
+,,1st Floor,,Fish Factory,1
+,,,,Residence,1
+,,,,,
+,,Epheria Port 3 - 1,2,Storage,2
+,,2nd Floor,,Lodging,1
+,,,,Fish Factory,1
+,,,,Residence,1
+,,,,,
+,,Epheria Port 3 - 1,2,Storage,2
+,,3rd Floor,,Lodging,2
+,,,,Refinery,1
+,,,,Fish Factory,1
+,,,,Residence,1
+,,,,,
+,,Epheria Port 3 - 2,2,Storage,2
+,,1st Floor,,Refinery,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Epheria Port 3 - 2,2,Storage,1
+,,2nd Floor,,Lodging,1
+,,,,Furniture Workshop,2
+,,,,Residence,1
+,,,,,
+,,Epheria Port 3 - 3,1,Storage,2
+,,1st Floor,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Epheria Port 3 - 3,1,Storage,2
+,,2nd Floor,,Lodging,1
+,,,,Weapon Workshop,2
+,,,,Residence,1
+,,,,,
+,,Epheria Port 3 - 4,3,Storage,3
+,,1st Floor,,Tool Workshop,3
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Epheria Port 3 - 4,2,Storage,1
+,,2nd Floor,,Horse Gear Workshop,2
+,,,,Residence,1
+,,,,,
+,,Epheria Port 3 - 5,2,Storage,4
+,,1st Floor,,Carpentry Workshop,3
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Epheria Port 3 - 5,3,✩Storage,5
+,,2nd Floor,,Lodging,3
+,,,,✩Shipyard,3
+,,,,Residence,1
+,,,,,
+,,,,,
+,Behr,Behr No. 1,2,Storage,2
+,,,,Lodging,1
+,,,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,Behr No. 2,1,Storage,2
+,,,,Lodging,1
+,,,,Refinery,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Behr No. 3,2,Storage,2
+,,,,Carpentry Workshop,2
+,,,,Residence,1
+,,,,,
+,,Behr No. 4,2,Storage,3
+,,,,Tool Workshop,3
+,,,,Refinery,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Behr No. 5,3,Storage,4
+,,,,Weapon Workshop,3
+,,,,Handcraft Workshop,3
+,,,,Carpentry Workshop,3
+,,,,Residence,1
+,,,,,
+,,Behr No. 6,3,✩Storage,5
+,,,,✩Refinery,3
+,,,,Wagon Workshop,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,Trent,Trent No. 1,1,Storage,1
+,,,,Fish Factory,1
+,,,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,Trent No. 2,2,Storage,2
+,,,,Lodging,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Trent No. 3,3,Storage,2
+,,,,Lodging,1
+,,,,Refinery,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Trent No. 4,4,Storage,3
+,,,,Carpentry Workshop,3
+,,,,Horse Gear Workshop,2
+,,,,Residence,1
+,,,,,
+,,Trent No. 5,4,Storage,3
+,,,,Lodging,2
+,,,,Horse Ranch,4
+,,,,Tool Workshop,3
+,,,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,Trent No. 6,5,✩Storage,5
+,,,,✩Refinery,3
+,,,,Residence,1
+,,,,,
+,,,,,
+,Northern Wheat Plantation,No. 1,2,Storage,2
+,,,,Lodging,1
+,,,,Fish Factory,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,No. 2,1,Storage,2
+,,,,Refinery,1
+,,,,Mushroom Factory,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,Florin,Florin No.1,1,Storage,1
+,,Room 1,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Florin No.1,1,Storage,1
+,,Room 2,,Lodging,1
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Florin No.1,2,Storage,2
+,,Room 3,,Lodging,2
+,,,,Residence,1
+,,,,,
+,,Florin 1 - 2,2,Storage,1
+,,,,Tool Workshop,2
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Florin 1 - 3,4,Storage,3
+,,,,Jeweler,2
+,,,,Florin Workshop,3
+,,,,Furniture Workshop,3
+,,,,Residence,1
+,,,,,
+,,Florin 2 - 1,1,Storage,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Florin 2 - 2,1,Storage,1
+,,,,Mushroom Factory,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Florin 2 - 3,2,Storage,2
+,,,,Lodging,1
+,,,,Furniture Workshop,2
+,,,,Residence,1
+,,,,,
+,,Florin 2 - 4,3,Storage,3
+,,,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,,,,
+,Delphe Knights Castle,No. 1,1,Storage,2
+,,1st Floor,,Residence,1
+,,,,,
+,,No. 1 ,2,Storage,3
+,,2nd Floor,,Residence,1
+,,,,,
+,,,,,
+,Dias Farm,Dias Farm No. 1,1,Storage,1
+,,,,Crop Factory,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Dias Farm No. 2,1,Storage,2
+,,1st Floor,,Mushroom Factory,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Dias Farm No. 2,2,Storage,2
+,,2nd Floor,,Refinery,1
+,,,,Horse Gear Workshop,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,Falres Dirt Farm,Falres Dirt Farm No. 1,2,Storage,2
+,,,,Lodging,2
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,Gabino Farm,Gabino Farm No. 1,1,Storage,2
+,,1st Floor,,Lodging,1
+,,,,Resistence,1
+,,,,,
+,,Gabino Farm No. 1,2,Storage,2
+,,2nd Floor,,Lodging,2
+,,,,Residence,1
+,,,,,
+,,Gabino Farm No. 2,1,Storage,1
+,,2nd Floor,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,Gabino Farm No. 3,1,Storage,1
+,,1st Floor,,Refinery,1
+,,,,Fish Factory,1
+,,,,Residence,1
+,,,,,
+,,Gabino Farm No. 3,2,Storage,2
+,,2nd Floor,,Refinery,2
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Gabino Farm No. 4,2,Storage,2
+,,1st Floor,,Refinery,2
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Gabino Farm No. 4,3,Storage,3
+,,2nd Floor,,✩Lodging,5
+,,,,Refinery,3
+,,,,Residence,1
+,,,,,
+,,Gabino Farm No. 5,1,Storage,2
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Gabino Farm No. 6,2,Storage,2
+,,1st Floor,,Tool Workshop,2
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Gabino Farm No. 6,2,Storage,3
+,,2nd Floor,,Refinery,2
+,,,,Furniture Workshop,2
+,,,,Residence,1
+,,,,,
+,,Gabino Farm No. 7,4,Storage,4
+,,,,Jeweler,2
+,,,,Residence,1
+,,,,,
+,,,,,
+,Longleaf Tree Sentry Post,Longleaf Tree Sentry Post ,3,Storage,2
+,,1st Floor,,Lodging,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Longleaf Tree Sentry Post ,3,Storage,3
+,,2nd Floor,,Lodging,2
+,,,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,,,,
+,Bain Farmland,Bain Farmland No. 1,3,Storage,2
+,,,,Lodging,1
+,,,,Refinery,1
+,,,,Fish Factory,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,Gianin Farm,Gianin Farm No.1,3,Storage,2
+,,,,Lodging,1
+,,,,Refinery,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Mediah,Altinova,Altinova 1 - 1,2,Storage,1
+,,1st Floor,,Tool Workshop,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Altinova 1 - 1,2,Storage,2
+,,2nd Floor,,Furniture Workshop,1
+,,,,Residence,1
+,,,,,
+,,Altinova 1 - 2,4,Storage,3
+,,,,Armor Workshop,2
+,,,,Horse Gear Workshop,1
+,,,,Residence,1
+,,,,,
+,,Altinova 2 - 1,1,Storage,1
+,,1st Floor,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,Altinova 2 - 1,4,Storage,3
+,,2nd Floor,,Refinery,2
+,,,,Wagon Part Workshop,1
+,,,,Residence,1
+,,,,,
+,,Altinova 2 - 2,3,Storage,3
+,,,,Jeweler,1
+,,,,Residence,1
+,,,,,
+,,Altinova 2 - 3,5,Storage,4
+,,,,Tool Workshop,3
+,,,,Costume Mill,1
+,,,,Old Moon Costume Mill,1
+,,,,Horse Gear Workshop,3
+,,,,Residence,1
+,,,,,
+,,Altinova 3 - 1,2,Storage,1
+,,,,Tool Workshop,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Altinova 3 - 2,2,Storage,2
+,,,,Handcraft Workshop,1
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Altinova 3 - 3,3,Storage,3
+,,,,Weapon Workshop,2
+,,,,Carpentry Workshop,3
+,,,,Residence,1
+,,,,,
+,,Altinova 3 - 4,3,Storage,3
+,,,,Armor Workshop,4
+,,,,Residence,1
+,,,,,
+,,Altinova 3 - 5,4,✩Storage,5
+,,,,Ship Part Workshop,3
+,,,,Furniture Workshop,4
+,,,,Residence,1
+,,,,,
+,,Altinova 4 - 1,1,Storage,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Altinova 4 - 2,3,Storage,2
+,,,,Horse Gear Workshop,1
+,,,,Residence,1
+,,,,,
+,,Altinova 4 - 3,2,Storage,2
+,,,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,Altinova 4 - 4,2,Storage,3
+,,,,Furniture Workshop,3
+,,,,Residence,1
+,,,,,
+,,Altinova 4 - 5,3,✩Storage,5
+,,,,✩Jeweler,5
+,,,,Ship Part Workshop,3
+,,,,Residence,1
+,,,,,
+,,Altinova 5 - 1,2,Storage,2
+,,,,Carpentry Workshop,2
+,,,,Residence,1
+,,,,,
+,,Altinova 5 - 2,3,Storage,2
+,,,,Jeweler,3
+,,,,Siege Weapon Workshop,2
+,,,,Residence,1
+,,,,,
+,,Altinova 5 - 3,5,Storage,4
+,,,,✩Carpentry Workshop,4
+,,,,Residence,1
+,,,,,
+,,Altinova 5 - 4,1,Storage,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Altinova 5 - 5,3,Storage,2
+,,,,Tool Workshop,2
+,,,,Residence,1
+,,,,,
+,,Altinova 5 - 6,2,Storage,2
+,,,,Weapon Workshop,2
+,,,,Handcraft Workshop,3
+,,,,Residence,1
+,,,,,
+,,Altinova 5 - 7,2,Storage,3
+,,,,Refinery,2
+,,,,✩Siege Weapon Workshop,3
+,,,,Residence,1
+,,,,,
+,,Altinova 5 - 8,3,✩Storage,5
+,,,,✩Armor Workshop,5
+,,,,✩Refinery,3
+,,,,Wagon Workshop,3
+,,,,✩Manos Jeweler,3
+,,,,Residence,1
+,,,,,
+,,Altinova 6 - 1,1,Storage,1
+,,,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Altinova 6 - 2,2,Storage,2
+,,,,Lodging,2
+,,,,Armor Workshop,1
+,,,,Residence,1
+,,,,,
+,,Altinova 6 - 3,1,Storage,1
+,,1st Floor,,Lodging,2
+,,,,Tool Workshop,2
+,,,,Residence,1
+,,,,,
+,,Altinova 6 - 3,4,Storage,4
+,,2nd Floor,,✩Handcraft Workshop,4
+,,,,Residence,1
+,,,,,
+,,Altinova 6 - 4,3,Storage,3
+,,,,Lodging,3
+,,,,Handcraft Workshop,3
+,,,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,Altinova 6 - 5,2,Storage,3
+,,,,Jeweler,4
+,,,,Costume Mill,1
+,,,,Old Moon Costume Mill,1
+,,,,✩Siege Weapon Workshop,3
+,,,,Residence,1
+,,,,,
+,,Altinova 6 - 6,4,✩Storage,5
+,,,,Residence,1
+,,,,,
+,,Altinova 7 - 1,5,✩Storage,5
+,,,,✩Refinery,3
+,,,,Shipyard,2
+,,,,Risk Asset Management Bank,1
+,,,,Residence,1
+,,,,,
+,,Altinova 7 - 2,3,Storage,3
+,,,,Jeweler,3
+,,,,Tool Workshop,3
+,,,,Residence,1
+,,,,,
+,,Altinova 7 - 3,3,Storage,2
+,,,,Armor Workshop,2
+,,,,Carpentry Workshop,1
+,,,,Residence,1
+,,,,,
+,,Altinova 7 - 4,2,Storage,1
+,,,,Fish Factory,1
+,,,,Residence,1
+,,,,,
+,,Altinova 8 - 1,2,Storage,1
+,,,,Refinery,1
+,,,,Fish Factory,1
+,,,,Residence,1
+,,,,,
+,,Altinova 8 - 2,2,Storage,2
+,,,,Ship Part Workshop,1
+,,,,Furniture Workshop,2
+,,,,Residence,1
+,,,,,
+,,Altinova 8 - 3,4,Storage,3
+,,,,Horse Gear Workshop,2
+,,,,Residence,1
+,,,,,
+,,Altinova 8 - 4,5,✩Storage,5
+,,,,✩Armor Workshop,5
+,,,,Wagon Part Workshop,3
+,,,,Residence,1
+,,,,,
+,,Altinova No.9,5,Storage,4
+,,,,Horse Ranch,4
+,,,,Siege Weapon Workshop,2
+,,,,Residence,1
+,,,,,
+,,Altinova 10 - 1,2,Storage,1
+,,,,Lodging,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Altinova 10 - 2,3,Storage,2
+,,,,Lodging,2
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Altinova 10 - 3,2,Storage,3
+,,,,Carpentry Workshop,2
+,,,,Residence,1
+,,,,,
+,,Altinova 10 - 4,5,Storage,4
+,,,,✩Weapon Workshop,4
+,,,,Furniture Workshop,4
+,,,,Residence,1
+,,,,,
+,,,,,
+,Tarif,Tarif 1 - 1,1,Storage,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Tarif 1 - 2,1,Storage,1
+,,,,Wood Workbench,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Tarif 1 - 3,2,Storage,2
+,,,,Tool Workshop,2
+,,,,Horse Gear Workshop,1
+,,,,Furniture Workshop,1
+,,,,Residence,1
+,,,,,
+,,Tarif 1 - 4,3,Storage,3
+,,,,Refinery,3
+,,,,Shipyard,1
+,,,,Residence,1
+,,,,,
+,,Tarif 2 - 1,1,Storage,1
+,,Room 1,,Fish Factory,1
+,,,,Residence,1
+,,,,,
+,,Tarif 2 - 1,1,Storage,1
+,,Room 2,,Tool Workshop,1
+,,,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,Tarif 2 - 2,1,Storage,1
+,,1st Floor,,Carpentry Workshop,1
+,,,,Jeweler,1
+,,,,Old Moon Workshop,1
+,,,,Residence,1
+,,,,,
+,,Tarif 2- 2,2,Storage,2
+,,2nd Floor,,Lodging,2
+,,,,Furniture Workshop,2
+,,,,Residence,1
+,,,,,
+,,Tarif 2 - 3,3,Storage,3
+,,,,Refinery,2
+,,,,Tarif Workshop,3
+,,,,Residence,1
+,,,,,
+,,,,,
+,Kasula Farm,Kasula Farm No.1,1,Storage,1
+,,,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,Kasula Farm No.2,2,Storage,2
+,,,,Handcraft Workshop,1
+,,,,Tool Workshop,1
+,,,,Residence,1
+,,,,,
+,,Kasula Farm No.3,1,Storage,1
+,,,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,Kasula Farm No.4,1,Storage,1
+,,,,Carpentry Workshop,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,Splashing Point,Splashing Point 1 - 1,1,Storage,1
+,,,,Fish Factory,1
+,,,,Residence,1
+,,,,,
+,,Splashing Point 1 - 2,1,Storage,1
+,,,,Tool Workshop,1
+,,,,Furniture Workshop,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Splashing Point 2 - 1,1,Storage,1
+,,,,Fish Factory,1
+,,,,Residence,1
+,,,,,
+,,Splashing Point 2 - 2,1,Storage,1
+,,,,Refinery,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Splashing Point 2 - 3,1,Storage,2
+,,,,Handcraft Workshop,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,Abun,Abun 1 - 1,1,Storage,1
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Abun 1 - 2,1,Storage,1
+,,,,Lodging,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Abun 1 - 3,2,Storage,2
+,,,,Lodging,2
+,,,,Tool Workshop,1
+,,,,Residence,1
+,,,,,
+,,Abun 2 - 1,1,Storage,1
+,,,,Fish Factory,1
+,,,,Residence,1
+,,,,,
+,,Abun 2 - 2,1,Storage,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,Stonetail Horse Ranch,No.1,1,Storage,1
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,No.2,1,Storage,1
+,,,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,No.3,2,Storage,2
+,,,,Lodging,2
+,,,,Refinery,1
+,,,,Horse Gear Workshop,2
+,,,,Residence,1
+,,,,,
+,,,,,
+,Kusha,Kusha 1 - 1,1,Storage,1
+,,,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Kusha 1 - 2,1,Storage,1
+,,,,Refinery,1
+,,,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,Kusha 1 - 3,2,Storage,2
+,,,,Jeweler,1
+,,,,Tool Workshop,2
+,,,,Residence,1
+,,,,,
+,,Kusha No.2,2,Storage,2
+,,,,Refinery,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,Shuri Farm,Shuri No.1,1,Storage,1
+,,,,Lodging,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Shuri No.2,1,Storage,2
+,,,,Lodging,2
+,,,,Tool Workshop,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Valencia,Valencia,Valencia,1,Storage,1
+,,Lv. 1 No 1-1,,Lodging,1
+,,,,Tool Workshop,1
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,2
+,,Lv. 2 No. 1-1,,Lodging,2
+,,,,Armor Workshop,1
+,,,,Residence,1
+,,,,,
+,,Valencia,3,Storage,2
+,,No. 1-2,,Lodging,3
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,3
+,,Lv. 1 No. 1-3,,Lodging,2
+,,,,Handcraft Workshop,3
+,,,,Residence,1
+,,,,,
+,,Valencia,3,Storage,4
+,,Lv. 2 No. 1-3,,Jeweler,2
+,,,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,2
+,,Lv.1 No.1-4,,Carpentry Workshop,3
+,,,,Residence,1
+,,,,,
+,,Valencia,4,✩Storage,5
+,,Lv. 2 No. 1-4,,✩Weapon Workshop,4
+,,,,Residence,1
+,,,,,
+,,Valencia,1,Storage,1
+,,No. 2-1,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Valencia,1,Storage,1
+,,Lv.1 No. 2-2,,Lodging,1
+,,,,Weapon Workshop,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,2
+,,Lv.2 No. 2-2,,Lodging,2
+,,,,Fish Factory,1
+,,,,Residence,1
+,,,,,
+,,Valencia,3,Storage,4
+,,No. 2-3,,Jeweler,1
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,2
+,,Lv.1 No. 2-4,,Tool Workshop,3
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,3
+,,Lv.2 No. 2-4,,Wagon Part Workshop,3
+,,,,Residence,1
+,,,,,
+,,Valencia,3,Storage,3
+,,Room 1 No. 2-5,,Residence,1
+,,,,,
+,,Valencia,3,Storage,4
+,,Room 2 No. 2-5,,Handcraft Workshop,4
+,,,,Residence,1
+,,,,,
+,,Valencia,4,✩Storage,5
+,,No. 2-6,,Refinery,3
+,,,,✩Manos Jeweler,3
+,,,,Residence,1
+,,,,,
+,,Valencia,1,Storage,1
+,,No. 3-1,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Valencia,1,Storage,2
+,,Lv.1 No. 3-2,,Lodging,1
+,,,,Weapon Workshop,1
+,,,,Mineral Workshop,1
+,,,,Residence,1
+,,,,,
+,,Valencia,3,Storage,3
+,,Lv.2 No. 3-2,,Residence,1
+,,,,,
+,,Valencia,2,Storage,2
+,,No. 3-3,,Handcraft Workshop,2
+,,,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,Valencia,3,Storage,3
+,,No. 3-4,,Jeweler,2
+,,,,Tool Workshop,3
+,,,,Furniture Workshop,3
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,3
+,,No. 3-5,,Armor Workshop,2
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,4
+,,Lv.1 No. 3-6,,✩Carpentry Workshop,4
+,,,,Residence,1
+,,,,,
+,,Valencia,3,Storage,4
+,,Lv.2 No. 3-6,,Refinery,3
+,,,,Residence,1
+,,,,,
+,,Valencia,1,Storage,1
+,,Lv.1 No. 4-1,,Lodging,1
+,,,,Tool Workshop,1
+,,,,Residence,1
+,,,,,
+,,Valencia,3,Storage,2
+,,Lv.2 No. 4-1,,Jeweler,1
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,3
+,,Lv.1 No. 4-2,,Weapon Workshop,1
+,,Room 1,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Valencia,4,Storage,4
+,,Lv.1 No. 4-2,,Handcraft Workshop,3
+,,Room 2,,Residence,1
+,,,,,
+,,Valencia,5,✩Storage,5
+,,Lv.2 No. 4-2,,Carpentry Workshop,3
+,,,,Residence,1
+,,,,,
+,,Valencia,1,Storage,1
+,,Lv.1 No 5-1,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,3
+,,Lv.2 No 5-1,,Residence,1
+,,,,,
+,,Valencia,2,Storage,2
+,,Lv.1 No 5-2,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Valencia,3,Storage,4
+,,Lv.2 No 5-2,,Handcraft Workshop,2
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,2
+,,Lv.1 No 5-3,,Weapon Workshop,2
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Valencia,3,Storage,3
+,,Lv.2 No. 5-3,,Tool Workshop,3
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,3
+,,Lv.1 No 5-4,,Refinery,2
+,,,,Residence,1
+,,,,,
+,,Valencia,3,Storage,4
+,,Lv.2 No. 5-4,,✩Carpentry Workshop,4
+,,,,Residence,1
+,,,,,
+,,Valencia,1,Storage,2
+,,Lv.1 No. 6-1,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Valencia,3,Storage,3
+,,Lv.2 No. 6-1,,Handcraft Workshop,2
+,,,,Jeweler,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,2
+,,Lv.1 No. 6-2,,Carpentry Workshop,1
+,,Room 1,,Tool Workshop,2
+,,,,Residence,1
+,,,,,
+,,Valencia,3,Storage,4
+,,Lv.1 No. 6-2,,Weapon Workshop,2
+,,Room 2,,Residence,1
+,,,,,
+,,Valencia,5,✩Storage,5
+,,lv.2 No. 6-2,,Refinery,2
+,,Room 3,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,Valencia,1,Storage,1
+,,Lv.1 No. 7-1,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,3
+,,Lv.2 No. 7-1,,Carpentry Workshop,1
+,,,,Wagon Part Workshop,1
+,,,,Residence,1
+,,,,,
+,,Valencia,3,Storage,4
+,,Lv.3 No. 7-1,,Weapon Workshop,2
+,,,,Residence,1
+,,,,,
+,,Valencia,3,Storage,3
+,,Lv.1 No. 7-2,,Handcraft Workshop,2
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Valencia,4,✩Storage,5
+,,Lv.2 No. 7-2,,Refinery,2
+,,,,Fish Factory,1
+,,,,Residence,1
+,,,,,
+,,Valencia,1,Storage,1
+,,No. 8-1,,Lodging,1
+,,,,Tool Workshop,1
+,,,,Residence,1
+,,,,,
+,,Valencia,1,Storage,2
+,,Lv.1 No. 8-2,,Lodging,1
+,,,,Carpentry Workshop,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,3
+,,Lv.2 No. 8-2,,Fish Factory,1
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,2
+,,Lv.1 No. 8-3,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Valencia,3,Storage,3
+,,Lv.2 No. 8-3,,Residence,1
+,,,,,
+,,Valencia,2,Storage,2
+,,Lv.1 No. 8-4,,Armor Workshop,3
+,,,,Wagon Part Workshop,2
+,,,,Residence,1
+,,,,,
+,,Valencia,3,Storage,4
+,,Lv.2 No. 8-4,,Residence,1
+,,,,,
+,,Valencia,3,Storage,4
+,,Lv.1 No. 8-5,,✩Handcraft Workshop,4
+,,,,Residence,1
+,,,,,
+,,Valencia,4,✩Storage,5
+,,Lv.2 No. 8-5,,✩Weapon Workshop,4
+,,,,Residence,1
+,,,,,
+,,Valencia,1,Storage,1
+,,No. 9-1,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,2
+,,No. 9-2,,Handcraft Workshop,1
+,,,,Jeweler,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,2
+,,No. 9-3,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,3
+,,Lv.1 No. 9-4,,Carpentry Workshop,3
+,,,,Residence,1
+,,,,,
+,,Valencia,3,Storage,4
+,,Lv.2 No. 9-4,,✩Tool Workshop,4
+,,,,Residence,1
+,,,,,
+,,Valencia,3,Storage,3
+,,Lv.1 No. 9-5,,Weapon Workshop,3
+,,,,Residence,1
+,,,,,
+,,Valencia,4,✩Storage,5
+,,Lv.2 No. 9-5,,Refinery,3
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,2
+,,Lv.1 No. 10-1,,Crop Factory,1
+,,Room 1,,Residence,1
+,,,,,
+,,Valencia,3,Storage,3
+,,Lv.1 No. 10-1,,Tool Workshop,2
+,,Room 2,,Residence,1
+,,,,,
+,,Valencia,4,✩Storage,5
+,,Lv.2 No. 10-1,,Handcraft Workshop,1
+,,,,Jeweler,2
+,,,,Residence,1
+,,,,,
+,,Valencia,5,✩Storage,5
+,,No. 10-2,,Weapon Workshop,3
+,,,,Carpentry Workshop,2
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Valencia,1,Storage,1
+,,No. 11-1,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Valencia,1,Storage,2
+,,Lv.1 No. 11-2,,Lodging,1
+,,,,Handcraft Workshop,1
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,3
+,,Lv.2 no. 11-2,,Fish Factory,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,2
+,,No. 11-3,,Carpentry Workshop,2
+,,,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,2
+,,Lv.1 No. 11-4,,Residence,1
+,,,,,
+,,Valencia,3,Storage,4
+,,Lv.2 No. 11-4,,✩Tool Workshop,4
+,,,,Residence,1
+,,,,,
+,,Valencia,3,Storage,3
+,,Lv.1 No. 11-5,,Jeweler,4
+,,,,Residence,1
+,,,,,
+,,Valencia,4,✩Storage,5
+,,Lv. 2 No. 11-5,,✩Armor Workshop,5
+,,,,Residence,1
+,,,,,
+,,Valencia,1,Storage,1
+,,Lv.1 No. 12-1,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Valencia,3,Storage,3
+,,Lv.2 No. 12-1,,Jeweler,2
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,2
+,,Lv.1 No. 12-2,,Armor Workshop,1
+,,,,Carpentry Workshop,1
+,,,,Mineral Workshop,1
+,,,,Residence,1
+,,,,,
+,,Valencia,3,Storage,4
+,,Lv.2 No. 12-2,,Tool Workshop,3
+,,,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,Valencia,5,✩Storage,5
+,,No. 12-3,,Residence,1
+,,,,,
+,,Valencia,1,Storage,1
+,,Lv.1 No. 13-1,,Lodging,1
+,,,,Tool Workshop,1
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,2
+,,Lv.2 No. 13-1,,Refinery,1
+,,,,Residence,1
+,,,,,
+,,Valencia,1,Storage,1
+,,Lv.1 No. 13-2,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,3
+,,Lv.2 No. 13-2,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Valencia,3,Storage,3
+,,No. 13-3,,Carpentry Workshop,2
+,,,,Residence,1
+,,,,,
+,,Valencia,3,Storage,4
+,,Lv.1 No. 13-4,,Armor Workshop,3
+,,,,Residence,1
+,,,,,
+,,Valencia,4,✩Storage,5
+,,Lv.2 No. 13-4,,✩Jeweler,5
+,,,,Residence,1
+,,,,,
+,,Valencia,1,Storage,1
+,,Lv.1 No. 14-1,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,2
+,,Lv.2 No. 14-1,,Fish Factory,1
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,2
+,,Lv.1 No. 14-2,,Refinery,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Valencia,3,Storage,4
+,,Lv.2 No. 14-2,,Wagon Part Workshop,2
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,2
+,,Lv.1 No. 14-3,,Residence,1
+,,,,,
+,,Valencia,3,Storage,4
+,,Lv.2 No. 14-3,,Jeweler,3
+,,,,Residence,1
+,,,,,
+,,Valencia,5,✩Storage,5
+,,No. 14-4,,Armor Workshop,4
+,,,,Residence,1
+,,,,,
+,,Valencia,1,Storage,1
+,,Lv.1 No. 15-1,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,2
+,,Lv.2 No. 15-1,,Lodging,2
+,,,,Residence,1
+,,,,,
+,,Valencia,1,Storage,1
+,,Lv.1 No. 15-2,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,3
+,,Lv.2 No. 15-2,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,2
+,,Lv.1 No. 15-3,,Residence,1
+,,,,,
+,,Valencia,4,Storage,4
+,,Lv.2 No. 15-3,,Residence,1
+,,,,,
+,,Valencia,2,Storage,3
+,,No. 15-4,,Armor Workshop,3
+,,,,Residence,1
+,,,,,
+,,Valencia,3,Storage,3
+,,Lv.1 No. 15-5,,Jeweler,4
+,,,,Residence,1
+,,,,,
+,,Valencia,4,Storage,4
+,,Lv.2 No. 15-5,,Refinery,3
+,,,,✩Furniture Workshop,5
+,,,,Residence,1
+,,,,,
+,,Valencia,1,Storage,1
+,,No. 16-1,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,2
+,,Lv.1 No. 16-2,,Armor Workshop,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Valencia,4,✩Storage,5
+,,Lv.2 No. 16-2,,Refinery,2
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Valencia,3,Storage,3
+,,Lv.1 No. 16-3,,Wagon Workshop,3
+,,,,Residence,1
+,,,,,
+,,Valencia,5,✩Storage,5
+,,Lv.2 No. 16-3,,Jeweler,4
+,,,,Residence,1
+,,,,,
+,,Valencia,1,Storage,1
+,,No. 17-1,,Lodging,1
+,,,,Tool Workshop,1
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,2
+,,No. 17-2,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,3
+,,No. 17-3,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Valencia,3,Storage,3
+,,Lv.1 No. 17-4,,Jeweler,3
+,,,,Residence,1
+,,,,,
+,,Valencia,5,✩Storage,5
+,,Lv.2 No. 17-4,,Risk Asset Management Bank,1
+,,,,Residence,1
+,,,,,
+,,Valencia,1,Storage,1
+,,Lv. 1 No. 18-1,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Valencia,3,Storage,4
+,,Lv.2 No. 18-1,,Jeweler,1
+,,,,Residence,1
+,,,,,
+,,Valencia,4,Storage,4
+,,Lv. 1 No. 18-2,,Refinery,1
+,,,,Fish Factory,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Valencia,5,✩Storage,5
+,,Lv.2 No. 18-2,,Residence,1
+,,,,,
+,,Valencia,1,Storage,1
+,,No. 19-1,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Valencia,1,Storage,2
+,,Lv.1 No. 19-2,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,3
+,,Lv.2 No. 19-2,,Residence,1
+,,,,,
+,,Valencia,2,Storage,2
+,,Lv.1 No. 19-3,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,Valencia,4,Storage,4
+,,Lv.2 No. 19-3,,Residence,1
+,,,,,
+,,Valencia,3,Storage,3
+,,Lv.1 No. 19-4,,Jeweler,3
+,,,,Residence,1
+,,,,,
+,,Valencia,5,✩Storage,5
+,,Lv.2 No. 19-4,,Lodging,4
+,,,,✩Horse Ranch,5
+,,,,Refinery,3
+,,,,Residence,1
+,,,,,
+,,Valencia,2,Storage,2
+,,Lv.1 No. 20-1,,Lodging,2
+,,,,Residence,1
+,,,,,
+,,Valencia,3,Storage,3
+,,Lv.2 No. 20-1,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Valencia,3,Storage,4
+,,Lv.3 No. 20-1,,Residence,1
+,,,,,
+,,Valencia,4,Storage,4
+,,Lv.1 No. 20-2,,Jeweler,3
+,,,,Residence,1
+,,,,,
+,,Valencia,5,✩Storage,5
+,,Lv.2 No. 20-2,,Lodging,3
+,,,,✩Jeweler,5
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,Sand Grain Bazaar,Sand Grain Bazaar,1,Storage,2
+,,No. 1-1,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Sand Grain Bazaar,3,Storage,3
+,,No. 1-2,,Lodging,2
+,,,,Refinery,1
+,,,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,Sand Grain Bazaar,4,Storage,4
+,,No. 1-3,,Tool Workshop,3
+,,,,Residence,1
+,,,,,
+,,Sand Grain Bazaar,1,Storage,1
+,,No. 2-1,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Sand Grain Bazaar,3,Storage,3
+,,No. 2-2,,Lodging,2
+,,,,Tool Workshop,2
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Sand Grain Bazaar,4,Storage,4
+,,No. 2-3,,Refinery,3
+,,,,Residence,1
+,,,,,
+,,Sand Grain Bazaar,1,Storage,1
+,,No. 3-1,,Lodging,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Sand Grain Bazaar,3,Storage,3
+,,No. 3-2,,Horse Ranch,3
+,,,,Refinery,2
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,Shakatu,Shakatu,1,Storage,1
+,,No. 1-1,,Lodging,1
+,,,,Tool Workshop,1
+,,,,Residence,1
+,,,,,
+,,Shakatu,2,Storage,2
+,,No. 1-2,,Lodging,1
+,,,,Refinery,1
+,,,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,Shakatu,4,Storage,4
+,,No. 1-3,,Lodging,3
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Shakatu,2,Storage,2
+,,No. 2-1,,Lodging,1
+,,,,Refinery,2
+,,,,Fish Factory,1
+,,,,Residence,1
+,,,,,
+,,Shakatu,4,Storage,3
+,,No. 2-2,,Lodging,2
+,,,,Tool Workshop,2
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,Ancado Inner Harbor,Ancado Inner Harbor,1,Storage,2
+,,No. 1-1,,Lodging,1
+,,,,Residence,1
+,,,,,
+,,Ancado Inner Harbor,3,Storage,3
+,,No. 1-2,,Lodging,2
+,,,,Shipyard,2
+,,,,Fish Factory,1
+,,,,Residence,1
+,,,,,
+,,Ancado Inner Harbor,4,Storage,4
+,,No. 1-3,,Ship Part Workshop,3
+,,,,Residence,1
+,,,,,
+,,,,,
+,Erdal Farm,Erdal Farm,2,Storage,2
+,,No. 1,,Mushroom Factory,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,Valencia Plantation,Valencia Plantation,1,Storage,1
+,,No. 1-1,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,Valencia Plantation,2,Storage,3
+,,No. 1-2,,Crop Factory,1
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Valencia Plantation,4,Storage,4
+,,No. 1-3,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,Fohalam Farm,Fohalam Farm,1,Storage,1
+,,No. 1,,Residence,1
+,,,,,
+,,,,,
+,Shakatu Farmland,Shakatu Farmland,2,Storage,1
+,,No. 1-1,,Lodging,2
+,,,,Refinery,2
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,Shakatu Farmland,3,Storage,3
+,,No. 1-2,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,Bazaar Farmland,Bazaar Farmland,1,Storage,1
+,,No. 1-1,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,Bazaar Farmland,3,Storage,2
+,,No. 1-2,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,Altas Farmland,Atlas Farmland,2,Storage,1
+,,No. 1-1,,Tool Workshop,1
+,,,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,Atlas Farmland,3,Storage,3
+,,No. 1-2,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,Arehaza Town,Arehaza Town,1,Storage,2
+,,No. 1-1,,Residence,1
+,,,,,
+,,Arehaza Town,3,Storage,3
+,,No. 1-2,,Lodging,1
+,,,,Carpentry Workshop,3
+,,,,Ship Part Workshop,3
+,,,,Fish Factory,1
+,,,,Residence,1
+,,,,,
+,,Arehaza Town,1,Storage,2
+,,No. 2-1,,Arehaza Workshop,3
+,,,,Residence,1
+,,,,,
+,,Arehaza Town,3,Storage,3
+,,No. 2-2,,Lodging,2
+,,,,Tool Workshop,3
+,,,,Shipyard,2
+,,,,Furniture Workshop,3
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,Muiquun,Muiquun 1,4,✩Storage,5
+,,,,Horse Ranch,3
+,,,,Residence,1
+,,,,,
+,,Muiquun 2,4,✩Storage,5
+,,,,Residence,1
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Kamasylvia,Grana,Grana 1,11,✩Storage,5
+,,,,✩Horse Ranch,5
+,,,,Residence,1
+,,,,,
+,,Grana 2,11,✩Storage,5
+,,,,Costume Mill,1
+,,,,Furniture Workshop,4
+,,,,Residence,1
+,,,,,
+,,"Grana 3, 1F",11,✩Storage,5
+,,,,Refinery,3
+,,,,Tool Workshop,3
+,,,,Residence,1
+,,,,,
+,,"Grana 3, 2F",11,✩Storage,5
+,,,,Tool Workshop,3
+,,,,✩Wagon Part Workshop,4
+,,,,Residence,1
+,,,,,
+,,Grana 4,15,✩Storage,5
+,,,,✩Weapon Workshop,4
+,,,,✩Wagon Workshop,4
+,,,,Residence,1
+,,,,,
+,,Grana 5,11,✩Storage,5
+,,,,Jeweler,4
+,,,,✩Furniture Workshop,5
+,,,,Residence,1
+,,,,,
+,,Grana 6,11,✩Storage,5
+,,,,Carpentry Workshop,3
+,,,,Residence,1
+,,,,,
+,,Grana 7,5,Storage,4
+,,,,Lodging,2
+,,,,✩Refinery,3
+,,,,✩Fish Factory,2
+,,,,✩Mushroom Factory,2
+,,,,Residence,1
+,,,,,
+,,Grana 8,11,✩Storage,5
+,,,,Handcraft Workshop,3
+,,,,Tool Workshop,3
+,,,,Residence,1
+,,,,,
+,,Grana 9,11,✩Storage,5
+,,,,Armor Workshop,4
+,,,,Costume Mill,1
+,,,,Furniture Workshop,4
+,,,,✩Wood Workbench,2
+,,,,Residence,1
+,,,,,
+,,Grana 10,8,Storage,4
+,,,,Lodging,3
+,,,,Tool Workshop,3
+,,,,✩Mushroom Factory,2
+,,,,Residence,1
+,,,,,
+,,Grana 11,11,✩Storage,5
+,,,,Weapon Workshop,3
+,,,,✩Refinery,3
+,,,,Residence,1
+,,,,,
+,,"Grana 12, 1F",11,✩Storage,5
+,,,,✩Tool Workshop,4
+,,,,Residence,1
+,,,,,
+,,"Grana 12, 2F",11,✩Storage,5
+,,,,✩Jeweler,5
+,,,,Tool Workshop,3
+,,,,Residence,1
+,,,,,
+,,Grana 13,11,✩Storage,5
+,,,,✩Carpentry Workshop,4
+,,,,Residence,1
+,,,,,
+,,Grana 14,11,✩Storage,5
+,,,,✩Handcraft Workshop,4
+,,,,Costume Mill,1
+,,,,Residence,1
+,,,,Grana Workshop,2
+,,,,,
+,,Grana 15,11,✩Storage,5
+,,,,✩Armor Workshop,5
+,,,,✩Refinery,3
+,,,,✩Mineral Workbench,2
+,,,,Residence,1
+,,,,,
+,,Grana 16,5,Storage,4
+,,,,Lodging,2
+,,,,✩Crop Factory,2
+,,,,Residence,1
+,,,,,
+,,Grana 17,8,Storage,4
+,,,,✩Fish Factory,2
+,,,,✩Crop Factory,2
+,,,,Residence,1
+,,,,,
+,,,,,
+,Viv Foretta Hamlet,Viv Foretta Hamlet 1,2,✩Storage,5
+,,,,Jeweler,2
+,,,,Mushroom Factory,1
+,,,,Residence,1
+,,,,,
+,,Viv Foretta Hamlet 2,3,✩Storage,5
+,,,,Carpentry Workshop,2
+,,,,Tool Workshop,1
+,,,,Crop Factory,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Drieghan,Duvencrune,Duvencrune 1,8,✩Storage,5
+,,,,✩Horse Ranch,5
+,,,,Residence,1
+,,,,,
+,,Duvencrune 2,10,✩Storage,5
+,,,,✩Weapon Workshop,4
+,,,,Residence,1
+,,,,,
+,,Duvencrune 3,8,✩Storage,5
+,,,,Lodging,2
+,,,,Weapon Workshop,3
+,,,,Residence,1
+,,,,,
+,,Duvencrune 4,8,✩Storage,5
+,,,,✩Armor Workshop,5
+,,,,,1
+,,,,,
+,,Duvencrune 5,6,✩Storage,5
+,,,,Jeweler,4
+,,,,Residence,1
+,,,,Duvencrune Weapon Workshop,3
+,,,,,
+,,Duvencrune 6,8,✩Storage,5
+,,,,Lodging,2
+,,,,Jeweler,2
+,,,,Residence,1
+,,,,,
+,,Duvencrune 7,10,✩Storage,5
+,,,,Handcraft Workshop,4
+,,,,Tool Workshop,2
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Duvencrune 8,8,✩Storage,5
+,,,,Lodging,2
+,,,,Costume Mill,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Duvencrune 9-1,8,✩Storage,5
+,,,,Tool Workshop,3
+,,,,Residence,1
+,,,,,
+,,Duvencrune 9-2,10,✩Storage,5
+,,,,Duvencrune Workshop,4
+,,,,Costume Mill,1
+,,,,Horse Gear Workshop,2
+,,,,Residence,1
+,,,,,
+,,Duvencrune 10,8,✩Storage,5
+,,,,Carpentry Workshop,3
+,,,,Wagon Part Workshop,3
+,,,,Residence,1
+,,,,,
+,,Duvencrune 11-1,8,✩Storage,5
+,,,,Tool Workshop,4
+,,,,Wood Workbench,1
+,,,,Residence,1
+,,,,,
+,,Duvencrune 11-2,8,✩Storage,5
+,,,,Lodging,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,Khimut Lumber Camp,Khimut Lumber Camp 1-1,8,✩Storage,5
+,,,,✩Carpentry Workshop,4
+,,,,Tool Workshop,2
+,,,,✩Wood Workbench,2
+,,,,Residence,1
+,,,,,
+,,Khimut Lumber Camp 1-2,10,✩Storage,5
+,,,,Carpentry Workshop,2
+,,,,Tool Workshop,3
+,,,,Crop Factory,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,,,,
+,Dormann Lumber Camp,Dormann Lumber Camp 1,10,✩Storage,5
+,,,,✩Carpentry Workshop,4
+,,,,Tool Workshop,1
+,,,,Crop Factory,1
+,,,,Mineral Workbench,1
+,,,,Residence,1
+,,,,,
+,,Dormann Lumber Camp 2,10,✩Storage,5
+,,,,Carpentry Workshop,1
+,,,,Tool Workshop,3
+,,,,Mineral Workbench,1
+,,,,✩Wood Workbench,2
+,,,,Residence,1

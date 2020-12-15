@@ -49,13 +49,26 @@
       <x>10</x>
       <y>420</y>
       <width>781</width>
-      <height>58</height>
+      <height>89</height>
      </rect>
     </property>
     <layout class="QGridLayout" name="otherGridLayout">
      <property name="sizeConstraint">
       <enum>QLayout::SetNoConstraint</enum>
      </property>
+     <item row="1" column="1">
+      <widget class="QPushButton" name="nodesButton">
+       <property name="enabled">
+        <bool>true</bool>
+       </property>
+       <property name="text">
+        <string>Nodes</string>
+       </property>
+       <property name="flat">
+        <bool>false</bool>
+       </property>
+      </widget>
+     </item>
      <item row="0" column="0">
       <widget class="QPushButton" name="kutVsNouButton">
        <property name="enabled">
@@ -89,6 +102,19 @@
        </property>
        <property name="text">
         <string>Fail Stacks</string>
+       </property>
+       <property name="flat">
+        <bool>false</bool>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="0">
+      <widget class="QPushButton" name="placeholder">
+       <property name="enabled">
+        <bool>false</bool>
+       </property>
+       <property name="text">
+        <string>placeholder</string>
        </property>
        <property name="flat">
         <bool>false</bool>

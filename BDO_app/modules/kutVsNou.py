@@ -6,11 +6,11 @@ bonus = []  # [AP, extra AP]
 
 
 def openCsv():
-    """Open kutum, nouver and bonus AP files."""
+    """Open and import kutum, nouver and bonus AP files."""
     kut = 'BDO_app/modules/kutVsNou/kutum.csv'
     nou = 'BDO_app/modules/kutVsNou/nouver.csv'
     bon = 'BDO_app/modules/kutVsNou/bonus_ap.csv'
-    global kutum, nouver, bonus
+    # global kutum, nouver, bonus
 
     # read kutum file
     with open(kut) as k:
