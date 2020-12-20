@@ -123,10 +123,16 @@ class NodesWindow(QMainWindow):
         super(NodesWindow, self).__init__()
         loadUi("BDO_app/pyqt5_ui/nodesWindow.ui", self)
 
-        import modules.cityNodes as cn
+        self.importNodes()
+        self.showAll()
+        self.tableWidget.setSortingEnabled(False)
 
-        self.tableWidget.clearContents()
-        self.createTable()
+        self.tableWidget.setColumnWidth(0, 100)
+        self.tableWidget.setColumnWidth(1, 195)
+        self.tableWidget.setColumnWidth(2, 190)
+        self.tableWidget.setColumnWidth(3, 30)
+        self.tableWidget.setColumnWidth(4, 180)
+        self.tableWidget.setColumnWidth(5, 30)
 
         self.allButton.clicked.connect(self.showAll)
         self.balenosButton.clicked.connect(self.showBalenos)
@@ -140,56 +146,111 @@ class NodesWindow(QMainWindow):
 
         self.mainButton.clicked.connect(self.gotoMain)
 
-    def createTable(self):
-        import modules.cityNodes as cn
-        cn.filterAll()
-        self.cityNodes = cn.cityNodes
 
-        for row in range(len(self.cityNodes)):
+    def importNodes(self):
+        """Import city nodes and create the table."""
+        import modules.cityNodes as cn
+
+        self.allCityNodes = cn.importAll()
+
+        for row in range(len(self.allCityNodes)):
             self.tableWidget.insertRow(row)
-            width = len(self.cityNodes[row])
+            width = len(self.allCityNodes[row])
             for col in range(width):
-                item = QTableWidgetItem(self.cityNodes[row][col])
+                item = QTableWidgetItem(self.allCityNodes[row][col])
                 self.tableWidget.setItem(row, col, item)
 
+
     def showAll(self):
-        import modules.cityNodes as cn
-        cn.filterAll()
+        """Show all the city nodes."""
+        all = self.allCityNodes
+        for row in range(len(all)):
+            self.tableWidget.setRowHidden(row, False)
+
+        self.tableWidget.setColumnWidth(2, 190)
+
 
     def showBalenos(self):
-        self.tableWidget.clearContents()
-        import modules.cityNodes as cn
-        cn.filterBalenos()
-        self.cityNodes = cn.cityNodes
+        """Show Balenos only city nodes."""
+        balenos = self.allCityNodes
+        for row in range(len(balenos)):
+            if balenos[row][0] != 'Balenos':
+                self.tableWidget.setRowHidden(row, True)
+            else:
+                self.tableWidget.setRowHidden(row, False)
 
-        for row in range(len(self.cityNodes)):
-            if self.cityNodes[0] == 'Balenos':
-                self.tableWidget.insertRow(row)
-                width = len(self.cityNodes[row])
-                for col in range(width):
-                    item = QTableWidgetItem(self.cityNodes[row][col])
-                    self.tableWidget.setItem(row, col, item)
+        self.tableWidget.setColumnWidth(2, 195)
+
 
     def showCalpheon(self):
-        pass
+        """Show Calpheon only city nodes."""
+        calpheon = self.allCityNodes
+        for row in range(len(calpheon)):
+            if calpheon[row][0] != 'Calpheon':
+                self.tableWidget.setRowHidden(row, True)
+            else:
+                self.tableWidget.setRowHidden(row, False)
+
 
     def showDrieghan(self):
-        pass
+        """Show Drieghan only city nodes."""
+        drieghan = self.allCityNodes
+        for row in range(len(drieghan)):
+            if drieghan[row][0] != 'Drieghan':
+                self.tableWidget.setRowHidden(row, True)
+            else:
+                self.tableWidget.setRowHidden(row, False)
+
 
     def showKamasylvia(self):
-        pass
+        """Show Kamasylvia only city nodes."""
+        kamasylvia = self.allCityNodes
+        for row in range(len(kamasylvia)):
+            if kamasylvia[row][0] != 'Kamasylvia':
+                self.tableWidget.setRowHidden(row, True)
+            else:
+                self.tableWidget.setRowHidden(row, False)
+
 
     def showMediah(self):
-        pass
+        """Show Mediah only city nodes."""
+        mediah = self.allCityNodes
+        for row in range(len(mediah)):
+            if mediah[row][0] != 'Mediah':
+                self.tableWidget.setRowHidden(row, True)
+            else:
+                self.tableWidget.setRowHidden(row, False)
+
 
     def showOdyllita(self):
-        pass
+        """Show Odyllita only city nodes."""
+        odyllita = self.allCityNodes
+        for row in range(len(odyllita)):
+            if odyllita[row][0] != 'Odyllita':
+                self.tableWidget.setRowHidden(row, True)
+            else:
+                self.tableWidget.setRowHidden(row, False)
+
 
     def showSerendia(self):
-        pass
+        """Show Serendia only city nodes."""
+        serendia = self.allCityNodes
+        for row in range(len(serendia)):
+            if serendia[row][0] != 'Serendia':
+                self.tableWidget.setRowHidden(row, True)
+            else:
+                self.tableWidget.setRowHidden(row, False)
+
 
     def showValencia(self):
-        pass
+        """Show Valencia only city nodes."""
+        valencia = self.allCityNodes
+        for row in range(len(valencia)):
+            if valencia[row][0] != 'Valencia':
+                self.tableWidget.setRowHidden(row, True)
+            else:
+                self.tableWidget.setRowHidden(row, False)
+
 
     def gotoMain(self):
         widget.setCurrentIndex(0)
