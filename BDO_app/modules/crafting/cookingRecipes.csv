@@ -1,0 +1,107 @@
+Main Product Result,XP,Skill Level Required,Craft Step,Ingredient 1 Qty ,Material,Ingredient 2 Qty ,Material,Ingredient 3 Qty ,Material,Ingredient 4 Qty,Material,Ingredient 5 Qty,Material,Usage
+Aloe Cookie,,Beginner 6,3,5,Aloe,7,Dough,3,Honey,4,Sugar,,,All Accuracy +4
+Aloe Yogurt,,Beginner 6,1,5,Aloe,2,Milk,3,Sugar,3,Leavening Agent,,,Fishing Speed +1
+Special Arehaza Meal,,Artisan 1,5,2,Coconut Cocktail,1,Coconut Pasta,1,Coconut Fried Fish,1,Meat Stew,1,Steak,"Heatstroke, Hypothermia Resistance +10%, Auto-Fishing time -5%, Movement Speed +2, Critical Hit +1"
+Assorted Side Dishes,,Apprentice 6,3,1,Fried Bird,2,Seafood,3,Cheese,5,Fruit,,,Life EXP +5%
+Balenos Meal,,Skilled 6,4,1,Cheese Gratin,1,Meat Croquette,1,Smoked Fish Steak,2,Beer,2,Stir-fried Vegetables,"Move Speed +2, Fishing Speed +2, Gathering Speed +2"
+Beer,,Beginner 1,1,1,Sugar,2,Leavening Agent,6,Mineral Water,5,Grain,,,Worker Stamina Recovery +2
+Boiled Bird Eggs,,Beginner 6,1,3,Egg,6,Mineral Water,1,Cooking Wine,1,Salt,,,All AP +1
+Borscht,,Apprentice 1,2,7,Fragrant Jerky,3,Milk,1,Cinnamon,2,Mineral Water,,,Max Energy +10
+Butter-Roasted Lobster,,Skilled 1,3,4,Butter,5,Salt,3,Garlic,1,Lobster,5,Olive Oil,"Critical Hit Rate +2, Knockdown/Bound Resistance +10%"
+Calpheon Meal,,Skilled 6,4,1,Milk Tea,1,Meat Pasta,1,Fish Fillet Salad,1,Cheese Pie,2,Soft Bread,"All DR +1, Max HP +100, HP Recovery +5"
+Cheese Gratin,,Apprentice 6,3,1,Grilled Sausage,3,Cheese,5,Dough,3,Red Sauce,4,Vegetable,"Max HP +70, Attack Speed +1"
+Cheese Pie,,Apprentice 6,3,7,Cheese,4,Dough,3,Egg,3,Butter,,,Worker Stamina Recovery +7
+Coconut Cocktail,,Professional 1,4,2,Coconut,1,Exotic Herbal Wine,2,Essence of Liquor,1,Fruit,5,Mineral Water,Auto-Fishing time -5%
+Coconut Fried Fish,,Professional 1,3,3,Coconut,2,Dried Fish,2,Egg,3,Dough,4,Deep Frying Oil,"Move Speed +1, Critical Hit Rate +1"
+Coconut Pasta,,Professional 1,3,2,Coconut,2,Onion,5,Dough,4,Garlic,1,White Sauce,Resistance against heat/sunstroke +10%
+Couscous,,Skilled 6,3,1,Freekeh Snake Stew,6,Teff Flour Dough,3,Nutmeg,4,Vegetable,,,Processing Success Rate +5%
+Dark Pudding,,Skilled 1,3,1,Oatmeal,1,Pickled Vegetables,5,Bird Meat,7,Blood 2,,,"All AP +3, Damage Against Humans +2"
+Date Palm Wine,,Apprentice 6,3,5,Date Palm,2,Essence of Liquor,1,Sugar,4,Leavening Agent,,,All Evasion +4
+Desert Dumplings,,Apprentice 1,3,6,Reptile Meat,6,Dough,1,Cinnamon,2,Olive Oil,,,Max Stamina +200
+Dressing,,Beginner 1,1,1,Egg,2,Salt,1,Olive Oil,1,Mineral Water,,,Used in Cooking Recipes
+Essence of Liquor,,Beginner 1,2,1,Flour,1,Leavening Agent,1,Fruit,,,,,Used in Cooking Recipes
+Exotic Herbal Wine,,Beginner 1,3,3,Dough,1,Essence of Liquor,5,Mineral Water,2,Leavening Agent,,,Fishing Speed +1
+Fig Pie,,Apprentice 1,3,5,Fig,3,Dough,3,Sugar,2,Olive Oil,,,Gathering Resource Gain Chance +3%
+Fish Fillet Chips,,Apprentice 1,2,2,Dried Fish,3,White Sauce,7,Flour,2,Salt,,,Worker Stamina Recovery +5
+Fish Fillet Salad,,Apprentice 1,2,4,Dried Fish,2,Cheese,3,Onion,2,Dressing,,,Move Speed +1
+Fish Soup,,Apprentice 1,2,2,Dried Fish,3,Flour,2,Cream,6,Mineral Water,,,Critical Hit Rate +1
+Five-Grain Chicken Porridge,,Beginner 6,2,2,Ground Bird Meat,2,Mineral Water,3,Grain,,,,,
+Freekeh Snake Stew,,Apprentice 1,1,5,Mineral Water,6,Freekeh,3,Snake Meat,2,Star Anise,,,Worker Stamina Recovery +5
+Fried Bird,,Apprentice 1,2,7,Bird Meat,4,Flour,2,Egg,3,Pepper,,,HP Recovery +5
+Fried Fish,,Beginner 1,2,2,Dried Fish,3,Flour,2,Deep Frying Oil,,,,,Movement Speed +1
+Fried Vegetables,,Beginner 6,3,4,Vegetable,3,Dough,2,Egg,6,Deep Frying Oil,,,HP Recovery +2
+Fruit and Vegetable Salad,,Apprentice 1,2,4,Fruit,2,Cooking Wine,4,Vegetable,1,Vinegar,,,MP/WP/SP Recovery +5
+Fruit Juice,,Beginner 6,1,4,Fruit,3,Sugar,5,Mineral Water,1,Salt,,,Max MP/WP/SP +30
+Fruit Pie,,Apprentice 6,3,6,Dough,6,Fruit,3,Cream,4,Sugar,,,"Max MP/WP/SP +70, Casting Speed +1"
+Fruit Pudding,,Beginner 6,2,5,Fruit,1,Cream,3,Milk,2,Sugar,,,MP/WP/SP Recovery +2
+Fruit Wine,,Apprentice 1,4,5,Fruit,2,Mineral Water,1,Exotic Herbal Wine,3,Essence of Liquor,,,Fishing Speed +1
+Full-Bodied Exotic Herbal Wine,,Skilled 1,3,3,Dough,1,Essence of Liquor,5,Mineral Water,2,Leavening Agent,,,Fishing Speed +1. *Crit item for Exotic Herbal Wine
+Ghormeh Sabzi,,Professional 1,1,5,Yak Meat,2,Grain,5,Garlic,2,Salt,1,Milk,
+Good Feed,,Apprentice 1,2,6,Red Meat,2,Dried Fish,3,Mineral Water,5,Flour,,,Recovers 80 Hunger on Pets
+Grain Soup,,Beginner 1,2,6,Grain,1,Purified Water,3,Cooking Wine,1,Salt,,,Gathering Speed +1
+Grilled Bird Meat,,Beginner 1,1,2,Bird Meat,6,Deep Frying Oil,1,Salt,2,Cooking Wine,,,
+Grilled Sausage,,Beginner 6,1,6,Red Meat,1,Onion,2,Pepper,2,Salt,,,All AP +1
+Grilled Scorpion,,Skilled 1,3,3,Scorpion Meat,2,Butter,3,Nutmeg,3,Hot Pepper,,,Damages from Monsters -5%
+Ham Sandwich,,Skilled 1,4,2,Soft Bread,2,Grilled Sausage,5,Vegetable,4,Egg,,,"All AP +3, All Accuracy +8"
+Hard-boiled Gargoyle Leg,,Skilled 1,4,1,Gargoyle Leg,2,Exotic Herbal Wine,3,Onion,3,Garlic,2,Vinegar,"Hunting Damage +500, Attack Speed +1"
+Hard-Boiled Shellfish,,Skilled 1,3,2,Dried Seafood,3,Essence of Liquor,4,Garlic,2,Hot Pepper,5,Olive Oil,"Gathering Speed +2, Underwater Breathing +10 sec"
+High-Quality Carrot Juice,,Beginner 1,2,1,High-Quality Carrot,3,Flour,3,Sugar,4,Mineral Water,,,Recover Mount HP +400
+Honey Wine,,Apprentice 1,3,3,Honey,2,Essence of Liquor,2,Sugar,6,Mineral Water,,,All Damage Reduction +2
+Honeycomb Cookie,,Apprentice 6,3,4,Dough,6,Honey,2,Egg,4,Milk,,,"Weight Limit +50 LT, Fishing Speed +1"
+Hunters Salad,,Apprentice 1,2,1,Soft Whale Meat,2,Vinegar,2,Dressing,5,Garlic,,,Increases Matchlock Reload Speed greatly
+Kamasylvia Meal,,Professional 6,5,1,Rainbow Button Mushroom Sandwich,1,Coconut Pasta,1,Fig Pie,2,Fruit Wine,1,Rainbow Button Mushroom Cheese Melt,"Max HP +150, Max Stamina +200, Back Attack Damage +5%"
+Khalks Fermented Wine,,Professional 1,4,1,Fugitive Khalks Horn,5,Honey Wine,6,Date Palm,6,Leavening Agent,6,Sugar,"All AP +7, Move Speed +1, HP Recovery +10, Increases Matchlock Reload Speed Slightly"
+King of Jungle Hamburg,,Professional 1,3,4,Lion Meat,4,Teff Bread,2,Pickled Vegetables,3,Nutmeg,,,"Ignores All Resistance +3%, Critical Hit Damage +5%"
+Knight Combat Rations,,Skilled 6,5,1,Dark Pudding,1,Ham Sandwich,1,Meat Croquette,1,Fruit Wine,,,"All Attack +5, Extra Damage Against Humans +5, All Damage Reduction +5"
+Lean Meat Salad,,Apprentice 6,2,8,Red Meat,2,Vinegar,3,Pepper,4,Dressing,,,"All Damager Reduction +3, HP Auto Recovery +5"
+Lizard Kebab,,Beginner 6,2,6,Reptile Meat,2,Red Sauce,3,Onion,7,Grain,,,Max Stamina +100
+Margoria Seafood Meal,,Artisan 1,5,1,Butter-Roasted Lobster,1,Steamed Prawn,2,Fruit Wine,1,Prawn Salad,1,Pan-Fried Oyster,"Weight LImit +50LT, Move Speed +2, Critial Hit Rate +2, Max HP +100"
+Meat Croquette,,Apprentice 6,2,8,Red Meat,5,Flour,4,Deep Frying Oil,2,Egg,2,Cheese,Combat EXP +5%
+Meat Pasta,,Apprentice 1,3,5,Red Meat,2,Garlic,4,Dough,3,Pepper,,,Weight LImit +40LT
+Meat Pie,,Apprentice 1,3,4,Red Meat,6,Dough,2,Sugar,2,Olive Oil,,,Max Stamina +200
+Meat Sandwich,,Apprentice 6,4,1,Soft Bread,7,Red Meat,6,Vegetable,3,Cheese,,,"Move Speed +1, Max Stamina +200"
+Meat Soup,,Beginner 6,1,5,Red Meat,1,Pepper,2,Cream,4,Mineral Water,,,Critical Hit Rate +1
+Meat Stew,,Beginner 6,2,5,Red Meat,2,Flour,2,Cooking Wine,3,Mineral Water,,,Max HP +30
+Mediah Meal,,Skilled 6,4,1,Dark Pudding,1,Oatmeal,2,Grilled Sausage,1,Lean Meat Salad,2,Exotic Herbal Wine,"All Attack +5, Attack Speed +1, Casting Speed +1"
+Milk Tea,,Skilled 1,2,2,Tea With Fine Scent,3,Cooking Honey,3,Milk,2,Flour,,,"Combat EXP +8%, HP Recovery +5"
+Oatmeal,,Apprentice 1,2,9,Flour,3,Milk,3,Onion,2,Cooking Honey,,,Worker Stamina Recovery +5
+Omelet,,Apprentice 1,1,5,Grain,2,Olive Oil,5,Egg,2,Salt,,,All Damage Reduction +2
+Organic Feed,,Apprentice 6,3,2,Oatmeal,5,Red Meat,4,Chicken Meat,4,Dried Fish,,,Recovers 140 Hunger for pets
+Pan-Fried Oyster,,Skilled 1,2,3,Oyster,5,Flour,3,Olive Oil,2,Egg,2,Vinegar,"Attack Speed +2, Casting Speed +2, Stun/Stiffness/Freezing Resistanc e+10%"
+PIckled Fish,,Apprentice 1,2,2,Dried Fish,2,Vinegar,4,Salt,2,Leavening Agent,,,Amity +5%
+Pickled Vegetables,,Apprentice 1,2,8,Vegetable,4,Vinegar,2,Leavening Agent,2,Sugar,,,Gathering Speed +1
+Pistachio Fried Rice,,Apprentice 6,1,4,Pistachio,6,Teff,2,Cinnamon,2,Salt,,,Processing Success Rate +3%
+Prawn Salad,,Skilled 1,3,2,Shrimp,3,Olive Oil,3,Egg,2,Fruit and Vegetable Salad,2,Salt,"Weight Limit +40LT, Knockback/Floating Resistance +10%"
+Rainbow Button Mushroom Cheese Melt,,Professional 1,2,1,Rainbow Button Mushroom,2,Red Meat,2,Cheese,3,Salt,4,Olive Oil,Back Attack Damage +5%
+Rainbow Button Mushroom Sandwich,,Professional 1,4,1,Rainbow Button Mushroom,1,Soft Bread,2,Cream,2,Onion,4,Olive Oil,"Max HP +150, Max Stamina +150"
+Red Sauce,,Beginner 1,1,1,Base Sauce,2,Sugar,2,Mineral Water,1,Red Meat,,,Used in Cooking Recipes
+Roast Marmot,,Professional 1,2,5,Marmot Meat,3,Hot Pepper,2,Salt,1,Red Sauce,3,Cooking Wine,
+Seafood Grilled with Butter,,Beginner 6,3,2,Dried Seafood,3,Butter,2,Salt,1,Olive OIl,,,Attack Speed +1
+Seafood Mushroom Salad,,Beginner 6,2,2,Dried Fish,1,Fortune Teller Mushroom,2,Dressing,,,,,Weight Limit +20LT
+Seafood Pasta,,Apprentice 1,3,4,Dried Seafood,5,Dough,3,Cooking Wine,3,Garlic,,,Casting Speed +1
+Serendia Meal,,Skilled 6,5,1,Ham Sandwich,1,Meat Pie,1,Honeycomb Cookie,2,Boiled Bird Eggs,2,Fruit Wine,"All AP +5, All Accuracy +10, Critical Hit Rate +1"
+Skewered Llama Cheese Melt,,Professional 1,2,5,Llama Meat,4,Cheese,3,Hot Pepper,1,Pepper,1,White Sauce,
+Smoked Fish Steak,,Apprentice 1,1,1,Dried Fish,1,Olive Oil,2,Salt,,,,,Attack Speed +1
+Soft Bread,,Beginner 6,3,6,Dough,2,Leavening Agent,2,Egg,3,Milk,,,Max Stamina +100
+Special Carrot Juice,,Beginner 6,2,1,Special Carrot,3,Flour,3,Sugar,4,Mineral Water,,,Recove Mount HP +600
+Special Drieghanese Meal,,Master 1,4,1,Skewered Llama Cheese Melt,1,Stir-Fried Bracken,1,Roast Marmot,1,Ghormeh Sabzi,2,Honey Wine,
+Steak,,Apprentice 1,2,8,Red Meat,2,Salt,2,Garlic,2,Red Sauce,,,Max HP +50
+Steamed Bird,,Apprentice 1,3,5,Bird Meat,3,Vegetable,2,Essence of Liquor,2,Vinegar,2,Salt,Combat EXP +3%
+Steamed Fish,,Beginner 6,1,2,Dried Fish,2,Garlic,2,Salt,3,Mineral Water,,,All Accuracy +4
+Steamed Prawn,,Skilled 1,1,4,Shrimp,3,Paprika,4,Mineral Water,2,Hot Pepper,3,Cooking Wine,"Move Speed +2, Grapple Resistance +10%"
+Steamed Seafood,,Apprentice 1,1,4,Dried Seafood,3,Hot Pepper,6,Mineral Water,2,Salt,,,All Accuracy +6
+Steamed Whale Meat,,Skilled 1,4,1,Blue Whale Meat,1,Honey Wine,4,Garlic,2,Salt,6,Mineral Water,"All Damage Reduction +2, All Evasion +8"
+Stir-Fried Bracken,,Professional 1,1,8,Bracken,5,Garlic,2,Salt,5,Mineral Water,2,Olive Oil,
+Stir-fried Gazelle Hind Leg,,Skilled 1,1,1,Gazelle Hind Leg,3,Garlic,5,Olive OIl,3,Vegetable,5,Salt,"Weight Limit +40 LT, Max Stamina +150"
+Stir-Fried Meat,,Apprentice 1,1,7,Red Meat,2,Base Sauce,2,Onion,3,Hot Pepepr,,,All AP +2
+Stir-Fried Seafood,,Beginner 6,1,2,Dried Seafood,4,Vegetable,2,Base Sauce,2,Hot Pepper,,,Casting Speed +1
+Stir-fried Vegetables,,Beginner 6,1,5,Vegetable,2,Hot Pepper,2,Olive Oil,1,Salt,,,Jump Height Up
+Sute Tea,,Skilled 1,3,2,Tea With Fine Scent,2,Butter,3,Milk,1,Salt,,,Life EXP +8%
+Sweet Honey Wine,,Beginner 1,4,2,Top-Quality Cooking Honey,4,Full-Bodied Exotic Herbal Wine,10,Sugar,2,Fruit,,,
+Tea With Fine Scent,,Apprentice 1,1,4,Flower,4,Fruit,7,Mineral Water,3,Cooking Honey,,,Max MP/WP/SP +50
+Teff Bread,,Beginner 6,2,5,Teff Flour,3,Mineral Water,2,Salt,2,Leavening Agent,,,Cooking / Alchemy Time -0.3 sec
+Teff Sandwich,,Professional 1,4,1,Teff Bread,1,Grilled Scorpion,1,Freekeh Snake Stew,3,Red Sauce,,,Cooking / Alchmey Time -0.5 sec
+Valencian Meal,,Professional 6,5,1,Teff Sandwich,1,King of Jungle Hamburg,1,Couscous,2,Fig Pie,2,Date Palm Wine,"Nullifying All Resistance +4%, Resistance Against All Debuffs +4%, All Evasion +10, Damage from Monsters -6%"
+Vinegar,,Beginner 1,1,1,Grain,1,Leavening Agent,1,Fruit,1,Sugar,,,used in Cooking Recipes
+Whale Meat Salad,,Skilled 1,2,1,Blue Whale Meat,6,Vegetable,2,Dressing,3,Egg,4,Pepper,"Life EXP +10%, Max Energy +10"
+White Sauce,,Beginner 1,1,1,Base Sauce,1,Milk,1,Fruit,2,Cooking Wine,,,used in Cooking Recipes

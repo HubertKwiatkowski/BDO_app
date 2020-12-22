@@ -1,0 +1,793 @@
+Type,Main Product Result,,Crafting Type,Skill Level Required,Avg Qty Made,Craft Step,Ingredient 1 Qty ,Material,Ingredient 2 Qty ,Material,Ingredient 3 Qty ,Material,Ingredient 4 Qty,Material,Ingredient 5 Qty,Material,Ingredient 6 Qty,Material,Usage
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Alchemy,Antidote Elixir,,Alchemy,Beginner 1,2.5,3,1,Pure Powder Reagent,1,Weed,2,Blood 2,3,Olive Oil,,,,,Cure Toxications
+Alchemy,Clear Liquid Reagent,,Alchemy,Beginner 1,2.5,2,1,Weed,1,Sunrise Herb,1,Salt,1,Purified Water,,,,,Used in Alchemy Recipes
+Alchemy,Clowns Blood,,Alchemy,Apprentice 1,2.5,3,1,Spirits Leaf,1,Powder of Darkness,1,Clear Liquid Reagent,2,Blood 1,,,,,Used in Alchemy Recipes
+Alchemy,Defense Elixir,,Alchemy,Beginner 1,2.5,3,1,Clear Liquid Reagent,6,Ash Sap,5,Blood 2,3,Purified Water,,,,,All Damage Reduction +5
+Alchemy,Elixir of Amity,,Alchemy,Apprentice 1,2.5,4,1,Legendary Beasts Blood,5,Fire Flake Flower,6,Ash Sap,3,Black Stone Powder,,,,,Amity Gain +20%
+Alchemy,Elixir of Assassination,,Alchemy,Skilled 1,2.5,5,1,Oil of Regeneration,5,Pure Powder Reagent,4,Amanita Mushroom,2,Red Tree Lump,2,Trace of Memory,,,Back Attack Damage +10%
+Alchemy,Elixir of Burn Removal,,Alchemy,Beginner 1,2.5,3,1,Clear Liquid Reagent,1,Purified Water,2,Fruit,2,Weed,,,,,
+Alchemy,Elixir of Carnage,,Alchemy,Skilled 1,2.5,5,1,Oil of Corruption,7,Pure Powder Reagent,2,Tiger Mushroom,2,Spirits Leaf,3,Trace of the Earth,,,Down Attack Damage +10%
+Alchemy,Elixir of Concentration,,Alchemy,Beginner 1,2.5,3,1,Clear Liquid Reagent,3,Cloud Mushroom,2,Weed,3,Blood 4,,,,,All Accuracy +8
+Alchemy,Elixir of Death,,Alchemy,Skilled 1,2.5,5,1,Oil of Tranquility,6,Clear Liquid Reagent,2,Ancient Mushroom,7,Ash Sap,2,Trace of Death,,,Defense Nullifying Damage +5 per Critical Hit
+Alchemy,Elixir of Deep Sea,,Alchemy,Skilled 1,2.5,5,1,Oil of the Abyss,2,Coral Crystal,5,Clear Liquid Reagent,5,Arrow Mushroom,5,White Cedar Sap,,,"All AP +10, Max Stamina +100, Max HP +100, Back Attack Damage +10%, Down Attack Damage +10%, Air Attack Damage +10%"
+Alchemy,Elixir of Demihuman Hunt,,Alchemy,Apprentice 1,2.5,4,1,Sinners Blood,4,Arrow Mushroom,4,Fir Sap,3,Black Stone Powder,,,,,Extra Damage Against Demihumans +10
+Alchemy,Elixir of Detection,,Alchemy,Skilled 1,2.5,5,1,Oil of Storms,6,Pure Powder Reagent,3,Truffle Mushroom,2,Old Tree Bark,3,Trace of Savagery,,,Critical Hit Damage +10%
+Alchemy,Elixir of Draining,,Alchemy,Skilled 1,2.5,5,1,Oil of Fortitude,4,Clear Liquid Reagent,3,Hump Mushroom,4,Birch Sap,2,Trace of Forest,,,HP +3 per Critical Hit
+Alchemy,Elixir of Endurance,,Alchemy,Beginner 1,2.5,3,1,Pure Powder Reagent,2,Dwarf Mushroom,5,Birch Sap,4,Blood 4,,,,,Max Stamina +100
+Alchemy,Elixir of Energy,,Alchemy,Beginner 1,2.5,3,1,Pure Powder Reagent,4,Blood 3,3,Purified Water,2,MP Potion (Small),,,,,MP(EP) Recovery Amount +10
+Alchemy,Elixir of Frenzy,,Alchemy,Skilled 1,2.5,5,1,Oil of Regeneration,5,Clear Liquid Reagent,5,Cedar Sap,3,Trace of Battle,2,Ghost Mushroom,,,"All DP -5, All AP +10"
+Alchemy,Elixir of Fury,,Alchemy,Beginner 1,2.5,3,4,Dwarf Mushroom,1,Ash Sap,4,Blood 4,3,Purified Water,,,,,All AP +5
+Alchemy,Elixir of Hemostasis,,Alchemy,Beginner 1,2.5,3,1,Pure Powder Reagent,1,Cloud Mushroom,1,Ash Sap,3,Purified Water,,,,,Cure Bleeding
+Alchemy,Elixir of Human Hunt,,Alchemy,Apprentice 1,2.5,4,1,Clowns Blood,4,Fortune Teller Mushroom,4,Maple Sap,3,Black Stone Powder,,,,,Extra Damage Against Humans +6
+Alchemy,Elixir of Life,,Alchemy,Beginner 1,2.5,3,1,Pure Powder Reagent,3,Silver Azalea,5,Blood 3,3,HP Potion (Small),,,,,Max HP +100
+Alchemy,Elixir of Mentality,,Alchemy,Beginner 1,2.5,3,1,Clear Liquid Reagent,4,Ash Sap,3,Purified Water,3,MP Potion (Small),,,,,Max MP(EP) +100
+Alchemy,Elixir of Penetration,,Alchemy,Skilled 1,2.5,5,1,Oil of Corruption,4,Clear Liquid Reagent,5,Bluffer Mushroom,5,Pine Sap,2,Trace of Violence,,,Defense Nullifying Damage +5 per Back Attack
+Alchemy,Elixir of Resistance,,Alchemy,Beginner 1,2.5,2,3,Cloud Mushroom,1,Birch Sap,7,Blood 1,3,Purified Water,,,,,Debuff Resistance Against Monsters +10%
+Alchemy,Elixir of Seal,,Alchemy,Beginner 1,2.5,2,3,Dwarf Mushroom,1,Birch Sap,4,Blood 1,5,Purified Water,,,,,Underwater Breathing +10 sec.
+Alchemy,Elixir of Shock,,Alchemy,Apprentice 1,2.5,4,1,Clowns Blood,5,Tiger Mushroom,7,Cedar Sap,3,Powder of Time,,,,,Critical Hit Rate +2
+Alchemy,Elixir of Sky,,Alchemy,Skilled 1,2.5,5,1,Oil of Tranquility,6,Pure Powder Reagent,1,Emperor Mushroom,2,Bloody Tree Knot,4,Trace of Ascension,,,Air Attack Damage +10%
+Alchemy,Elixir of Spells,,Alchemy,Apprentice 1,2.5,4,1,Tyrants Blood,5,Fire Flake Flower,3,Maple Sap,2,Powder of Darkness,,,,,Casting Speed +2
+Alchemy,Elixir of Swiftness,,Alchemy,Apprentice 1,2.5,4,1,Legendary Beasts Blood,5,Arrow Mushroom,5,Birch Sap,2,Powder of Darkness,,,,,Movement Speed +2
+Alchemy,Elixir of Time,,Alchemy,Apprentice 1,2.5,4,1,Wise Mans Blood,5,Fire Flake Flower,2,Powder of Time,5,Maple Sap,,,,,Life EXP +10%
+Alchemy,Elixir of Training,,Alchemy,Apprentice 1,2.5,4,1,Legendary Beasts Blood,7,Silver Azalea,4,Pine Sap,2,Powder of Crevice,,,,,Horse EXP +8%
+Alchemy,Elixir of Will,,Alchemy,Beginner 1,2.5,3,1,Pure Powder Reagent,6,Blood 1,4,Sunrise Herb,3,Purified Water,,,,,Damages from Monster -7.5%
+Alchemy,Elixir of Wind,,Alchemy,Apprentice 1,2.5,4,1,Wise Mans Blood,5,Fortune Teller Mushroom,5,Pine Sap,2,Powder of Darkness,,,,,Attack Speed +2
+Alchemy,Elixir of Wings,,Alchemy,Beginner 1,2.5,2,2,Silver Azalea,1,Ash Sap,4,Blood 4,5,Purified Water,,,,,Jump Height Up
+Alchemy,Essence of Abundance,,Alchemy,Apprentice 1,2.5,1,2,Fruit of Abundance,3,Cloud Mushroom,4,Birch Sap,2,Trace of Ascension,,,,,used in Alchemy
+Alchemy,Essence of Crimson Flame,,Alchemy,Apprentice 1,2.5,1,2,Fruit of Crimson Flame,3,Dwarf Mushroom,4,Ash Sap,2,Trace of Ascension,,,,,Used in Alchemy
+Alchemy,Essence of Destruction,,Alchemy,Apprentice 1,2.5,1,2,Fruit of Destruction,3,Silver Azalea,4,Pine Sap,2,Powder of Flame,,,,,Used in Alchemy
+Alchemy,Essence of Enchantment,,Alchemy,Apprentice 1,2.5,1,2,Fruit of Enchantment,3,Fire Flake Flower,4,Ash Sap,2,Powder of Darkness,,,,,Used in Alchemy
+Alchemy,Essence of Magic Power,,Alchemy,Apprentice 1,2.5,1,2,Fruit of Magic Power,3,Dry Mane Grass,4,Birch Sap,2,Powder of Darkness,,,,,Used in Alchemy
+Alchemy,Essence of Nature,,Alchemy,Apprentice 1,2.5,1,2,Fruit of Nature,3,Fortune Teller Mushroom,4,Maple Sap,2,Trace of the Earth,,,,,Used in Alchemy
+Alchemy,Essence of Perfection,,Alchemy,Apprentice 1,2.5,1,2,Fruit of Perfection,3,Sunrise Herb,4,Maple Sap,2,Powder of Flame,,,,,Used in Alchemy
+Alchemy,Essence of the Sun,,Alchemy,Apprentice 1,2.5,1,2,Fruit of the Sun,3,Arrow Mushroom,4,Pine Sap,2,Trace of the Earth,,,,,Used in Alchemy
+Alchemy,EXP Elixir,,Alchemy,Apprentice 1,2.5,4,1,Clowns Blood,7,Dry Mane Grass,5,Pine Sap,2,Powder of Flame,,,,,Combat EXP +10%
+Alchemy,Fishers Elixir,,Alchemy,Apprentice 1,2.5,4,1,Wise Mans Blood,6,Sunrise Herb,3,Fir Sap,2,Powder of Flame,,,,,Fishing +2
+Alchemy,Gem Polisher,,Alchemy,Apprentice 1,2,3,2,Trace of Origin,1,Pure Powder Reagent,6,Processed Coal,6,Purified Water,,,,,used to change resplendent Gemstones into higher quality Gemstones through processing
+Alchemy,Golden Hand Elixir,,Alchemy,Skilled 1,2.5,5,1,Oil of Storms,4,Clear Liquid Reagent,4,Fog Mushroom,3,Trace of Hunting,6,Fir Sap,,,Luck +2
+Alchemy,Griffons Elixir,,Alchemy,Skilled 1,2.5,4,1,Griffon Claw,6,Cedar Sap,3,Trace of Battle,3,Purified Water,2,Sinners Blood,,,Additional Damage against Kamasylvian Monsters +12
+Alchemy,Grim Reapers Elixir,,Alchemy,Skilled 1,2.5,5,1,Oil of Fortitude,4,Pure Powder Reagent,2,Sky Mushroom,2,Monks Branch,4,Trace of Origin,,,HP Recovery +1 per Hit
+Alchemy,Herbal Gunpowder,,Alchemy,,2.5,2,1,Insectivore Plant Powder,1,Powder of Darkness,,,,,,,,,Used in Explosives
+Alchemy,Herbal Poison,,Alchemy,,2.5,1,1,Insectivore Plant Sap,5,Amanita Mushroom,,,,,,,,,Used as an Ingredient
+Alchemy,Khalks Elixir,,Alchemy,Skilled 1,2.5,5,1,Fugitive Khalks Skin,10,White Cedar Sap,5,Trace of Chaos,4,Purified Water,2,Oil of Corruption,,,"All Debuff Resistance +10%, Damage Reduction +15, Max HP +100, Movement Speed +5%"
+Alchemy,Leather Glaze,,Alchemy,Apprentice 1,2,3,1,Clear Liquid Reagent,3,Maple Sap,3,Trace of Ascension,2,Powder of Darkness,,,,,"Used to reinforce leather, fur and feathers through processing"
+Alchemy,Legendary Beasts Blood,,Alchemy,Apprentice 1,2.5,3,1,Spirits Leaf,1,Trace of the Earth,1,Pure Powder Reagent,2,Blood 5,,,,,Used in alchemy recipes
+Alchemy,Looney Elixir,,Alchemy,Apprentice 1,2.5,1,4,Moss Tree Sap,2,Volcanic Umbrella Mushroom,3,Powder of Flame,5,Red Tree Lump,1,Violet Flower,,,Chance to Gain Higher-Grade Knowledge +3%
+Alchemy,Metal Solvent,,Alchemy,Apprentice 1,2,3,3,Melted Iron Shard,2,Trace of Savagery,1,Clear Liquid Reagent,4,Rough Stone,,,,,A material used to change metals into a pure crystal form through processing
+Alchemy,Oil of Corruption,,Alchemy,Skilled 1,2.5,4,1,Sinners Blood,1,Spirits Leaf,1,Fruit of the Sun,1,Powder of Darkness,,,,,used in Alchemy recipes
+Alchemy,Oil of Fortitude,,Alchemy,Skilled 1,2.5,4,1,Clowns Blood,1,Monks Branch,1,Fruit of Nature,1,Powder of Flame,,,,,used in Alchemy recipes
+Alchemy,Oil of Regeneration,,Alchemy,Skilled 1,2.5,4,1,Legendary Beasts Blood,1,Red Tree Lump,1,Fruit of Crimson Flame,1,Powder of Crevice,,,,,used in Alchemy recipes
+Alchemy,Oil of Storms,,Alchemy,Skilled 1,2.5,4,1,Tyrants Blood,1,Old Tree Bark,1,Fruit of Abundance,1,Powder of Time,,,,,used in Alchemy recipes
+Alchemy,Oil of the Abyss,,Alchemy,Skilled 1,2.5,4,1,Tyrants Blood,1,Deep Sea Fruit,2,Powder of Time,2,Bloody Tree Knot,,,,,used in Alchemy recipes
+Alchemy,Oil of Tranquility,,Alchemy,Skilled 1,2.5,4,1,Wise Mans Blood,1,Bloody Tree Knot,1,Fruit of Magic Power,1,Powder of Earth,,,,,used in Alchemy recipes
+Alchemy,Perfume of Courage,,Alchemy,Skilled 1,2,3,1,Blue Whale Oil,3,Trace of Violence,6,Bloody Tree Knot,4,Purified Water,2,Clear Liquid Reagent,,,"All AP +20, Max HP +200, Attack Speed +5 Casting Speed +5, Movement Speed +5"
+Alchemy,Perfume of Swiftness,,Alchemy,Skilled 1,2,3,1,Blue Whale Oil,4,Powder of Time,6,Everlasting Herb,4,Purified Water,2,Clear Liquid Reagent,,,"Weight Limit +200lt, Life EXP +20%, Move Speed +5, Gather Speed +5, Fishing Speed +5"
+Alchemy,Plywood Hardener,,Alchemy,Apprentice 1,2,3,1,Pure Powder Reagent,3,Bloody Tree Knot,4,Fir Sap,3,Trace of Earth,,,,,A material used to strengthen Plywood through Processing
+Alchemy,Pure Powder Reagent,,Alchemy,Beginner 1,2.5,2,1,Weed,1,Silver Azalea,1,Sugar,1,Purified Water,,,,,used in alchemy recipes
+Alchemy,Resurrection Elixir,,Alchemy,Beginner 1,2.5,3,1,Clear Liquid Reagent,3,Sunrise Herb,3,Purified Water,2,HP Potion (Small),,,,,HP recovery +10
+Alchemy,Sinners Blood,,Alchemy,Apprentice 1,2.5,3,2,Bloody Tree Knot,1,Powder of Flame,1,Clear Liquid Reagent,2,Blood 2,,,,,Used in Alchemy Recipes
+Alchemy,Spirit Perfume Elixir,,Alchemy,Skilled 1,2,1,1,Dead Tree Essence,1,Fruit of Nature,10,Loopy Tree Sap,10,Powder of Darkness,2,Violet Flower,,,"Max HP +300, Critical Hit Rate +5, MP/WP/SP +3 per every good hit"
+Alchemy,Tyrants Blood,,Alchemy,Apprentice 1,2.5,3,1,Monks Branch,1,Trace of Savagery,1,Pure Powder Reagent,2,Blood 4,,,,,Used in Alchemy Recipes
+Alchemy,Weenie Elixir,,Alchemy,Apprentice 1,2.5,1,4,Moss Tree Sap,2,Blue Umbrella Mushroom,3,Powder of Time,5,Monks Branch,1,Sky Blue Flower,,,Knowledge Gain Chance +7%
+Alchemy,Whale Tendon Elixir,,Alchemy,Skilled 1,2,4,1,Blue Whale Tendon,1,Clowns Blood,12,Ash Sap,5,Purified Water,2,Clear Liquid Reagent,,,All Damage Reduction +100
+Alchemy,Whale Tendon Potion,,Alchemy,Apprentice 1,10,2,1,Blue Whale Tandon,3,HP Potion (Medium),3,MP Potion (Medium),8,Purified Water,,,,,"HP Recovery +500, MP(EP)/WP/SP Recovery +300"
+Alchemy,Wise Mans Blood,,Alchemy,Apprentice 1,2.5,3,1,Monks Branch,1,Trace of Ascension,1,Clear Liquid Reagent,2,Blood 3,,,,,Used in Alchemy Recipes
+Alchemy,Workers Elixir,,Alchemy,Apprentice 1,2.5,4,1,Sinners Blood,6,Silver Azalea,4,Ash Sap,2,Powder of Flame,,,,,Gathering +2
+,,,,,,,,,,,,,,,,,,,
+Armor Workshop,Agerian Armor,,Armor Workshop,Level 2,1,3,7,Iron Ingot,3,Soft Hide,10,Black Stone Powder,3,Translucent Crystal,,,,,
+Armor Workshop,Agerian Gloves,,Armor Workshop,Level 2,1,3,2,Iron Ingot,1,Soft Hide,10,Black Stone Powder,3,Translucent Crystal,,,,,
+Armor Workshop,Agerian Helmet,,Armor Workshop,Level 2,1,3,3,Iron Ingot,1,Soft Hide,10,Black Stone Powder,3,Translucent Crystal,,,,,
+Armor Workshop,Agerian Shoes,,Armor Workshop,Level 2,1,3,4,Iron Ingot,2,Soft Hide,10,Black Stone Powder,3,Translucent Crystal,,,,,
+Armor Workshop,Grunil Armor,,Armor Workshop,Level 5,1,3,7,Brass Ingot,3,Fine Tough Hide,10,Black Stone Powder,3,Black Crystal,,,,,
+Armor Workshop,Grunil Gloves,,Armor Workshop,Level 5,1,3,2,Brass Ingot,1,Fine Tough Hide,10,Black Stone Powder,3,Black Crystal,,,,,
+Armor Workshop,Grunil Helmet,,Armor Workshop,Level 5,1,3,3,Brass Ingot,1,Fine Tough Hide,10,Black Stone Powder,3,Black Crystal,,,,,
+Armor Workshop,Grunil Shoes,,Armor Workshop,Level 5,1,3,4,Brass Ingot,2,Fine Tough Hide,10,Black Stone Powder,3,Black Crystal,,,,,
+Armor Workshop,Reblath Armor,,Armor Workshop,Level 1,1,2,14,Melted Iron Shard,6,Thin Hide,10,Black Stone Powder,,,,,,,
+Armor Workshop,Reblath Gloves,,Armor Workshop,Level 1,1,2,6,Melted Iron Shard,2,Thin Hide,10,Black Stone Powder,,,,,,,
+Armor Workshop,Reblath Helmet,,Armor Workshop,Level 1,1,2,6,Melted Iron Shard,4,Thin Hide,10,Black Stone Powder,,,,,,,
+Armor Workshop,Reblath Shoes,,Armor Workshop,Level 1,1,2,8,Melted Iron Shard,5,Thin Hide,10,Black Stone Powder,,,,,,,
+Armor Workshop,Steel Taritas Armor,,Armor Workshop,Level 3,1,3,14,Steel,3,Fine Hard Hide,10,Black Stone Powder,3,Mud Crystal,,,,,
+Armor Workshop,Steel Taritas Gloves,,Armor Workshop,Level 3,1,3,5,Steel,1,Fine Hard Hide,10,Black Stone Powder,3,Mud Crystal,,,,,
+Armor Workshop,Steel Taritas Helmet,,Armor Workshop,Level 3,1,3,6,Steel,1,Fine Hard Hide,10,Black Stone Powder,3,Mud Crystal,,,,,
+Armor Workshop,Steel Taritas Shoes,,Armor Workshop,Level 3,1,3,8,Steel,2,Fine Hard Hide,10,Black Stone Powder,3,Mud Crystal,,,,,
+Armor Workshop,Talis Armor,,Armor Workshop,Level 4,1,3,7,Iron Ingot,3,Fine Soft Hide,10,Black Stone Powder,3,Red Crystal,,,,,
+Armor Workshop,Talis Gloves,,Armor Workshop,Level 4,1,3,2,Iron Ingot,1,Fine Soft Hide,10,Black Stone Powder,3,Red Crystal,,,,,
+Armor Workshop,Talis Helmet,,Armor Workshop,Level 4,1,3,3,Iron Ingot,1,Fine Soft Hide,10,Black Stone Powder,3,Red Crystal,,,,,
+Armor Workshop,Talis Shoes,,Armor Workshop,Level 4,1,3,4,Iron Ingot,2,Fine Soft Hide,10,Black Stone Powder,3,Red Crystal,,,,,
+Armor Workshop,Zereth Armor,,Armor Workshop,Level 5,1,3,7,Iron Ingot,3,Fine Tough Hide,10,Black Stone Powder,3,Green Crystal,,,,,
+Armor Workshop,Zereth Gloves,,Armor Workshop,Level 5,1,3,2,Iron Ingot,1,Fine Tough Hide,10,Black Stone Powder,3,Green Crystal,,,,,
+Armor Workshop,Zereth Helmet,,Armor Workshop,Level 5,1,3,3,Iron Ingot,1,Fine Tough Hide,10,Black Stone Powder,3,Green Crystal,,,,,
+Armor Workshop,Zereth Shoes,,Armor Workshop,Level 5,1,3,4,Iron Ingot,2,Fine Tough Hide,10,Black Stone Powder,3,Green Crystal,,,,,
+,,,,,,,,,,,,,,,,,,,
+Cooking,Aloe Cookie,,Cooking,Beginner 6,2.5,3,5,Aloe,7,Dough,3,Honey,4,Sugar,,,,,All Accuracy +4
+Cooking,Aloe Yogurt,,Cooking,Beginner 6,2.5,1,5,Aloe,2,Milk,3,Sugar,3,Leavening Agent,,,,,Fishing Speed +1
+Cooking,Special Arehaza Meal,,Cooking,Artisan 1,2.5,5,2,Coconut Cocktail,1,Coconut Pasta,1,Coconut Fried Fish,1,Meat Stew,1,Steak,,,"Heatstroke, Hypothermia Resistance +10%, Auto-Fishing time -5%, Movement Speed +2, Critical Hit +1"
+Cooking,Assorted Side Dishes,,Cooking,Apprentice 6,2.5,3,1,Fried Bird,2,Seafood,3,Cheese,5,Fruit,,,,,Life EXP +5%
+Cooking,Balenos Meal,,Cooking,Skilled 6,2.5,4,1,Cheese Gratin,1,Meat Croquette,1,Smoked Fish Steak,2,Beer,2,Stir-fried Vegetables,,,"Move Speed +2, Fishing Speed +2, Gathering Speed +2"
+Cooking,Beer,,Cooking,Beginner 1,2.5,1,1,Sugar,2,Leavening Agent,6,Mineral Water,5,Grain,,,,,Worker Stamina Recovery +2
+Cooking,Boiled Bird Eggs,,Cooking,Beginner 6,2.5,1,3,Egg,6,Mineral Water,1,Cooking Wine,1,Salt,,,,,All AP +1
+Cooking,Borscht,,Cooking,Apprentice 1,2.5,2,7,Fragrant Jerky,3,Milk,1,Cinnamon,2,Mineral Water,,,,,Max Energy +10
+Cooking,Butter-Roasted Lobster,,Cooking,Skilled 1,2.5,3,4,Butter,5,Salt,3,Garlic,1,Lobster,5,Olive Oil,,,"Critical Hit Rate +2, Knockdown/Bound Resistance +10%"
+Cooking,Calpheon Meal,,Cooking,Skilled 6,2.5,4,1,Milk Tea,1,Meat Pasta,1,Fish Fillet Salad,1,Cheese Pie,2,Soft Bread,,,"All DR +1, Max HP +100, HP Recovery +5"
+Cooking,Cheese Gratin,,Cooking,Apprentice 6,2.5,3,1,Grilled Sausage,3,Cheese,5,Dough,3,Red Sauce,4,Vegetable,,,"Max HP +70, Attack Speed +1"
+Cooking,Cheese Pie,,Cooking,Apprentice 6,2.5,3,7,Cheese,4,Dough,3,Egg,3,Butter,,,,,Worker Stamina Recovery +7
+Cooking,Coconut Cocktail,,Cooking,Professional 1,2.5,4,2,Coconut,1,Exotic Herbal Wine,2,Essence of Liquor,1,Fruit,5,Mineral Water,,,Auto-Fishing time -5%
+Cooking,Coconut Fried Fish,,Cooking,Professional 1,2.5,3,3,Coconut,2,Dried Fish,2,Egg,3,Dough,4,Deep Frying Oil,,,"Move Speed +1, Critical Hit Rate +1"
+Cooking,Coconut Pasta,,Cooking,Professional 1,2.5,3,2,Coconut,2,Onion,5,Dough,4,Garlic,1,White Sauce,,,Resistance against heat/sunstroke +10%
+Cooking,Couscous,,Cooking,Skilled 6,2.5,3,1,Freekeh Snake Stew,6,Teff Flour Dough,3,Nutmeg,4,Vegetable,,,,,Processing Success Rate +5%
+Cooking,Dark Pudding,,Cooking,Skilled 1,2.5,3,1,Oatmeal,1,Pickled Vegetables,5,Bird Meat,7,Blood 2,,,,,"All AP +3, Damage Against Humans +2"
+Cooking,Date Palm Wine,,Cooking,Apprentice 6,2.5,3,5,Date Palm,2,Essence of Liquor,1,Sugar,4,Leavening Agent,,,,,All Evasion +4
+Cooking,Desert Dumplings,,Cooking,Apprentice 1,2.5,3,6,Reptile Meat,6,Dough,1,Cinnamon,2,Olive Oil,,,,,Max Stamina +200
+Cooking,Dressing,,Cooking,Beginner 1,2.46,1,1,Egg,2,Salt,1,Olive Oil,1,Mineral Water,,,,,Used in Cooking Recipes
+Cooking,Essence of Liquor,,Cooking,Beginner 1,2.5,2,1,Flour,1,Leavening Agent,1,Fruit,,,,,,,Used in Cooking Recipes
+Cooking,Exotic Herbal Wine,,Cooking,Beginner 1,2.5,3,3,Dough,1,Essence of Liquor,5,Mineral Water,2,Leavening Agent,,,,,Fishing Speed +1
+Cooking,Fig Pie,,Cooking,Apprentice 1,2.5,3,5,Fig,3,Dough,3,Sugar,2,Olive Oil,,,,,Gathering Resource Gain Chance +3%
+Cooking,Fish Fillet Chips,,Cooking,Apprentice 1,2.5,2,2,Dried Fish,3,White Sauce,7,Flour,2,Salt,,,,,Worker Stamina Recovery +5
+Cooking,Fish Fillet Salad,,Cooking,Apprentice 1,2.5,2,4,Dried Fish,2,Cheese,3,Onion,2,Dressing,,,,,Move Speed +1
+Cooking,Fish Soup,,Cooking,Apprentice 1,2.5,2,2,Dried Fish,3,Flour,2,Cream,6,Mineral Water,,,,,Critical Hit Rate +1
+Cooking,Five-Grain Chicken Porridge,,Cooking,Beginner 6,2.5,2,2,Ground Bird Meat,2,Mineral Water,3,Grain,,,,,,,
+Cooking,Freekeh Snake Stew,,Cooking,Apprentice 1,2.5,1,5,Mineral Water,6,Freekeh,3,Snake Meat,2,Star Anise,,,,,Worker Stamina Recovery +5
+Cooking,Fried Bird,,Cooking,Apprentice 1,2.5,2,7,Bird Meat,4,Flour,2,Egg,3,Pepper,,,,,HP Recovery +5
+Cooking,Fried Fish,,Cooking,Beginner 1,2.5,2,2,Dried Fish,3,Flour,2,Deep Frying Oil,,,,,,,Movement Speed +1
+Cooking,Fried Vegetables,,Cooking,Beginner 6,2.5,3,4,Vegetable,3,Dough,2,Egg,6,Deep Frying Oil,,,,,HP Recovery +2
+Cooking,Fruit and Vegetable Salad,,Cooking,Apprentice 1,2.5,2,4,Fruit,2,Cooking Wine,4,Vegetable,1,Vinegar,,,,,MP/WP/SP Recovery +5
+Cooking,Fruit Juice,,Cooking,Beginner 6,2.5,1,4,Fruit,3,Sugar,5,Mineral Water,1,Salt,,,,,Max MP/WP/SP +30
+Cooking,Fruit Pie,,Cooking,Apprentice 6,2.5,3,6,Dough,6,Fruit,3,Cream,4,Sugar,,,,,"Max MP/WP/SP +70, Casting Speed +1"
+Cooking,Fruit Pudding,,Cooking,Beginner 6,2.5,2,5,Fruit,1,Cream,3,Milk,2,Sugar,,,,,MP/WP/SP Recovery +2
+Cooking,Fruit Wine,,Cooking,Apprentice 1,2.5,4,5,Fruit,2,Mineral Water,1,Exotic Herbal Wine,3,Essence of Liquor,,,,,Fishing Speed +1
+Cooking,Full-Bodied Exotic Herbal Wine,,Cooking,Skilled 1,0.29,3,3,Dough,1,Essence of Liquor,5,Mineral Water,2,Leavening Agent,,,,,Fishing Speed +1. *Crit item for Exotic Herbal Wine
+Cooking,Ghormeh Sabzi,,Cooking,Professional 1,2.5,1,5,Yak Meat,2,Grain,5,Garlic,2,Salt,1,Milk,,,
+Cooking,Good Feed,,Cooking,Apprentice 1,2.5,2,6,Red Meat,2,Dried Fish,3,Mineral Water,5,Flour,,,,,Recovers 80 Hunger on Pets
+Cooking,Grain Soup,,Cooking,Beginner 1,2.5,2,6,Grain,1,Purified Water,3,Cooking Wine,1,Salt,,,,,Gathering Speed +1
+Cooking,Grilled Bird Meat,,Cooking,Beginner 1,2.5,1,2,Bird Meat,6,Deep Frying Oil,1,Salt,2,Cooking Wine,,,,,
+Cooking,Grilled Sausage,,Cooking,Beginner 6,2.5,1,6,Red Meat,1,Onion,2,Pepper,2,Salt,,,,,All AP +1
+Cooking,Grilled Scorpion,,Cooking,Skilled 1,2.5,3,3,Scorpion Meat,2,Butter,3,Nutmeg,3,Hot Pepper,,,,,Damages from Monsters -5%
+Cooking,Ham Sandwich,,Cooking,Skilled 1,2.5,4,2,Soft Bread,2,Grilled Sausage,5,Vegetable,4,Egg,,,,,"All AP +3, All Accuracy +8"
+Cooking,Hard-boiled Gargoyle Leg,,Cooking,Skilled 1,2.5,4,1,Gargoyle Leg,2,Exotic Herbal Wine,3,Onion,3,Garlic,2,Vinegar,,,"Hunting Damage +500, Attack Speed +1"
+Cooking,Hard-Boiled Shellfish,,Cooking,Skilled 1,2.5,3,2,Dried Seafood,3,Essence of Liquor,4,Garlic,2,Hot Pepper,5,Olive Oil,,,"Gathering Speed +2, Underwater Breathing +10 sec"
+Cooking,High-Quality Carrot Juice,,Cooking,Beginner 1,2.5,2,1,High-Quality Carrot,3,Flour,3,Sugar,4,Mineral Water,,,,,Recover Mount HP +400
+Cooking,Honey Wine,,Cookinig,Apprentice 1,2.5,3,3,Honey,2,Essence of Liquor,2,Sugar,6,Mineral Water,,,,,All Damage Reduction +2
+Cooking,Honeycomb Cookie,,Cooking,Apprentice 6,2.5,3,4,Dough,6,Honey,2,Egg,4,Milk,,,,,"Weight Limit +50 LT, Fishing Speed +1"
+Cooking,Hunters Salad,,Cooking,Apprentice 1,2.5,2,1,Soft Whale Meat,2,Vinegar,2,Dressing,5,Garlic,,,,,Increases Matchlock Reload Speed greatly
+Cooking,Kamasylvia Meal,,Cooking,Professional 6,2.5,5,1,Rainbow Button Mushroom Sandwich,1,Coconut Pasta,1,Fig Pie,2,Fruit Wine,1,Rainbow Button Mushroom Cheese Melt,,,"Max HP +150, Max Stamina +200, Back Attack Damage +5%"
+Cooking,Khalks Fermented Wine,,Cooking,Professional 1,2.5,4,1,Fugitive Khalks Horn,5,Honey Wine,6,Date Palm,6,Leavening Agent,6,Sugar,,,"All AP +7, Move Speed +1, HP Recovery +10, Increases Matchlock Reload Speed Slightly"
+Cooking,King of Jungle Hamburg,,Cooking,Professional 1,2.5,3,4,Lion Meat,4,Teff Bread,2,Pickled Vegetables,3,Nutmeg,,,,,"Ignores All Resistance +3%, Critical Hit Damage +5%"
+Cooking,Knight Combat Rations,,Cooking,Skilled 6,2.5,5,1,Dark Pudding,1,Ham Sandwich,1,Meat Croquette,1,Fruit Wine,,,,,"All Attack +5, Extra Damage Against Humans +5, All Damage Reduction +5"
+Cooking,Lean Meat Salad,,Cooking,Apprentice 6,2.5,2,8,Red Meat,2,Vinegar,3,Pepper,4,Dressing,,,,,"All Damager Reduction +3, HP Auto Recovery +5"
+Cooking,Lizard Kebab,,Cooking,Beginner 6,2.5,2,6,Reptile Meat,2,Red Sauce,3,Onion,7,Grain,,,,,Max Stamina +100
+Cooking,Margoria Seafood Meal,,Cooking,Artisan 1,2.5,5,1,Butter-Roasted Lobster,1,Steamed Prawn,2,Fruit Wine,1,Prawn Salad,1,Pan-Fried Oyster,,,"Weight LImit +50LT, Move Speed +2, Critial Hit Rate +2, Max HP +100"
+Cooking,Meat Croquette,,Cooking,Apprentice 6,2.5,2,8,Red Meat,5,Flour,4,Deep Frying Oil,2,Egg,2,Cheese,,,Combat EXP +5%
+Cooking,Meat Pasta,,Cooking,Apprentice 1,2.5,3,5,Red Meat,2,Garlic,4,Dough,3,Pepper,,,,,Weight LImit +40LT
+Cooking,Meat Pie,,Cooking,Apprentice 1,2.5,3,4,Red Meat,6,Dough,2,Sugar,2,Olive Oil,,,,,Max Stamina +200
+Cooking,Meat Sandwich,,Cooking,Apprentice 6,2.5,4,1,Soft Bread,7,Red Meat,6,Vegetable,3,Cheese,,,,,"Move Speed +1, Max Stamina +200"
+Cooking,Meat Soup,,Cooking,Beginner 6,2.5,1,5,Red Meat,1,Pepper,2,Cream,4,Mineral Water,,,,,Critical Hit Rate +1
+Cooking,Meat Stew,,Cooking,Beginner 6,2.5,2,5,Red Meat,2,Flour,2,Cooking Wine,3,Mineral Water,,,,,Max HP +30
+Cooking,Mediah Meal,,Cooking,Skilled 6,2.5,4,1,Dark Pudding,1,Oatmeal,2,Grilled Sausage,1,Lean Meat Salad,2,Exotic Herbal Wine,,,"All Attack +5, Attack Speed +1, Casting Speed +1"
+Cooking,Milk Tea,,Cooking,Skilled 1,2.5,2,2,Tea With Fine Scent,3,Cooking Honey,3,Milk,2,Flour,,,,,"Combat EXP +8%, HP Recovery +5"
+Cooking,Oatmeal,,Cooking,Apprentice 1,2.5,2,9,Flour,3,Milk,3,Onion,2,Cooking Honey,,,,,Worker Stamina Recovery +5
+Cooking,Omelet,,Cooking,Apprentice 1,2.5,1,5,Grain,2,Olive Oil,5,Egg,2,Salt,,,,,All Damage Reduction +2
+Cooking,Organic Feed,,Cooking,Apprentice 6,2.5,3,2,Oatmeal,5,Red Meat,4,Chicken Meat,4,Dried Fish,,,,,Recovers 140 Hunger for pets
+Cooking,Pan-Fried Oyster,,Cooking,Skilled 1,2.5,2,3,Oyster,5,Flour,3,Olive Oil,2,Egg,2,Vinegar,,,"Attack Speed +2, Casting Speed +2, Stun/Stiffness/Freezing Resistanc e+10%"
+Cooking,PIckled Fish,,Cooking,Apprentice 1,2.5,2,2,Dried Fish,2,Vinegar,4,Salt,2,Leavening Agent,,,,,Amity +5%
+Cooking,Pickled Vegetables,,Cooking,Apprentice 1,2.5,2,8,Vegetable,4,Vinegar,2,Leavening Agent,2,Sugar,,,,,Gathering Speed +1
+Cooking,Pistachio Fried Rice,,Cooking,Apprentice 6,2.5,1,4,Pistachio,6,Teff,2,Cinnamon,2,Salt,,,,,Processing Success Rate +3%
+Cooking,Prawn Salad,,Cooking,Skilled 1,2.5,3,2,Shrimp,3,Olive Oil,3,Egg,2,Fruit and Vegetable Salad,2,Salt,,,"Weight Limit +40LT, Knockback/Floating Resistance +10%"
+Cooking,Rainbow Button Mushroom Cheese Melt,,Cooking,Professional 1,2.5,2,1,Rainbow Button Mushroom,2,Red Meat,2,Cheese,3,Salt,4,Olive Oil,,,Back Attack Damage +5%
+Cooking,Rainbow Button Mushroom Sandwich,,Cooking,Professional 1,2.5,4,1,Rainbow Button Mushroom,1,Soft Bread,2,Cream,2,Onion,4,Olive Oil,,,"Max HP +150, Max Stamina +150"
+Cooking,Red Sauce,,Cooking,Beginner 1,2.46,1,1,Base Sauce,2,Sugar,2,Mineral Water,1,Red Meat,,,,,Used in Cooking Recipes
+Cooking,Roast Marmot,,Cooking,Professional 1,2.5,2,5,Marmot Meat,3,Hot Pepper,2,Salt,1,Red Sauce,3,Cooking Wine,,,
+Cooking,Seafood Grilled with Butter,,Cooking,Beginner 6,2.5,3,2,Dried Seafood,3,Butter,2,Salt,1,Olive OIl,,,,,Attack Speed +1
+Cooking,Seafood Mushroom Salad,,Cooking,Beginner 6,2.5,2,2,Dried Fish,1,Fortune Teller Mushroom,2,Dressing,,,,,,,Weight Limit +20LT
+Cooking,Seafood Pasta,,Cooking,Apprentice 1,2.5,3,4,Dried Seafood,5,Dough,3,Cooking Wine,3,Garlic,,,,,Casting Speed +1
+Cooking,Serendia Meal,,Cooking,Skilled 6,2.5,5,1,Ham Sandwich,1,Meat Pie,1,Honeycomb Cookie,2,Boiled Bird Eggs,2,Fruit Wine,,,"All AP +5, All Accuracy +10, Critical Hit Rate +1"
+Cooking,Skewered Llama Cheese Melt,,Cookinig,Professional 1,2.5,2,5,Llama Meat,4,Cheese,3,Hot Pepper,1,Pepper,1,White Sauce,,,
+Cooking,Smoked Fish Steak,,Cooking,Apprentice 1,2.5,1,1,Dried Fish,1,Olive Oil,2,Salt,,,,,,,Attack Speed +1
+Cooking,Soft Bread,,Cooking,Beginner 6,2.5,3,6,Dough,2,Leavening Agent,2,Egg,3,Milk,,,,,Max Stamina +100
+Cooking,Special Carrot Juice,,Cooking,Beginner 6,2.5,2,1,Special Carrot,3,Flour,3,Sugar,4,Mineral Water,,,,,Recove Mount HP +600
+Cooking,Special Drieghanese Meal,,Cooking,Master 1,2.5,4,1,Skewered Llama Cheese Melt,1,Stir-Fried Bracken,1,Roast Marmot,1,Ghormeh Sabzi,2,Honey Wine,,,
+Cooking,Steak,,Cookinig,Apprentice 1,2.5,2,8,Red Meat,2,Salt,2,Garlic,2,Red Sauce,,,,,Max HP +50
+Cooking,Steamed Bird,,Cooking,Apprentice 1,2.5,3,5,Bird Meat,3,Vegetable,2,Essence of Liquor,2,Vinegar,2,Salt,,,Combat EXP +3%
+Cooking,Steamed Fish,,Cooking,Beginner 6,2.5,1,2,Dried Fish,2,Garlic,2,Salt,3,Mineral Water,,,,,All Accuracy +4
+Cooking,Steamed Prawn,,Cooking,Skilled 1,2.5,1,4,Shrimp,3,Paprika,4,Mineral Water,2,Hot Pepper,3,Cooking Wine,,,"Move Speed +2, Grapple Resistance +10%"
+Cooking,Steamed Seafood,,Cooking,Apprentice 1,2.5,1,4,Dried Seafood,3,Hot Pepper,6,Mineral Water,2,Salt,,,,,All Accuracy +6
+Cooking,Steamed Whale Meat,,Cooking,Skilled 1,2.5,4,1,Blue Whale Meat,1,Honey Wine,4,Garlic,2,Salt,6,Mineral Water,,,"All Damage Reduction +2, All Evasion +8"
+Cooking,Stir-Fried Bracken,,Cooking,Professional 1,2.5,1,8,Bracken,5,Garlic,2,Salt,5,Mineral Water,2,Olive Oil,,,
+Cooking,Stir-fried Gazelle Hind Leg,,Cooking,Skilled 1,2.5,1,1,Gazelle Hind Leg,3,Garlic,5,Olive OIl,3,Vegetable,5,Salt,,,"Weight Limit +40 LT, Max Stamina +150"
+Cooking,Stir-Fried Meat,,Cooking,Apprentice 1,2.5,1,7,Red Meat,2,Base Sauce,2,Onion,3,Hot Pepepr,,,,,All AP +2
+Cooking,Stir-Fried Seafood,,Cooking,Beginner 6,2.5,1,2,Dried Seafood,4,Vegetable,2,Base Sauce,2,Hot Pepper,,,,,Casting Speed +1
+Cooking,Stir-fried Vegetables,,Cooking,Beginner 6,2.5,1,5,Vegetable,2,Hot Pepper,2,Olive Oil,1,Salt,,,,,Jump Height Up
+Cooking,Sute Tea,,Cooking,Skilled 1,2.5,3,2,Tea With Fine Scent,2,Butter,3,Milk,1,Salt,,,,,Life EXP +8%
+Cooking,Sweet Honey Wine,,Cooking,Beginner 1,1,4,2,Top-Quality Cooking Honey,4,Full-Bodied Exotic Herbal Wine,10,Sugar,2,Fruit,,,,,
+Cooking,Tea With Fine Scent,,Cooking,Apprentice 1,2.5,1,4,Flower,4,Fruit,7,Mineral Water,3,Cooking Honey,,,,,Max MP/WP/SP +50
+Cooking,Teff Bread,,Cooking,Beginner 6,2.5,2,5,Teff Flour,3,Mineral Water,2,Salt,2,Leavening Agent,,,,,Cooking / Alchemy Time -0.3 sec
+Cooking,Teff Sandwich,,Cooking,Professional 1,2.5,4,1,Teff Bread,1,Grilled Scorpion,1,Freekeh Snake Stew,3,Red Sauce,,,,,Cooking / Alchmey Time -0.5 sec
+Cooking,Valencian Meal,,Cooking,Professional 6,2.5,5,1,Teff Sandwich,1,King of Jungle Hamburg,1,Couscous,2,Fig Pie,2,Date Palm Wine,,,"Nullifying All Resistance +4%, Resistance Against All Debuffs +4%, All Evasion +10, Damage from Monsters -6%"
+Cooking,Vinegar,,Cooking,Beginner 1,2.5,1,1,Grain,1,Leavening Agent,1,Fruit,1,Sugar,,,,,used in Cooking Recipes
+Cooking,Whale Meat Salad,,Cooking,Skilled 1,2.5,2,1,Blue Whale Meat,6,Vegetable,2,Dressing,3,Egg,4,Pepper,,,"Life EXP +10%, Max Energy +10"
+Cooking,White Sauce,,Cooking,Beginner 1,2.5,1,1,Base Sauce,1,Milk,1,Fruit,2,Cooking Wine,,,,,used in Cooking Recipes
+,,,,,,,,,,,,,,,,,,,
+Costume Mill,Silver Embroidered Alchemists Clothes,,Costume Mill,,1,,10,Wool,10,Powder of Darkness,15,Black Stone Powder,,,,,,,
+Costume Mill,Silver Embroidered Cooks Clothes,,Costume Mill,,1,,9,Cotton Fabric,10,Powder of Earth,15,Black Stone Powder,,,,,,,
+Costume Mill,Silver Embroidered Craftsmans Clothes,,Costume Mill,,1,,10,Wool,10,Powder of Flame,15,Black Stone Powder,,,,,,,
+Costume Mill,Silver Embroidered Farmers Clothes,,Costume Mill,,1,,12,Cotton Fabric,10,Trace of Forest,15,Black Stone Powder,,,,,,,
+Costume Mill,Silver Embroidered Fishers Clothes,,Costume Mill,,1,,10,Flax Fabric,10,Powder of Time,15,Black Stone Powder,,,,,,,
+Costume Mill,Silver Embroidered Gatherers Clothes,,Costume Mill,,1,,10,Flax Fabric,10,Trace of Forest,15,Black Stone Powder,,,,,,,
+Costume Mill,Silver Embroidered Traders Clothes,,Costume Mill,,1,,10,Cotton Fabric,10,Powder of Crevice,15,Black Stone Powder,,,,,,,
+Costume Mill,Silver Embroidered Trainers Clothes,,Costume Mill,,1,,9,Flax Fabric,10,Trace of Battle,15,Black Stone Powder,,,,,,,
+Costume Mill,[Berserker] Serendian Soldier costume,,Costume Mill,,1,,1,Design: Serendian Soldier Costume - Berserker,50,Steel,10,Fine Hard Hide,15,Flax Fabric,25,Black Stone Powder,,,
+Costume Mill,[Maehwa] Serendian Blacksmith Costume,,Costume Mill,,1,,1,Design: Serendian Blacksmith Costume - Maehwa,10,Steel,15,Fine Tough Hide,25,Flax Fabric,25,Black Stone Powder,,,
+Costume Mill,[Musa] Serendian Soldier Costume,,Costume Mill,,1,,1,Design: Serendian Soldier Costume,40,Steel,10,Fine Hard Hide,15,Flax Fabric,25,Black Stone Powder,,,
+Costume Mill,[Ninja] Serendian Soldier Costume,,Costume Mill,,1,,1,Design: Serendian Soldier Costume - Ninja,40,Steel,10,Fine Hard Hide,15,Flax Fabric,25,Black Stone Powder,,,
+Costume Mill,[Ranger] Serendian Blacksmith Costume,,Costume Mill,,1,,1,Design: Serendian Blacksmith Costume - Ranger,10,Steel,15,Fine Tough Hide,25,Flax Fabric,25,Black Stone Powder,,,
+Costume Mill,[Sorceress] Serendian Blacksmith Costume,,Costume Mill,,1,,1,Design: Serendian Blacksmith Costume - Sorceress,10,Steel,15,Fine Tough Hide,25,Flax FAbric,25,Black Stone Powder,,,
+Costume Mill,[Tamer] Serendian Blacksmith Costume,,Costume Mill,,1,,1,Design: Serendian Blacksmith Costume - Tamer,10,Steel,15,Fine Tough Hide,25,Flax Fabric,25,Black Stone Powder,,,
+Costume Mill,[Valkyrie] Serendian Blacksmith Costume,,Costume Mill,,1,,1,Design: Serendian Blacksmith Costume - Valkyrie,10,Steel,15,Fine Tough Hide,25,Flax Fabric,25,Black Stone Powder,,,
+Costume Mill,[Warrior] Serendian Soldier Costume,,Costume Mill,,1,,1,Design: Serendian Soldier Costume - Warrior,40,Steel,10,Fine Hard Hide,15,Flax Fabric,25,Black Stone Powder,,,
+Costume Mill,[Witch] Serendian Blacksmith Costume,,Costume Mill,,1,,1,Design: Serendian Blacksmith Costume - Witch,10,Steel,15,Fine Tough Hide,25,Flax Fabric,25,Black Stone Powder,,,
+Costume Mill,[Wizard] Serendian Soldier Costume,,Costume Mill,,1,,1,Design: Serendian Soldier Costume - Wizard,40,Steel,10,Fine Hard Hide,15,Flax Fabric,25,Black Stone Powder,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Elephant Nursery,[Guild] Registration: Valencia Elephant,,Elephant Nursery,Grade 1,1,5,250,[Guild] Clearance Permit,1,[Guild] Baby Elephant,400,[Guild] Water for Elephant,850,[Guild] Elephant Food,800,[Guild] Elephant Cage Parts,600,[Guild] Timber for Fixing the Cage,
+Elephant Nursery,[Guild] Registration: Cadria Elephant,,Elephant Nursery,Grade 1,1,6,450,[Guild] Clearance Permit,1,[Guild] Registration: Valencia Elephant,480,[Guild] Cadria Elephant Drinking Water,960,[Guild] Cadria Elephant Food,700,[Guild] Restoration of Cadrys Forbidden Book,700,[Guild] Old Moon Magic Neutralizer,
+Elephant Nursery,[Guild] Steel Mask for Combat,,Elephant Nursery,Grade 2,1,5,25,[Guild] Clearance Permit,2,Special Iron Ingot from Calpheon Workshops,120,[Guild] Phoenix Skin,100,[Guild] Vanadium Chain,,,,,
+Elephant Nursery,[Guild] Steel Armor for Combat,,Elephant Nursery,Grade 2,1,5,25,[Guild] Clearance Permit,2,Special Iron Ingot from Calpheon Workshops,125,[Guild] Everlasting Tree Plywood,115,[Guild] Titanium Stud,,,,,
+Elephant Nursery,[Guild] Silk Saddle for Combat,,Elephant Nursery,Grade 2,1,5,25,[Guild] Clearance Permit,2,[Guild] Special Silk from Shakatu League,115,[Guild] Phoenix Skin,90,[Guild] Tough Silk Thread,,,,,
+Elephant Nursery,[Guild] Silk Stirrups for Combat,,Elephant Nursery,Grade 2,1,5,25,[Guild] Clearance Permit,2,[Guild] Special Silk from Shakatu League,110,[Guild] Everlasting Tree Plywood,85,[Guild] Beasts Skin,,,,,
+Elephant Nursery,[Guild] Capotia Golden Elephant Mask,,Elephant Nursery,Grade 2,1,5,55,[Guild] Clearance Permit,25,[Guild] Oberins Gold Ingot,125,[Guild] Shakatu Oriental Steel,195,[Guild] Vanadium Chain,,,,,
+Elephant Nursery,[Guild] Capotia Golden Elephant Armor,,Elephant Nursery,Grade 2,1,5,55,[Guild] Clearance Permit,200,[Guild] Shakatu Oriental Steel,100,[Guild] Trent Treant Plywood,240,[Guild] Titanium Stud,,,,,
+Elephant Nursery,[Guild] Capotia Silk Saddle,,Elephant Nursery,Grade 2,1,5,55,[Guild] Clearance Permit,100,[Guild] Shakatu Oriental Silk,230,[Guild] Phoenix Skin,185,[Guild] Tough Silk Thread,,,,,
+Elephant Nursery,[Guild] Capotia Silk Stirrups,,Elephant Nursery,Grade 2,1,5,55,[Guild] Clearance Permit,50,[Guild] Shakatu Oriental Silk,220,[Guild] Trent Treant Plywood,180,[Guild] Beasts Skin,,,,,
+,,,,,,,,,,,,,,,,,,,
+Guild Shipyard,[Guild] Galley: Cloud Breeze Sail,,Guild Shipyard,Grade 2,1,5,50,[Guild] Clearance Permit,150,[Guild] Lavania Finest Flax Cloth Bundle,250,[Guild] Tough Silk Thread,50,[Guild] Stormy Rope,,,,,
+Guild Shipyard,[Guild] Galley: Enhanced Blue Plating,,Guild Shipyard,Grade 2,1,5,50,[Guild] Clearance Permit,120,[Guild] Trent Treant Plywood,40,[Guild] Crude Decoration,50,[Guild] Cloudy Timber,,,,,
+Guild Shipyard,[Guild] Galley: Sophia Cannon,,Guild Shipyard,Grade 2,1,5,50,[Guild] Clearance Permit,4,[Guild] Goddesss Tear Crystal,16,[Guild] Special Iron Ingot from Calpheon Workshop,80,[Guild] Sandy Ingot,,,,,
+Guild Shipyard,[Guild] Galley: Stellers Sea Eagle Prow,,Guild Shipyard,Grade 2,1,5,50,[Guild] Clearance Permit,60,[Guild] Ficy Workshop Special Bronze Ingot Box,50,[Guild] Sticky Glue,2,[Guild] Sea Horn,,,,,
+Guild Shipyard,[Guild] Ship License: Galley,,Guild Shipyard,Grade 1,1,5,300,[Guild] Clearance Permit,25,[Guild] Galley Plan,800,[Guild] Iron Core Timber Square,600,[Guild] Desert Alloy Ingot,1500,[Guild] Spirit-laden Plywood,160,[Guild] Wind-laden Flax Cloth,
+,,,,,,,,,,,,,,,,,,,
+Mount Part Workshop,[Guild] Bountiful Basket,,Mount Part Workshop,,1,5,10,[Guild] Clearance Permit,25,[Guild] Soft Hay,10,[Guild] Juicy Fruits,10,[Guild] Fresh Vegetables,10,[Guild] Elephant Food,,,
+Mount Part Workshop,[Guild] Origin of Wind,,Mount Part Workshop,,1,5,2,[Guild] Breezy Crystal,2,[Guild] Sticky Glue,2,[Guild] Sea Monsters Neidan,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Handcraft Workshop,Ain Amulet,,Handcraft Workshop,Level 2,1,5,2,Steel,1,Pure Tin Crystal,1,Fine Fancy Reptile Skin,4,Trace of Savagery,12,Black Stone Powder,,,
+Handcraft Workshop,Ain Gauntlet,,Handcraft Workshop,Level 2,1,5,5,Steel,1,Pure Tin Crystal,2,Fine Fancy Reptile Skin,3,Trace of Savagery,8,Black Stone Powder,,,
+Handcraft Workshop,Ain Staff,,Handcraft Workshop,Level 2,1,5,1,Pure Tin Crystal,3,Ash Sap,2,Ash Timber,5,Monks Branch,4,Trace of Savagery,12,Black Stone Powder,
+Handcraft Workshop,Azwell Amulet,,Handcraft Workshop,Level 1,1,5,2,Steel,1,Pure Copper Crystal,1,Fine Fancy Reptile Skin,5,Black Stone Powder,,,,,
+Handcraft Workshop,Azwell Gauntlet,,Handcraft Workshop,Level 1,1,5,5,Steel,1,Pure Copper Crystal,2,Fine Fancy Reptile Skin,3,Black Stone Powder,,,,,
+Handcraft Workshop,Azwell Staff,,Handcraft Workshop,Level 1,1,5,1,Pure Copper Crystal,2,Ash Sap,2,Ash Timber,5,Monks Branch,5,Black Stone Powder,,,
+Handcraft Workshop,Bares Amulet,,Handcraft Workshop,Level 4,1,5,2,Steel,1,Pure Platinum Crystal,1,Fine Fancy Reptile Skin,4,Trace of Battle,12,Black Stone Powder,,,
+Handcraft Workshop,Bares Gauntlet,,Handcraft Workshop,Level 4,1,5,5,Steel,1,Pure Platinum Crystal,2,Fine Fancy Reptile Skin,5,Trace of Battle,8,Black Stone Powder,,,
+Handcraft Workshop,Bares Staff,,Handcraft Workshop,Level 4,1,5,1,Pure Platinum Crystal,3,Maple Sap,2,Maple Timber,5,Monks Branch,4,Trace of Battle,12,Black Stone Powder,
+Handcraft Workshop,Blade Trinket,,Handcraft Workshop,Level 4,1,5,2,Lead Ingot,1,Pure Iron Crystal,3,Cotton Yarn,10,Powder of Earth,10,Black Stone Powder,,,
+Handcraft Workshop,Blue Coral Belt,,Handcraft Workshop,Level 2,1,4,1,Polished Coral Belt,3,Polished Opal,3,Blue Coral,,,,,,,
+Handcraft Workshop,Breezy White Coral Belt,,Handcraft Workshop,Level 4,1,6,1,Brilliant White Coral Belt,2,Moonlight Opal,3,Breezy White Coral,,,,,,,
+Handcraft Workshop,Brilliant Blue Coral Belt,,Handcraft Workshop,Level 3,1,5,1,Blue Coral Belt,2,Brilliant Opal,5,Blue Coral,,,,,,,
+Handcraft Workshop,Brilliant Golden Coral Belt,,Handcraft Workshop,Level 3,1,5,1,Golden Coral Belt,2,Brilliant Opal,5,Golden Coral,,,,,,,
+Handcraft Workshop,Brilliant Green Coral Belt,,Handcraft Workshop,Level 3,1,5,1,Green Coral Belt,2,Brilliant Opal,5,Green Coral,,,,,,,
+Handcraft Workshop,Brilliant Red Coral Belt,,Handcraft Workshop,Level 3,1,5,1,Red Coral Belt,2,Brilliant Opal,5,Red Coral,,,,,,,
+Handcraft Workshop,Brilliant White Coral Belt,,Handcraft Workshop,Level 3,1,5,1,White Coral Belt,2,Brilliant Opal,5,White Coral,,,,,,,
+Handcraft Workshop,Coral Belt,,Handcraft Workshop,Level 1,1,2,5,Rough Opal,2,Coral Piece,1,Hard Hide,,,,,,,
+Handcraft Workshop,Daybreak Blue Coral Belt,,handcraft Workshop,Level 4,1,6,1,Brilliant Blue Coral Belt,2,Moonlight Opal,3,Daybreak Blue Coral,,,,,,,
+Handcraft Workshop,Golden Coral Belt,,Handcraft Workshop,Level 2,1,4,1,Polished Coral Belt,3,Polished Opal,3,Golden Coral,,,,,,,
+Handcraft Workshop,Golden Sun Coral Belt,,Handcraft Workshop,Level 4,1,6,1,Brilliant Golden Coral Belt,2,Moonlight Opal,3,Golden Sun Coral,,,,,,,
+Handcraft Workshop,Green Coral Belt,,Handcraft Workshop,Level 2,1,4,1,Polished Coral Belt,3,Polished Opal,3,Green Coral,,,,,,,
+Handcraft Workshop,Helrick Talisman,,Handcraft Workshop,Level 2,1,5,1,Bronze Ingot,1,Pure Copper Crystal,1,Fine Thin Hide,10,Powder of Darkness,10,Black Stone Powder,,,
+Handcraft Workshop,Incense Trinket,,Handcraft Workshop,Level 2,1,5,2,Brass Ingot,1,Pure Iron Crystal,3,Flax Thread,10,Powder of Darkness,10,Black Stone Powder,,,
+Handcraft Workshop,Iron Vambrace,,Handcraft Workshop,Level 4,1,5,3,Steel,1,Pure Iron Crystal,1,Fine Hard Hide,10,Powder of Earth,8,Black Stone Powder,,,
+Handcraft Workshop,Jubre Talisman,,Handcraft Workshop,Level 3,1,5,1,Steel,1,Pure Zinc Crystal,1,Fine Thin Hide,10,Powder of Flame,10,Black Stone Powder,,,
+Handcraft Workshop,Kalis Amulet,,Handcraft Workshop,Level 3,1,5,2,Steel,1,Pure Iron Crystal,1,Fine Fancy Reptile Skin,4,Trace of Violence,12,Black Stone Powder,,,
+Handcraft Workshop,Kalis Gauntlet,,Handcraft Workshop,Level 3,1,5,5,Steel,1,Pure Iron Crystal,2,Fine Fancy Reptile Skin,5,Trace of Violence,8,Black Stone Powder,,,
+Handcraft Workshop,Kalis Staff,,Handcraft Workshop,Level 3,1,3,1,Steel,3,Maple Sap,2,Maple Timber,5,Monks Branch,4,Trace of Violence,12,Black Stone Powder,
+Handcraft Workshop,Krea Amulet,,HAndcraft Workshop,Level 4,1,5,2,Steel,1,Pure Silver Crystal,1,Fine Tough Hide,4,Trace of Despair,12,Black Stone Powder,,,
+Handcraft Workshop,Krea Gauntlet,,HAndcraft Workshop,Level 4,1,5,5,Steel,1,Pure Silver Crystal,2,Fine Tough Hide,5,Trace of Despair,8,Black Stone Powder,,,
+Handcraft Workshop,Krea Ornamental Knot,,HAndcraft Workshop,Level 4,1,5,1,Brass Ingot,1,Pure Silver Crystal,5,Silk Thread,10,Powder of Darkness,6,Black Stone Powder,,,
+Handcraft Workshop,Krea Staff,,HAndcraft Workshop,Level 4,1,5,1,Pure Silver Crystal,3,Birch Sap,2,Birch Timber,5,Monks Branch,4,Trace of Despair,12,Black Stone Powder,
+Handcraft Workshop,Krea Talisman,,HAndcraft Workshop,Level 4,1,5,1,Brass Ingot,1,Pure Silver Crystal,1,Fine Thin Hide,10,Powder of Crevice,10,Black Stone Powder,,,
+Handcraft Workshop,Krea Trinket,,HAndcraft Workshop,Level 4,1,5,2,Brass Ingot,1,Pure Silver Crystal,3,Silk Thread,10,Powder of Crevice,10,Black Stone Powder,,,
+Handcraft Workshop,Krea Vambrace,,HAndcraft Workshop,Level 4,1,5,3,Steel,1,Pure Silver Crystal,1,Fine Hard Hide,10,Powder of Crevice,8,Black Stone Powder,,,
+Handcraft Workshop,Leather Vambrace,,Handcraft Workshop,Level 2,1,5,3,Steel,1,Pure Iron Crystal,1,Fine Hard Hide,10,Powder of Darkness,8,Black Stone Powder,,,
+Handcraft Workshop,Needle Trinket,,Handcraft Workshop,Level 3,1,5,2,Steel,1,Pure Iron Crystal,3,Knitting Yarn,10,Powder of Flame,10,Black Stone Powder,,,
+Handcraft Workshop,Oros Ornamental Knot,,Handcraft Workshop,Level 3,1,5,4,Steel,1,Pure Iron Crystal,3,Powder of Flame,6,Black Stone Powder,,,,,
+Handcraft Workshop,Polished Coral Belt,,Handcraft Workshop,Level 1,1,3,1,Coral Belt,2,Polished Opal,5,Coral Piece,,,,,,,
+Handcraft Workshop,Prairie Green Coral Belt,,Handcraft Workshop,Level 4,1,6,1,Brilliant Green Coral Belt,2,Moonlight Opal,3,Prairie Green Coral,,,,,,,
+Handcraft Workshop,Red Coral Belt,,Handcraft Workshop,Level 2,1,4,1,Polished Coral Belt,3,Polished Opal,3,Red Coral,,,,,,,
+Handcraft Workshop,Rhik Talisman,,Handcraft Workshop,Level 4,1,5,1,Brass Ingot,1,Pure Copper Crystal,1,Fine Thin Hide,10,Powder of Earth,10,Black Stone Powder,,,
+Handcraft Workshop,Saiyer Ornamental Knot,,Handcraft Workshop,Level 2,1,5,1,Bronze Ingot,1,Pure Iron Crystal,3,Cotton Yarn,10,Powder of Time,6,Black Stone Powder,,,
+Handcraft Workshop,Scale Vambrace,,Handcraft Workshop,Level 3,1,5,3,Steel,1,Pure Iron Crystal,1,Fine Hard Hide,10,Powder of Flame,8,Black Stone Powder,,,
+Handcraft Workshop,Seleth Amulet,,Handcraft Workshop,level 2,1,5,2,Steel,1,Pure Lead Crystal,1,Fine Tough Hide,4,Trace of Death,12,Black Stone Powder,,,
+Handcraft Workshop,Seleth Gauntlet,,Handcraft Workshop,Level 2,1,5,5,Steel,1,Pure Lead Crystal,2,Fine Tough Hide,5,Trace of Death,8,Black Stone Powder,,,
+Handcraft Workshop,Seleth Staff,,Handcraft Workshop,Level 2,1,1,1,Steel,2,Ash Sap,2,Ash Timber,5,Monks Branch,4,Trace of Death,12,Black Stone Powder,
+Handcraft Workshop,Theos Ornament Knot,,Handcraft Workshop,Level 4,1,5,2,Bronze Ingot,1,Pure Iron Crystal,3,Powder of Earth,6,Black Stone Powder,,,,,
+Handcraft Workshop,Twilight Red Coral Belt,,Handcraft Workshop,Level 4,1,6,1,Brilliant Red Coral Belt,2,Moonlight Opal,3,Twilight Red Coral,,,,,,,
+Handcraft Workshop,White Coral Belt,,Handcraft Workshop,Level 2,1,4,1,Polished Coral Belt,3,Polished Opal,3,White Coral,,,,,,,
+Handcraft Workshop,Yuria Amulet,,Handcraft Workshop,Level 4,1,5,2,Steel,1,Pure Zinc Crystal,1,Fine Fancy Reptile Skin,4,Trace of Ascension,12,Black Stone Powder,,,
+Handcraft Workshop,Yuria Gauntlet,,Handcraft Workshop,Level 4,1,5,5,Steel,1,Pure Zinc Crystal,2,Fine Fancy Reptile Skin,5,Trace of Ascension,8,Black Stone Powder,,,
+Handcraft Workshop,Yuria Staff,,Handcraft Workshop,Level 4,1,5,1,Pure Zinc Crystal,3,Pine Sap,2,Pine Timber,5,Monks Branch,4,Trace of Ascension,12,Black Stone Powder,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Horse Gear Workshop,Granverre Feather Champron,,Horse Gear Workshop,Level 1 (StoneTail Horse Ranch 3),1,5,10,Supreme Lightwieght Plume,10,Supreme Hard Hide,5,Golden Pearl,10,Pure Forest Breath,,,,,
+Horse Gear Workshop,Granverre Leather Barding,,Horse Gear Workshop,Level 1 (Stonetail Horse Ranch 3),1,5,15,Supreme Hard Hide,15,Supreme Soft Hide,15,Pure Iron Crystal,10,Pure Forest Breath,,,,,
+Horse Gear Workshop,Granverre Leather Saddle,,Horse Gear Workshop,Level 1 (Stonetail Horse Ranch 3),1,5,10,Supreme Soft Hide,10,Supreme Thin Hide,5,Golden Pearl,10,Pure Forest Breath,,,,,
+Horse Gear Workshop,Granverre Leather Stirrups,,Horse Gear Workshop,Level 1 (Stonetail Horse Ranch 3),1,5,10,Supreme Tough Hide,10,Pure Vanadium Crystal,100,Glue,10,Pure Forest Breath,,,,,
+Horse Gear Workshop,Granverre Metal Horseshoe,,Horse Gear Workshop,Level 1 (Stonetail Horse Ranch 3),1,4,10,Pure Titanium Crystal,125,Alluvial Gold,125,Glue,10,Pure Forest Breath,,,,,
+Horse Gear Workshop,Muzika Leather Mask,,Horse Gear Workshop,Level 2 (Stonetail Horse Ranch),1,4,7,Golden Pearl,2,Supreme Thin Hide,10,Titanium Ingot,10,Pure Forest Breath,,,,,
+Horse Gear Workshop,Muzika Leather Armor,,Horse Gear Workshop,Level 2 (Stonetail Horse Ranch),1,5,25,Supreme Soft Hide,20,Flax Fabric,20,Wool,10,Pure Forest Breath,,,,,
+Horse Gear Workshop,Muzika Leather Saddle,,Horse Gear Workshop,Level 2 (stonetail Horse Ranch),1,5,20,Supreme Fancy Feather,5,Supreme Soft Hide,5,Sturdy Palm Plywood,10,Pure Forest Breath,,,,,
+Horse Gear Workshop,Muzika Leather Stirrups,,Horse Gear Workshop,Level 2 (stonetail Horse Ranch),1,5,10,Supreme Leather Stirrups,10,Pure Vanadium Crystal,105,Glue,10,Pure Forest Breath,,,,,
+Horse Gear Workshop,Light Hide Saddle,,Horse Gear Workshop,Level 1,1,3,3,Brass Ingot,3,Soft Hide,5,Fine Tough Hide,7,Black Stone Powder,,,,,
+Horse Gear Workshop,Leather Combat Saddle,,Horse Gear Workshop,Level 1,1,3,3,Brass Ingot,3,Soft Hide,5,Fine Tough Hide,10,Black Stone Powder,,,,,
+Horse Gear Workshop,Small Leather Saddle,,Horse Gear Workshop,Level 1,1,5,5,Supreme Soft Hide,5,Palm Plywood,2,Elder Tree Timber,,,,,,,
+Horse Gear Workshop,Light Hide Stirrups,,Horse Gear Workshop,Level 2,1,3,2,Steel,2,Fine Tough Hide,5,Black Stone Powder,,,,,,,
+Horse Gear Workshop,Leather Combat Stirrups,,Horse Gear Workshop,Level 2,1,3,2,Steel,2,Fine Hard Hide,7,Black Stone Powder,,,,,,,
+Horse Gear Workshop,Light Iron Horseshoe,,Horse Gear Workshop,level 2,1,3,2,Iron Ingot,20,Powder of Earth,5,Black Stone Powder,,,,,,,
+Horse Gear Workshop,Steel Combat Horseshoe,,Horse Gear Workshop,Level 2,1,3,3,Steel,20,Powder of Crevice,7,Black Stone Powder,,,,,,,
+Horse Gear Workshop,Small Leather Stirrups,,Horse Gear Workshop,Level 2,1,5,2,Supreme Tough Hide,2,Vanadium Ingot,25,Black Stone Powder,,,,,,,
+Horse Gear Workshop,Light Red Plumed Champron,,Horse Gear Workshop,Level 3,1,5,2,Iron Ingot,7,Fine Lightweight Plume,1,Oil of Fortitude,10,Black Stone Powder,,,,,
+Horse Gear Workshop,Steel Combat Champron,,Horse Gear Workshop,Level 3,1,5,3,Steel,10,Powder of Crevice,2,Oil of Fortitude,15,Black Stone Powder,,,,,
+Horse Gear Workshop,Light Hide Barding,,Horse Gear Workshop,Level 3,1,3,7,Iron Ingot,10,Fine Tough Hide,10,Black Stone Powder,,,,,,,
+Horse Gear Workshop,Steel Combat Barding,,Horse Gear Workshop,Level 3,1,3,12,Steel,10,Fine Hard Hide,15,Black Stone Powder,,,,,,,
+Horse Gear Workshop,Small Leather Elephant Mask,,Horse Gear Workshop,Level 3,1,4,2,Supreme Thin Hide,2,Flax Fabric,2,Titanium Ingot,,,,,,,
+Horse Gear Workshop,Small Leather Elephant Armor,,Horse Gear Workshop,Level 3,1,3,5,Fine Soft Hide,10,Wool,5,Flax Fabric,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Jeweler,Basilisks Belt,,Jewelry,Level 5,1,4,20,Yonas Fragment,5,Fine Thick Fur,10,Trace of the Earth,20,Black Stone Powder,,,,,
+Jeweler,Centaurus Belt,,Jewelry,Level 5,1,4,20,Yonas Fragment,5,Fine Thick Fur,10,Trace of Hunting,20,Black Stone Powder,,,,,
+Jeweler,Ring of Cadry Guardian,,Jewelry,Level 5,1,4,15,Yonas Fragment,10,Melted Platinum Shard,10,Trace of Despair,20,Black Stone Powder,,,,,
+Jeweler,Ring of Crescent Guardian,,Jewelry,Level 5,1,4,15,Yonas Fragment,10,Melted Platinum Shard,10,Trace of Chaos,20,Black Stone Powder,,,,,
+Jeweler,Seraps Necklace,,Jewelry,Level 5,1,4,15,Yonas Fragment,10,Melted Platinum Shard,10,Trace of Ascension,20,Black Stone Powder,,,,,
+Jeweler,Sicils Necklace,,Jewelry,Level 5,1,4,17,Yonas Fragment,10,Melted Platinum Shard,10,Trace of Savagery,20,Black Stone Powder,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Processing Recipes,Acacia Plank,,Chopping,,2.5,1,5,Acacia Timber,,,,,,,,,,,
+Processing Recipes,Acacia Plywood,,Chopping,,2.5,2,10,Acacia Plank,,,,,,,,,,,
+Processing Recipes,Ash Plank,,Chopping,,2.5,1,5,Ash Timber,,,,,,,,,,,
+Processing Recipes,Ash Plywood,,Chopping,,2.5,2,10,Ash Plank,,,,,,,,,,,
+Processing Recipes,Birch Plank,,Chopping,,2.5,1,5,Birch Timber,,,,,,,,,,,
+Processing Recipes,Birch Plywood,,Chopping,,2.5,2,10,Birch Plank,,,,,,,,,,,
+Processing Recipes,Cedar Plank,,Chopping,,2.5,1,5,Cedar Timber,,,,,,,,,,,
+Processing Recipes,Cedar Plywood,,Chopping,,2.5,2,10,Cedar Plank,,,,,,,,,,,
+Processing Recipes,Elder Tree Plank,,Chopping,,2.5,1,5,Elder Tree Timber,,,,,,,,,,,
+Processing Recipes,Elder Tree Plywood,,Chopping,,1.5,2,10,Elder Tree Plank,,,,,,,,,,,
+Processing Recipes,Fir Plank,,Chopping,,2.5,1,5,Fir Timber,,,,,,,,,,,
+Processing Recipes,Fir Plywood,,Chopping,,2.5,2,10,Fir Plank,,,,,,,,,,,
+Processing Recipes,Loopy Tree Plank,,Chopping,,2.5,1,5,Loopy Tree Timber,,,,,,,,,,,
+Processing Recipes,Loopy Tree Plywood,,Chopping,,2.5,2,10,Loopy Tree Plank,,,,,,,,,,,
+Processing Recipes,Maple Plank,,Chopping,,2.5,1,5,Maple Timber,,,,,,,,,,,
+Processing Recipes,Maple Plywood,,Chopping,,2.5,2,10,Maple Plank,,,,,,,,,,,
+Processing Recipes,Moss Tree Plank,,Chopping,,2.5,1,5,Moss Tree Timber,,,,,,,,,,,
+Processing Recipes,Moss Tree Plywood,,Chopping,,2.5,2,10,Moss Tree Plank,,,,,,,,,,,
+Processing Recipes,Palm Plank,,Chopping,,2.5,1,5,Palm Timber,,,,,,,,,,,
+Processing Recipes,Palm Plywood,,Chopping,,2.5,2,10,Palm Plank,,,,,,,,,,,
+Processing Recipes,Pine Plank,,Chopping,,2.5,1,5,Pine Timber,,,,,,,,,,,
+Processing Recipes,Pine Plywood,,Chopping,,2.5,2,10,Pine Plank,,,,,,,,,,,
+Processing Recipes,Ship Repair Material,,Chopping,,2,3,2,Any Type Plywood,,,,,,,,,,,
+Processing Recipes,Standardized Timber Square,,Chopping,,2,2,10,Usable Scantling,,,,,,,,,,,
+Processing Recipes,Usable Scantling,,Chopping,,2.5,1,10,Log,,,,,,,,,,,
+Processing Recipes,White Cedar Plank,,Chopping,,2.5,1,5,White Cedar Timber,,,,,,,,,,,
+Processing Recipes,White Cedar Plywood,,Chopping,,2.5,2,10,White Cedar Plank,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Processing Recipes,Cheese,,Drying,,2.5,1,1,Milk,,,,,,,,,,,
+Processing Recipes,Fancy Reptile Skin,,Drying,,2.5,1,5,Reptile Skin,,,,,,,,,,,
+Processing Recipes,Fine Fancy Reptile Skin,,Drying,,2.5,2,10,Fancy Reptile Skin,,,,,,,,,,,
+Processing Recipes,Fine Hard Hide,,Drying,,2.5,2,10,Hard Hide,,,,,,,,,,,
+Processing Recipes,Fine Soft Hide,,Drying,,2.5,2,10,Soft Hide,,,,,,,,,,,
+Processing Recipes,Fine Thick Fur,,Drying,,2.5,2,10,Thick Fur,,,,,,,,,,,
+Processing Recipes,Fine Thin Hide,,Drying,,2.5,2,10,Thin Hide,,,,,,,,,,,
+Processing Recipes,Fine Tough Hide,,Drying,,2.5,2,10,Tough Hide,,,,,,,,,,,
+Processing Recipes,Fragrant Jerky,,Drying,,2.5,1,1,Red Meat,,,,,,,,,,,
+Processing Recipes,Golden Pearl,,Drying,,0.2,1,1,Giant Pearl Oyster,,,,,,,,,,,
+Processing Recipes,Hard Hide,,Drying,,2.5,1,5,Hide 1,,,,,,,,,,,
+Processing Recipes,Haystack,,Drying,,1,1,50,Weed,,,,,,,,,,,
+Processing Recipes,Inorganic Fertilizer,,Drying,,2.5,1,5,Grain,,,,,,,,,,,
+Processing Recipes,Rare Jerky,,Drying,,2.5,1,1,Reptile Meat,,,,,,,,,,,
+Processing Recipes,Soft Hide,,Drying,,2.5,1,5,Hide 2,,,,,,,,,,,
+Processing Recipes,Thick Fur,,Drying,,2.5,1,5,Fur,,,,,,,,,,,
+Processing Recipes,Thin Hide,,Drying,,2.5,1,5,Hide 3,,,,,,,,,,,
+Processing Recipes,Tough Hide,,Drying,,2.5,1,5,Hide 4,,,,,,,,,,,
+Processing Recipes,Well-Dried Jerky,,Drying,,2.5,1,1,Chick Meat,,,,,,,,,,,
+Processing Recipes,Old Casual (Female),,Drying,,0.13,1,1,Washed-Up Laundry,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Processing Recipes,Alluvial Gold,,Filtering,,0.07,1,1,Bottle of River Water,,,,,,,,,,,
+Processing Recipes,Fancy Feather,,Filtering,,2.5,1,5,Feather,,,,,,,,,,,
+Processing Recipes,Fine Fancy Feather,,Filtering,,2.5,2,10,Fancy Feather,,,,,,,,,,,
+Processing Recipes,Fine Lightweight Plume,,Filtering,,2.5,2,10,LIghtweight Plume,,,,,,,,,,,
+Processing Recipes,Lightweight Plume,,Filtering,,2.5,1,5,Plume,,,,,,,,,,,
+Processing Recipes,Purified Water,,Filtering,,2.5,1,1,Bottle of River Water,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Processing Recipes,Chicken Feed,,Grinding,,1.5,1,20,Rough Stone,100,Barley,,,,,,,,,
+Processing Recipes,Cotton Fabric,,Grinding,,2.5,2,10,Cotton Yarn,,,,,,,,,,,
+Processing Recipes,Diamond,,Grinding,,2.5,1,5,Rough Diamond,,,,,,,,,,,
+Processing Recipes,Emerald,,Grinding,,2.5,1,5,Rough Emerald,,,,,,,,,,,
+Processing Recipes,Enhanced Flax Fabric,,Grinding,,6,3,5,Flax Fabric,5,Shining Powder,,,,,,,,,
+Processing Recipes,Flax Fabric,,Grinding,,2.5,2,10,Flax Thread,,,,,,,,,,,
+Processing Recipes,Flour,,Grinding,,2.5,1,1,Grain,,,,,,,,,,,
+Processing Recipes,Freekeh Flour,,Grinding,,2.5,1,1,Freekeh,,,,,,,,,,,
+Processing Recipes,Ground Bird Meat,,Grinding,,2.5,1,3,Bird Meat,,,,,,,,,,,
+Processing Recipes,Insectivore Plant Powder,,Grinding,,2.5,1,5,Insectivore Plant Flower or Leaf,,,,,,,,,,,
+Processing Recipes,Insectivore Plant Sap,,Grinding,,2.5,1,5,Insectivore Plant Stalk or Root,,,,,,,,,,,
+Processing Recipes,Lapis Lazuli,,Grinding,,2.5,1,4,Rough Lapis Lazuli,,,,,,,,,,,
+Processing Recipes,Mystical Spirit Powder,,Grinding,,10,1,1,Spirit Stone (Green),,,,,,,,,,,
+Processing Recipes,Polished Stone,,Grinding,,2.5,1,10,Rough Stone,,,,,,,,,,,
+Processing Recipes,Resplendent Diamond,,Grinding,,2,2,5,Diamond,,,,,,,,,,,
+Processing Recipes,Resplendent Emerald,,Grinding,,2,2,5,Emerald,,,,,,,,,,,
+Processing Recipes,Resplendent Lapis Lazuli,,Grinding,,2,2,5,Lapis Lazuli,,,,,,,,,,,
+Processing Recipes,Resplendent Ruby,,Grinding,,2,2,5,Ruby,,,,,,,,,,,
+Processing Recipes,Resplendent Sapphire,,Grinding,,2,2,5,Sapphire,,,,,,,,,,,
+Processing Recipes,Resplendent Topaz,,Grinding,,2,2,5,Topaz,,,,,,,,,,,
+Processing Recipes,Sapphire,,Grinding,,2.5,1,5,Rough Sapphire,,,,,,,,,,,
+Processing Recipes,Teff Flour,,Grinding,,2.5,1,1,Teff,,,,,,,,,,,
+Processing Recipes,Top-Quality Cooking Honey,,Griding,,0.11,1,3,Wild Beehive,,,,,,,,,,,
+Processing Recipes,Topaz,,Grinding,,2.5,1,5,Rough Topaz,,,,,,,,,,,
+Processing Recipes,Wool,,Grinding,,2.5,2,10,Knitting Yarn,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Processing Recipes,[Guild] Beasts Skin,,Guild Manufacture,Guild Hall,1.1,4,5,Lion Hide,1,Trace of Savagery,1,Leather Glaze,,,,,,,
+Processing Recipes,[Guild] Charior Exterior Strenghening Material,,Guild Manufacture,Guild Hall,1.1,4,1,[Guild] Clearance Permit,1,Pure Vanadium Crystal,1,Brass Ingot,10,Trace of Violence,,,,,
+Processing Recipes,[Guid] Clearance Request,,Guild Manufacture,Guild Hall,1.1,3,1,[Guild] Ink,1,[Guild] Parchment,1,[Guild] Wax,1,[Guild] Seal,,,,,
+Processing Recipes,[Guild] Cloudy Timber,,Guild Manufacture,Guild Hall,1.1,1,2,[Guild] Candidium Shell,1,[Guild] Ocean Stalkers Skin,100,Palm Timber,10,Trace of Savagery,,,,,
+Processing Recipes,[Guild] Crude Decoration,,Guild Manufacture,Guild Hall,1.1,1,1,Giant Pearl Oyster,1,Cone Snail,,,,,,,,,
+Processing Recipes,[Guild] Desert Alloy Ingot,,Guild Manufacture,Guild Hall,1.1,4,1,[Guild] Clearance Permit,5,Melted Vanadium Shard,5,Melted Titanium Shard,1,Legendary Beasts Blood,,,,,
+Processing Recipes,[Guild] Elephant Cage Parts,,Guild Manufacture,Guild Hall,1.1,4,1,[Guild] Clearance Permit,1,Cedar Plywood,,,,,,,,,
+Processing Recipes,[Guild] Elephant Food,,Guild Manufacture,Guild Hall,1.1,4,1,[Guild] Clearance Permit,5,Spirits Leaf,5,Old Tree Bark,5,Fruit of Nature,5,Weed,,,
+Processing Recipes,[Guild] Everlasting Tree Plywood,,Guild Manufacture,Guild Hall,1.1,3,5,Palm Plywood,1,Powder of Time,1,Trace of Origin,,,,,,,
+Processing Recipes,[Guild] Fresh Veggies,,Guild Manufacture,Guild Hall,1.1,1,10,Special Corn,10,Special Pumpkin,10,Special Carrot,,,,,,,
+Processing Recipes,[Guild] Ink,,Guild Manufacture,Guild Hall,1.1,2,2,Processed Coal,2,Black Stone Powder,,,,,,,,,
+Processing Recipes,[Guild] Iron Core Timber Square,,Guild Manufacture,Guild Hall,1.1,4,1,[Guild] Clearance Permit,2,Steel,2,Standardized Timber Square,4,White Cedar Sap,,,,,
+Processing Recipes,[Guild] Juicy Fruits,,Guild Manufacture,Guild Hall,1.1,1,10,Coconut,10,Special Grape,10,Special Olive,,,,,,,
+Processing Recipes,[Guild] Old Moon Magic Neutralizer,,Guild Manufacture,Guild Hall,1.1,4,1,Fruit of Magic Power (Any type will work),1,Wise Mans Blood,10,Wolf Blood,10,Powder of Crevice,,,,,
+Processing Recipes,[Guild] Parchment,,Guild Manufacture,Guild Hall,1.1,1,2,Ox Hide,2,Black Stone Powder,,,,,,,,,
+Processing Recipes,[Guild] Phoenix Skin,,Guild Manufacture,Guild Hall,1.1,4,2,Fine Tough Hide,2,Fine Hard Hide,2,Legendary Beasts Blood,,,,,,,
+Processing Recipes,[Guild] Restoration of Cadrys Forbidden Book,,Guild Manufacture,Guild Hall,1.1,2,100,Cadrys Token,1,[Guild] Parchment,10,Sheep Blood,10,Powder of Darkness,,,,,
+Processing Recipes,[Guild] Sandy Ingot,,Guild Manufacture,Guild Hall,1.1,1,2,[Guild] Black Rust Jawbone,1,[Guild] Ocean Stalkers Skin,100,Vanadium Ore,10,Trace of the Earth,,,,,
+Processing Recipes,[Guild] Sea Horn,,Guild Manufacture,Guild Hall,1.1,5,10,[Guild] Ninesharks Horn Fragment,1,[Guild] Ocean Stalkers Skin,10,Sturdy Timber Square,10,Trace of Origin,,,,,
+Processing Recipes,[Guild] Seal,,Guild Manufacture,Guild Hall,1.1,1,2,White Cedar Timber,2,Rough Translucent Quartz,,,,,,,,,
+Processing Recipes,[Guild] Soft Hay,,Guild Manufacture,Guild Hall,1.1,1,10,Weed,10,Barley,,,,,,,,,
+Processing Recipes,[Guild] Spirit-laden Plywood,,Guild Manufacture,Guild Hall,1.1,4,1,[Guild] Clearance Permit,10,Spirits Leaf,2,Pine Plywood,4,Red Tree Lump,,,,,
+Processing Recipes,[Guild] Sticky Glue,,Guild Manufacture,Guild Hall,1.1,1,1,Lobster,10,Sulfur,,,,,,,,,
+Processing Recipes,[Guild] Stormy Rope,,Guild Manufacture,Guild Hall,1.1,1,3,[Guild] Hekarus Spike,1,Ocean Stalkers Skin,100,Flax,10,Trace of Despair,,,,,
+Processing Recipes,[Guild] Test Gunpowder,,Guild Manufacture,Guild Hall,1.1,4,1,[Guild] Clearance Permit,10,Sulfur,2,Coal,10,Black Stone Powder,1,Rough Stone,,,
+Processing Recipes,[Guild] Timber for Fixing the Cage,,Guild Manufacture,Guild Hall,1.1,4,1,[Guild] Clearance Permit,5,Usable Scantling,,,,,,,,,
+Processing Recipes,[Guild] Titanium Stud,,Guild Manufacture,Guild Hall,1.1,2,2,Melted Titanium Shard,1,Black Stone Powder,,,,,,,,,
+Processing Recipes,[Guild] Tough Silk Thread,,Guild Manufacture,Guild Hall,1.1,2,1,Silk Thread,1,Weed,1,Powder of Crevice,,,,,,,
+Processing Recipes,[Guild] Vanadium Chain,,Guild Manufacture,Guild Hall,1.1,2,2,Melted Vanadium Shard,1,Black Stone Powder,,,,,,,,,
+Processing Recipes,[Guild] Vanadium Steel Ingot,,Guild Manufacture,Guild Hall,1.1,4,1,[Guild] Clearance Permit,1,Pure Vanadium Crystal,1,Brass Ingot,4,Steel,,,,,
+Processing Recipes,[Guild] War Goddesss Thill,,Guild Manufacture,Guild Hall,1.1,4,1,[Guild] Clearance Permit,5,Sturdy Timber Square,5,Steel,50,Palm Sap,10,Trace of Battle,,,
+Processing Recipes,[Guild] Water for Elephant,,Guild Manufacture,Guild Hall,1.1,4,1,[Guild] Clearance Permit,5,Mineral Water,5,Purified Water,,,,,,,
+Processing Recipes,[Guild] Wax,,Guild Manufacture,Guild Hall,1.1,1,2,Pine Sap,2,Rough Ruby,,,,,,,,,
+Processing Recipes,[Guild] Wind-laden Flax Cloth,,Guild Manufacture,Guild Hall,1.1,4,1,[Guild] Clearance Permit,2,Flax Fabric,1,Elixir of Flowing Wind,1,Monks Branch,,,,,
+,,,,,,,,,,,,,,,,,,,
+Processing Recipes,Black Crystal,,Heating,,2.5,1,5,Rough Black Crystal,,,,,,,,,,,
+Processing Recipes,Black Gold Ingot,,Heating,,2,4,10,Ocean Stalkers Skin,2,Pure Platinum Crystal,,,,,,,,,
+Processing Recipes,Blue Coral,,Heating,,1.5,2,10,Coral Piece,1,Sapphire,,,,,,,,,
+Processing Recipes,Blue Crystal,,Heating,,2.5,1,5,Rough Blue Crystal,,,,,,,,,,,
+Processing Recipes,Brass Ingot,,Heating,,2.5,2,5,Melted Copper Shard,5,Melted Zinc Shard,,,,,,,,,
+Processing Recipes,Breezy White Coral,,Heating,,1,3,3,White Coral,1,Resplendent Diamond,,,,,,,,,
+Processing Recipes,Brilliant Opal,,Heating,,2.5,2,10,Polished Opal,,,,,,,,,,,
+Processing Recipes,Bronze Ingot,,Heating,,2.5,2,5,Melted Copper Shard,5,Melted Tin Shard,,,,,,,,,
+Processing Recipes,Copper Ingot,,Heating,,2.5,2,10,Melted Copper Shard,,,,,,,,,,,
+Processing Recipes,Cotton Yarn,,Heating,,2.5,1,5,Cotton,,,,,,,,,,,
+Processing Recipes,Daybreak Blue Coral,,Heating,,1,3,3,Blue Coral,1,Resplendent Sapphire,,,,,,,,,
+Processing Recipes,Distilled Water,,Heating,,2.5,1,1,Bottle of River Water,,,,,,,,,,,
+Processing Recipes,Flax Thread,,Heating,,2.5,1,5,Flax,,,,,,,,,,,
+Processing Recipes,Glue,,Heating,,2.5,1,1,Lobster,,,,,,,,,,,
+Processing Recipes,Gold Ingot,,Heating,,2.5,2,10,Melted Gold Shard,,,,,,,,,,,
+Processing Recipes,Golden Coral,,Heating,,1.5,2,10,Coral Piece,1,Topaz,,,,,,,,,
+Processing Recipes,Golden Sun Coral,,Heating,,1,3,3,Golden Coral,1,Resplendent Topaz,,,,,,,,,
+Processing Recipes,Green Coral,,Heating,,1.5,2,10,Coral Piece,1,Emerald,,,,,,,,,
+Processing Recipes,Green Crystal,,Heating,,2.5,1,5,Rough Green Crystal,,,,,,,,,,,
+Processing Recipes,Hard Pillar,,Heating,,1,4,10,Log,10,Plywood Hardener,,,,,,,,,
+Processing Recipes,Healing STone,,Heating,,2.5,1,5,Rough Healing Stone,,,,,,,,,,,
+Processing Recipes,Iron Ingot,,Heating,,2.5,2,10,Melted Iron Shard,,,,,,,,,,,
+Processing Recipes,Jade Coral Ingot,,Heating,,5.5,4,25,Melted Titanium Shard,5,Prairie Green Coral,,,,,,,,,
+Processing Recipes,Knitting Yarn,,Heating,,2.5,1,5,Fleece,,,,,,,,,,,
+Processing Recipes,Lead Ingot,,Heating,,2.5,2,10,Melted Lead Shard,,,,,,,,,,,
+Processing Recipes,Lump of Raw Sugar,,Heating,,2.5,1,10,Raw Sugar,1,Mineral Water,,,,,,,,,
+Processing Recipes,Magical Shard,,Heating,,1.1,1,1,Any Black Magic Crystal,,,,,,,,,,,
+Processing Recipes,Margoria Dark Iron,,Heating,,2,4,1,[Guild] Hekarus Spike,2,Pure Iron Crystal,,,,,,,,,
+Processing Recipes,Melted Copper Shard,,Heating,,2.5,1,5,Copper Ore,,,,,,,,,,,
+Processing Recipes,Melted Gold Shard,,Heating,,2.5,1,5,Gold Ore,,,,,,,,,,,
+Processing Recipes,Melted Iron Shard,,Heating,,2.5,1,5,Iron Ore,,,,,,,,,,,
+Processing Recipes,Melted Lead Shard,,Heating,,2.5,1,5,Lead Ore,,,,,,,,,,,
+Processing Recipes,Melted Mythril Shard,,Heating,,2.5,1,5,Mythril Ore,,,,,,,,,,,
+Processing Recipes,Melted Noc Shard,,Heating,,2.5,1,5,Noc Ore,,,,,,,,,,,
+Processing Recipes,Melted Platinum Shard,,Heating,,2.5,1,5,Platinum Ore,,,,,,,,,,,
+Processing Recipes,Melted Silver Shard,,Heating,,2.5,1,5,Silver Ore,,,,,,,,,,,
+Processing Recipes,Melted Tin Shard,,Heating,,2.5,1,5,Tin Ore,,,,,,,,,,,
+Processing Recipes,Melted Titanium Shard,,Heating,,2.5,1,5,Titanium Ore,,,,,,,,,,,
+Processing Recipes,Melted Vanadium Shard,,Heating,,2.5,1,5,Vanadium Ore,,,,,,,,,,,
+Processing Recipes,Melted Zinc Shard,,Heating,,2.5,1,5,Zinc Ore,,,,,,,,,,,
+Processing Recipes,Moonlight Opal,,Heating,,2,4,1,Metal Solvent,3,Brilliant Opal,,,,,,,,,
+Processing Recipes,Mud Crystal,,Heating,,2.5,1,10,Rough Mud Crystal,,,,,,,,,,,
+Processing Recipes,Mythril Ingot,,Heating,,2.5,2,10,Melted Mythril Shard,,,,,,,,,,,
+Processing Recipes,Noc Ingot,,Heating,,2.5,2,10,Melted Noc Shard,,,,,,,,,,,
+Processing Recipes,Pine Coated Plywood,,Heating,,5.5,3,5,Pine Plywood,50,Coconut,,,,,,,,,
+Processing Recipes,Platinum Ingot,,Heating,,2.5,2,10,Melted Platinum Shard,,,,,,,,,,,
+Processing Recipes,Polished Opal,,Heating,,2.5,1,5,Rough Opal,,,,,,,,,,,
+Processing Recipes,Prairie Green Coral,,Heating,,1,3,3,Green Coral,1,Resplendent Emerald,,,,,,,,,
+Processing Recipes,Processed Coal,,Heating,,2.5,1,5,Coal,,,,,,,,,,,
+Processing Recipes,Pure Copper Crystal,,Heating,,2,4,2,Metal Solvent,3,Copper Ingot,,,,,,,,,
+Processing Recipes,Pure Gold Crystal,,Heating,,2,4,1,Metal Solvent,3,Gold Ingot,,,,,,,,,
+Processing Recipes,Pure Iron Crystal,,Heating,,2,4,2,Metal Solvent,3,Iron Ingot,,,,,,,,,
+Processing Recipes,Pure Lead Crystal,,Heating,,2,4,2,Metal Solvent,3,Lead Ingot,,,,,,,,,
+Processing Recipes,Pure Mythril Crystal,,Heating,,2,4,1,Metal Solvent,3,Mythril Ingot,,,,,,,,,
+Processing Recipes,Pure Noc Crystal,,Heating,,2,4,2,Metal Solvent,3,Noc Ingot,,,,,,,,,
+Processing Recipes,Pure Platinum Crystal,,Heating,,2,4,1,Metal Solvent,3,Platinum Ingot,,,,,,,,,
+Processing Recipes,Pure Silver Crystal,,Heating,,2,4,1,Metal Solvent,3,Silver Ingot,,,,,,,,,
+Processing Recipes,Pure Tin Crystal,,Heating,,2,4,2,Metal Solvent,3,Tin Ingot,,,,,,,,,
+Processing Recipes,Pure Titanium Crystal,,Heating,,2,4,2,Metal Solvent,3,Titanium Ingot,,,,,,,,,
+Processing Recipes,Pure Vanadium Crystal,,Heating,,2,4,2,Metal Solvent,3,Vanadium Ingot,,,,,,,,,
+Processing Recipes,Pure Zinc Crystal,,Heating,,2,4,2,Metal Solvent,3,Zinc Ingot,,,,,,,,,
+Processing Recipes,Red Coral,,Heating,,1.5,2,10,Coral Piece,1,Ruby,,,,,,,,,
+Processing Recipes,Red Crystal,,Heating,,2.5,1,5,Rough Red Crystal,,,,,,,,,,,
+Processing Recipes,Silk Thread,,Heating,,2.5,1,5,Silkworm Cocoon,,,,,,,,,,,
+Processing Recipes,Silver Ingot,,Heating,,2.5,2,10,Melted Silver Shard,,,,,,,,,,,
+Processing Recipes,Steel,,Heating,,2.5,2,5,Melted Iron Shard,5,Coal,,,,,,,,,
+Processing Recipes,Sticky Blood,,Heating,,1,1,15,Cheetah Dragon Blood,5,White Cedar Sap,,,,,,,,,
+Processing Recipes,Sturdy Acacia Plywood,,Heating,,2,4,10,Acacia Plywood,3,Plywood Hardener,,,,,,,,,
+Processing Recipes,Sturdy Ash Plywood,,Heating,,2,4,10,Ash Plywood,3,Plywood Hardener,,,,,,,,,
+Processing Recipes,Sturdy Birch Plywood,,Heating,,2,4,10,Birch Plywood,3,Plywood Hardener,,,,,,,,,
+Processing Recipes,Sturdy Cedar Plywood,,Heating,,2,4,10,Cedar Plywood,3,Plywood Hardener,,,,,,,,,
+Processing Recipes,Sturdy Elder Tree Plywood,,Heating,,1.5,4,10,Elder Tree Plywood,3,Plywood Hardener,,,,,,,,,
+Processing Recipes,Sturdy Fir Plywood,,Heating,,2,4,10,Fir Plywood,3,Plywood Hardener,,,,,,,,,
+Processing Recipes,Sturdy Loopy Tree Plywood,,Heating,,2,4,10,Loopy Tree Plywood,3,Plywood Hardener,,,,,,,,,
+Processing Recipes,Sturdy Maple Plywood,,Heating,,2,4,10,Maple Plywood,3,Plywood Hardener,,,,,,,,,
+Processing Recipes,Sturdy Moss Tree Plywood,,Heating,,2,4,10,Moss Tree Plywood,3,Plywood Hardener,,,,,,,,,
+Processing Recipes,Sturdy Palm Plywood,,Heating,,2,4,10,Palm Plywood,3,Plywood Hardener,,,,,,,,,
+Processing Recipes,Sturdy Pine Plywood,,Heating,,2,4,10,Pine Plywood,3,Plywood Hardener,,,,,,,,,
+Processing Recipes,Sturdy Timber Square,,Heating,,2,4,10,Standardized Timber Square,3,Plywood Hardener,,,,,,,,,
+Processing Recipes,Sturdy White Cedar Plywood,,Heating,,2,4,10,White Cedar Plywood,3,Plywood Hardener,,,,,,,,,
+Processing Recipes,Tin Ingot,,Heating,,2.5,2,10,Melted Tin Shard,,,,,,,,,,,
+Processing Recipes,Titanium Ingot,,Heating,,2.5,2,10,Melted Titanium Shard,,,,,,,,,,,
+Processing Recipes,Translucent Crystal,,Heating,,2.5,1,5,Rough Translucent Crystal,,,,,,,,,,,
+Processing Recipes,Twilight Red Coral,,Heating,,1,3,3,Red Coral,1,Resplenent Ruby,,,,,,,,,
+Processing Recipes,Ultimate Armor Reform STone,,Heating,,1,2,10,Grade 3 Armor Reform Stone,1,Hard Black Crystal Shard,,,,,,,,,
+Processing Recipes,Ultimate Weapon Reform Stone,,Heating,,1,2,10,Grade 3 Weapon Reform Stone,1,Sharp Black Crystal Shard,,,,,,,,,
+Processing Recipes,Vanadium Ingot,,Heating,,2.5,2,10,Melted Vanadium Shard,,,,,,,,,,,
+Processing Recipes,Violet Crystal,,Heating,,2.5,1,5,Rough Violet Crystal,,,,,,,,,,,
+Processing Recipes,White Coral,,Heating,,1.5,2,10,Coral Piece,1,Diamond,,,,,,,,,
+Processing Recipes,Zinc Ingot,,Heating,,2.5,2,10,Melted Zinc Shard,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Processing Recipes,Apprentice Alchemy Box,,Imperial Alchemy,Apprentice 1,1.1,3,20,Clear Liquid Reagent,20,Pure Powder Reagent,,,,,,,,,
+Processing Recipes,Apprentices Elixir of Wings Alchemy Box,,Imperial Alchemy,Apprentice 1,1.1,3,10,Elixir of Wings,,,,,,,,,,,
+Processing Recipes,Artisans Elixir of Carnage Alchemy Box,,Imperial Alchemy,Artisan 1,1.1,6,25,Elixir of Carnage,,,,,,,,,,,
+Processing Recipes,Artisans Elixir of Sky Alchemy Box,,Imperial Alchemy,Artisan 1,1.1,6,15,Elixir of Sky,,,,,,,,,,,
+Processing Recipes,Artisans Grim Reapers Elixir Alchemy Box,,Imperial Alchemy,Artisan 1,1.1,6,15,Grim Reapers Elixir,,,,,,,,,,,
+Processing Recipes,Masters Elixir of Death Alchemy Box,,Imperial Alchemy,Master 1,1.1,6,35,Elixir of Death,,,,,,,,,,,
+Processing Recipes,Masters Elixir of Detection Alchemy Box,,Imperial Alchemy,Master 1,1.1,6,20,Elixir of Detection,,,,,,,,,,,
+Processing Recipes,Masters Elixir of Frenzy Alchemy Box,,Imperial Alchemy,Master 1,1.1,6,30,Elixir of Frenzy,,,,,,,,,,,
+Processing Recipes,Masters Golden Hand Elixir alchemy Box,,Imperial Alchemy,Master 1,1.1,6,50,Golden Hand Elixir,,,,,,,,,,,
+Processing Recipes,Masters Elixir of Assassination Alchemy Box,,Imperial Alchemy,Master 1,1.1,6,25,Elixir of Assassination,,,,,,,,,,,
+Processing Recipes,Masters Elixir of Penetration Alchemy Box,,Imperial Alchemy,Master 1,1.1,6,25,Elixir of Penetration,,,,,,,,,,,
+Processing Recipes,Professionals Elixir of Amity Alchemy Box,,Imperial Alchemy,Professional 1,1.1,5,20,Elixir of Amity,,,,,,,,,,,
+Processing Recipes,Professionals Elixir of Demihuman Hunt Alchemy Box,,Imperial Alchemy,Professional 1,1.1,5,25,Elixir of Demihuman Hunt,,,,,,,,,,,
+Processing Recipes,Professionals Secret Alchemy Box,,Imperial Alchemy,Professional 1,1.1,5,10,Elixir of Swiftness,10,Elixir of Wind,,,,,,,,,
+Processing Recipes,Professionals Sturdy Alchemy Box,,Imperial Alchemy,Professional 1,1.1,5,10,Workers Elixir,10,Fishers Elixir,,,,,,,,,
+Processing Recipes,Skilled Alchemists Elixir of Energy Alchemy Box,,Imperial Alchemy,Skilled 1,1.1,4,20,Elixir of Energy,,,,,,,,,,,
+Processing Recipes,Skilled Alchemists Elixir of Mentality Alchemy Box,,Imperial Alchemy,Skilled 1,1.1,4,20,Elixir of Mentality,,,,,,,,,,,
+Processing Recipes,Skilled Alchemists Elixir of Seal Alchemy Box,,Imperial Alchemy,Skilled 1,1.1,4,10,Elixir of Seal,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Processing Recipes,[Event] Beer Crate,,Imperial Cuisine,Beginner 0,1.1,2,50,Beer,1,[Event] Imperial Craft Delivery Invoice,,,,,,,,,
+Processing Recipes,[Event] Sample Beer Crate,,Imperial Cuisine,Beginner 0,1.1,2,1,Beer,1,[Event] Imperial Craft Deliver Propasl,,,,,,,,,
+Processing Recipes,Apprentices Boiled Egg Cooking Box,,Imperial Cuisine,Apprentice 1,1.1,2,20,Boiled Bird Eggs,,,,,,,,,,,
+Processing Recipes,Apprentices Fried Fish Cooking Box,,Imperial Cuisine,Apprentice 1,1.1,3,20,Fried Fish,,,,,,,,,,,
+Processing Recipes,Apprentices Five-Grain Chicken Porridge Cooking Box,,Imperial Cuisine,Apprentice 1,1.1,3,20,Five-Grain Chicken Porridge,,,,,,,,,,,
+Processing Recipes,Artisans Cheese Gratin Cooking Box,,Imperial Cuisine,Artisan 1,1.1,4,40,Cheese Gratin,,,,,,,,,,,
+Processing Recipes,Artisans Desert Dumpling Cooking Box,,Imperial Cuisine,Artisan 1,1.1,4,40,Desert Dumpling,,,,,,,,,,,
+Processing Recipes,Artisans Honey Wine Cooking Box,,Imperial Cuisine,Artisan 1,1.1,4,50,Honey Wine,,,,,,,,,,,
+Processing Recipes,Artisans Honeycomb Cookie Cooking Box,,Imperial Cuisine,Artisan 1,1.1,4,40,Honeycomb Cookie,,,,,,,,,,,
+Processing Recipes,Artisans Meat Croquette Cooking Box,,Imperial Cuisine,Artisan 1,1.1,3,40,Meat Croquette,,,,,,,,,,,
+Processing Recipes,Masters Dark Pudding Cooking Box,,Imperial Cuisine,Master 1,1.1,4,60,Dark Pudding,,,,,,,,,,,
+Processing Recipes,Masters Ham Sandwich Cooking Box,,Imperial Cuisine,Master 1,1.1,5,40,Ham Sandwich,,,,,,,,,,,
+Processing Recipes,Masters Seafood Pasta Cooking Box,,Imperial Cuisine,Master 1,1.1,4,40,Seafood Pasta,,,,,,,,,,,
+Processing Recipes,Masters Sute Tea Cooking Box,,Imperial Cuisine,Master 1,1.1,4,60,Sute Tea,,,,,,,,,,,
+Processing Recipes,Masters Meat Sandwich Cooking Box,,Imperial Cuisine,Master 1,1.1,5,40,Meat Sandwich,,,,,,,,,,,
+Processing Recipes,Masters Milk Tea Cooking Box,,Imperial Cuisine,Master 1,1.1,3,50,Milk Tea,,,,,,,,,,,
+Processing Recipes,Professionals Fine Scent Cooking Box,,Imperial Cuisine,Professional 1,1.1,2,30,Tea With Fine Scent,,,,,,,,,,,
+Processing Recipes,Professionals Meat Pie Cooking Box,,Imperial Cuisine,Professional 1,1.1,4,30,Meat Pie,,,,,,,,,,,
+Processing Recipes,Professionals Omelet Cooking Box,,Imperial Cuisine,Professional 1,1.1,2,40,Omelet,,,,,,,,,,,
+Processing Recipes,Professionals Steak Cooking Box,,Imperial Cuisine,Professional 1,1.1,3,20,Steak,,,,,,,,,,,
+Processing Recipes,Skilled Cooks Fish Fillet Chip Cooking Box,,Imperial Cuisine,Skilled 1,1.1,3,20,Fish Fillet Chips,,,,,,,,,,,
+Processing Recipes,Skilled Cooks Fruit Pudding Cooking Box,,Imperial Cuisine,Skilled 1,1.1,3,20,Fruit Pudding,,,,,,,,,,,
+Processing Recipes,Skilled Cooks Meat Stew Cooking Box,,Imperial Cuisine,Skilled 1,1.1,3,20,Meat Stew,,,,,,,,,,,
+Processing Recipes,Skilled Cooks Soft Bread Cooking Box,,Imperial Cuisine,Skilled 1,1.1,4,20,Soft Bread,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Processing Recipes,[Combat] Trina Demolition Axe,,Manufacture,Beginner 0,1.1,4,5,Steel,1,Cedar Timber,1,Pure Iron Crystal,10,Black Stone Powder,,,,,
+Processing Recipes,[Combat] Trina Lead Bullet,,Manufacture,Beginner 0,1,3,5,Lead Ingot,10,Powder of Flame,5,Rough STone,1,Fire Horn,,,,,
+Processing Recipes,[Combat] Trina Matchlock,,Manufacture,Beginner 0,1,4,5,Steel,1,Fir Timber,1,Pure Iron Crystal,1,Fine Hard Hide,,,,,
+Processing Recipes,Sealed Old Moon Camping Anvil,,Manufacture,Beginner 0,1,4,10,Old Moon Anticorrosive,20,Steel,2,Pure Vanadium Crystal,2,Polished Stone,2,Golden Pearl,,,
+,,,,,,,,,,,,,,,,,,,
+Processing Recipes,Blood Ruby,,Shaking,,1.5,4,7,Resplendent Ruby,3,Gem Polisher,,,,,,,,,
+Processing Recipes,Butter,,Shaking,,2,2,1,Salt,1,Cream,,,,,,,,,
+Processing Recipes,Byproduct Fertilizer,,Shaking,,2,2,3,Inorganic Fertilizer,2,Leavening Agent,,,,,,,,,Crop Growth Buff: Fertilizer 10
+Processing Recipes,Cream,,Shaking,,2,1,1,Sugar,1,Milk,,,,,,,,,
+Processing Recipes,Dough,,Shaking,,2,2,1,Flour,1,Mineral Water,,,,,,,,,
+Processing Recipes,Forest Emerald,,Shaking,,1.5,4,7,Resplendent Emerald,3,Gem Polisher,,,,,,,,,
+Processing Recipes,Freekeh Flour Dough,,Shaking,,2.5,3,1,Freekeh Flour,1,Mineral Water,,,,,,,,,
+Processing Recipes,Gold Topaz,,Shaking,,1.5,4,7,Resplendent Topaz,3,Gem Polisher,,,,,,,,,
+Processing Recipes,Indigo Lapis Lazuli,,Shaking,,1.5,4,7,Resplendent Lapis Lazuli,3,Gem Polisher,,,,,,,,,
+Processing Recipes,Ocean Sapphire,,Shaking,,1.5,4,7,Resplendent Sapphire,3,Gem Polisher,,,,,,,,,
+Processing Recipes,Organic Fertilizer,,Shaking,,2.5,3,1,Byproduct Fertilizer,3,Bottle of River Water,,,,,,,,,
+Processing Recipes,Star Diamond,,Shaking,,1.5,4,7,Resplendent Diamond,3,Gem Polisher,,,,,,,,,
+Processing Recipes,Supreme Fancy Feather,,Shaking,,2,4,3,Fine Fancy Feather,5,Leather Glaze,,,,,,,,,
+Processing Recipes,Supreme Fancy Reptile Skin,,Shaking,,2,4,3,Fine Fancy Reptile Skin,5,Leather Glaze,,,,,,,,,
+Processing Recipes,Surpreme Hard Hide,,Shaking,,2,4,3,Fine Hard Hide,5,Leather Glaze,,,,,,,,,
+Processing Recipes,Supreme Lightweight Plume,,Shaking,,2,4,3,Fine Lightweight Plume,5,Leather Glaze,,,,,,,,,
+Processing Recipes,Supreme Soft Hide,,Shaking,,2,4,3,Fine Soft Hide,5,Leather Glaze,,,,,,,,,
+Processing Recipes,Supreme Thick Fur,,Shaking,,2,4,3,Fine Thick Fur,5,Leather Glaze,,,,,,,,,
+Processing Recipes,Supreme Thin Hide,,Shaking,,2,4,3,Fine Thin Hide,5,Leather Glaze,,,,,,,,,
+Processing Recipes,Supreme Tough Hide,,Shaking,,2,4,3,Fine Tough Hide,5,Leather Glaze,,,,,,,,,
+Processing Recipes,Teff Flour Dough,,Shaking,,2.5,2,1,Teff Flour,1,Mineral Water,,,,,,,,,
+Processing Recipes,Tough Flax Fabric,,Shaking,,2,3,1,[Guild] Hekarus Spike,10,Flax Fabric,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Processing Recipes,Concentrated Herbal Juice,,Simple Alchemy,,1,2,3,Herbal Juice,,,,,,,,,,,
+Processing Recipes,Herbal Juice,,Simple Alchemy,,4,1,3,Any plant type,1,Mineral Water,,,,,,,,,
+Processing Recipes,Highly concentrated Herbal Juice,,Simple Alchemy,,1,3,3,Concentrated Herbal Juice,,,,,,,,,,,
+Processing Recipes,Piece of Image,,Simple Alchemy,,100,1,1,Merindora's Element,100,Trace of Memory,100,Trace of Forest,100,Trace of Death,100,Weed,,,
+Processing Recipes,Refined Herbal Juice,,Simple Alchemy,,1,4,3,Highly Concentrated Herbal Juice,,,,,,,,,,,
+Processing Recipes,Vells Heart,,Simple Alchemy,,1,1,1,Vells Concentrated Magic,1500,Alchemy Stone Shard,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Processing Recipes,Concentrated Grain Juice,,Simple Cooking,,1,2,3,Grain Juice,,,,,,,,,,,
+Processing Recipes,Energizing Cron Meal,,Simple Cooking,,1,6,1,Special Drieghanese Meal,3,Serendia Meal,3,Mediah Meal,1,Ancient Cron Spice,,,,,
+Processing Recipes,Exquisite Cron Meal,,Simple Cooking,,1,6,3,Serendia Meal,1,Special Arehaza Meal,3,Kamasylvia Meal,1,Ancient Cron Spice,,,,,"AP +7, Accuracy +10, Move Speed +2, Critical Hit Level +2, Evasion +10, Max HP +100, All Resistance +4%, Ignore All Resistance +4%"
+Processing Recipes,Seafood Cron Meal,,Simple Cooking,,1,6,3,Balenos Meal,3,Calpheon Meal,1,Margoria Seafood Meal,1,Ancient Cron Spice,,,,,"Cooking/Alchemy -0.3 sec., Life Skill EXP +8%, Processing Success Rate +5%, Gather Speed Level +2, Move Speed +2, Fishing Speed +2, Weight LImit +50LT"
+Processing Recipes,Simple Cron Meal,,Simple Cooking,,1,6,1,Knight Combat Rations,3,Mediah Meal,3,Valencia Meal,1,Ancient Cron Spice,,,,,"AP against Monsters +10, Accuracy +10, Combat EXP +8%, Skill EXP +5%, Move Speed +2, Critical Hit Level +2, Max HP +100"
+Processing Recipes,Grain Juice,,Simple Cooking,,4,1,3,Grain,1,Mineral Water,,,,,,,,,
+Processing Recipes,Highly Concentrated Grain Juice,,Simple Cooking,,1,3,3,Concentrated Grain Juice,,,,,,,,,,,
+Processing Recipes,Refined Grain Juice,,Simple Cooking,,1,4,3,Highly Concentrated Grain Juice,,,,,,,,,,,
+Processing Recipes,Spirit Essence of Earth,,Simple Cooking,,1,2,1,Earth Spirit Stone Fragment,1,Purified Water,,,,,,,,,
+Processing Recipes,Spirit Essence of Water,,Simple Cooking,,1,2,1,Water Spirit Stone Fragment,1,Purified Water,,,,,,,,,
+Processing Recipes,Spirit Essence of Wind,,Simple Cooking,,1,2,1,Wind Spirit Stone Fragment,1,Purified Water,,,,,,,,,
+Processing Recipes,Star Anise Tea,,Simple Cooking,,2.5,2,1,Star Anise,1,Purified Water,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Shipyard Recipes,Calpheon Rowboat,,Shipyard,1 Level,1,3,10,Usable Scantling,20,Fir Plywood,10,Iron Ingot,10,Cedar Sap,15,Black Stone Powder,,,
+Shipyard Recipes,Fishing Boat,,Shipyard,2 Level,1,3,25,Usable Scantling,50,Birch Plywood,25,Bronze Ingot,30,Pine Sap,30,Black Stone Powder,16,Flax Fabric,
+Shipyard Recipes,Epheria Frigate,,Shipyard,3 level,1,4,25,Design: Epheria Frigate,1000,Standardized Timber Square,800,Jade Coral Ingot,1600,Pine Coated Plywood,450,Enhanced Flax Fabric,,,
+Shipyard Recipes,Epheria Sailboat,,Shipyaard,3 Level,1,3,20,Design: Epheria Sailboat,800,Standardized Timber Square,600,Steel,1500,Pine Plywood,300,Flax Fabric,,,
+Shipyard Recipes,Mediah Rowboat,,Shipyaard,1 level,1,3,10,Usable Scantling,20,White Cedar Plywood,10,Brass Ingot,10,Acacia Sap,15,Black STone Powder,,,
+Shipyard Recipes,Raft,,Shipyaard,1 Level,1,1,25,Log,3,Black Stone Powder,,,,,,,,,
+Shipyard Recipes,Rowboat,,Shipyaard,1 Level,1,3,10,Usable Scantling,20,Ash Plywood,10,Lead Ingot,10,Ash Sap,10,Black Stone Powder,,,
+Shipyard Recipes,Valencia Rowboat,,Shipyaard,1 Level,1,3,10,Usable Scantling,20,Palm Plywood,10,Vanadium Ingot,10,Cactus Sap,20,Black Stone Powder,,,
+,,,,,,,,,,,,,,,,,,,
+Ship Parts Workshop Recipes,Altinova Rowboat Cargo Container,,Ship Part Workshop,3 Level,1,4,3,Sturdy White Cedar Plywood,1,Brass Ingot,7,Black Stone Powder,,,,,,,
+Ship Parts Workshop Recipes,Altinova Rowboat Decoration,,Ship Part Workshop,2 Level,1,4,25,Zinc Ingot,3,Pure Zinc Crystal,10,Black Stone Powder,,,,,,,
+Ship Parts Workshop Recipes,Altinova Rowboat Prow,,Ship Part Workshop,2 Level,1,4,1,Sturdy White Cedar Plywood,1,Clowns Blood,15,Black Stone Powder,,,,,,,
+Ship Parts Workshop Recipes,Calpheon Rowboat Cargo Container,,Ship Part Workshop,3 Level,1,4,3,Sturdy Fir Plywood,1,Bronze Ingot,7,Black Stone Powder,,,,,,,
+Ship Parts Workshop Recipes,Calpheon Rowboat Decoration,,Ship Part Workshop,2 Level,1,4,25,Tin Ingot,3,Pure Tin Crystal,10,Black Stone Powder,,,,,,,
+Ship Parts Workshop Recipes,Calpheon Rowboat Prow,,Ship Part Workshop,2 Level,1,4,1,Sturdy Fir Plywood,1,Legendary Beasts Blood,15,Black Stone Powder,,,,,,,
+Ship Parts Workshop Recipes,Epheria Frigate: Black Breeze Sail,,Ship Part Workshop,4 Level,1,4,5,Design: Epheria Frigate,450,Tough Flax Fabric,120,Glue,15,Blue Whale Tendon,150,Trace of Ascension,,,
+Ship Parts Workshop Recipes,Epheria Frigate: Dragon Prow,,Ship Part Workshop,4 Level,1,4,5,Design: Epheria Frigate,75,Black Gold Ingot,2,Golden Pearl,15,Pure Lead Crystal,150,Trace of Ascension,,,
+Ship Parts Workshop Recipes,Epheria Frigate: Elena Cannon,,Ship Part Workshop,4 Level,1,4,5,Design: Epheria Frigate,150,Margoria Dark Iron,15,Pure Iron Crystal,45,Sturdy Ash Plywood,150,Trace of Battle,,,
+Ship Parts Workshop Recipes,Epheria Frigate: Enhanced Black Plating,,Ship Part Workshop,4 Level,1,4,5,Design: Epheria Frigate,2,Hard Pillar,150,Glue,2250,Palm Plywood,150,Trace of Death,,,
+Ship Parts Workshop Recipes,Epheria Frigate: Noreaster Sail,,Ship Part Workshop,4 Level,1,4,5,Design: Epheria Frigate,450,Tough Flax Fabric,120,Glue,15,Blue Whale Tendon,150,Trace of Hunting,,,
+Ship Parts Workshop Recipes,Epheria Frigate: Ocean Dragon Prow,,Ship Part Workshop,4 Level,1,4,5,Design: Epheria Frigate,75,Black Gold Ingot,2,Golden Pearl,15,Pure Iron Crystal,150,Trace of Chaos,,,
+Ship Parts Workshop Recipes,Epheria Frigate: Serena Cannon,,Ship Part Workshop,4 Level,1,4,5,Design: Epheria Frigate,150,Margoria Dark Iron,15,Pure Iron Crystal,45,Sturdy Palm Plywood,150,Trace of Battle,,,
+Ship Parts Workshop Recipes,Epheria Frigate: Streamlined Black Plating,,Ship Part Workshop,4 Level,1,4,5,Design: Epheria Frigate,2,Hard Pillar,150,Glue,2250,Ash Plywood,150,Trace of Death,,,
+Ship Parts Workshop Recipes,Epheria Sailboat: Black Breeze Sail,,Ship Part Workshop,4 Level,1,4,5,Design: Epheria Sailboat,300,Tough Flax Fabric,80,Glue,10,Blue Whale Tendon,100,Trace of Ascension,,,
+Ship Parts Workshop Recipes,Epheria Sailboat: Dragon Prow,,Ship Part Workshop,4 Level,1,4,5,Design: Epheria Sailboat,50,Black Gold Ingot,2,Golden Pearl,10,Pure Lead Crystal,100,Trace of Chaos,,,
+Ship Parts Workshop Recipes,Epheria Sailboat: Elena Cannon,,Ship Part Workshop,4 Level,1,4,5,Design: Epheria Sailboat,100,Margoria Dark Iron,10,Pure Iron Crystal,30,Sturdy Ash Plywood,100,Trace of Battle,,,
+Ship Parts Workshop Recipes,Epheria Sailboat: Enhanced Black Plating,,Ship Part Workshop,4 Level,1,4,5,Design: Epheria Sailboat,2,Hard Pillar,100,Glue,1500,Palm Plywood,100,Trace of Death,,,
+Ship Parts Workshop Recipes,Fishing Boat Decoration,,Ship Part Workshop,3 Level,1,4,45,Iron Ingot,10,Pure Iron Crystal,15,Black Stone Powder,,,,,,,
+Ship Parts Workshop Recipes,Fishing Boat Cargo Container,,Ship Part Workshop,3 Level,1,4,4,Sturdy Birch Plywood,2,Bronze Ingot,10,Black Stone Powder,,,,,,,
+Ship Parts Workshop Recipes,Fishign Boat Prow,,Ship Part Workshop,3 Level,1,4,1,Sturdy Birch Plywood,1,Sinners Blood,20,Black Stone Powder,,,,,,,
+Ship Parts Workshop Recipes,Kaia Fishing Boat Cargo Container,,Ship Part Workshop,4 Level,1,4,10,Sturdy Palm Plywood,4,Pure Zinc Crystal,6,Sturdy Timber Square,100,Black Stone Powder,,,,,
+Ship Parts Workshop Recipes,Kaia Fishing Boat Decoration,,Ship Part Workshop,4 Level,1,4,50,Lead Ingot,4,Golden Pearl,4,Sturdy Timber Square,200,Black Stone Powder,,,,,
+Ship Parts Workshop Recipes,Kaia Fishing Boat Prow,,Ship Part Workshop,4 Level,1,4,5,Pure Titanium Crystal,12,Oil of Storms,4,Sturdy Timber Square,150,Black Stone Powder,,,,,
+Ship Parts Workshop Recipes,Kaia Rowboat Cargo Container,,Ship Part Workshop,4 Level,1,4,6,Sturdy Fir Plywood,3,Pure Zinc Crystal,3,Sturdy Timber Square,50,Black Stone Powder,,,,,
+Ship Parts Workshop Recipes,Kaia Rowboat Decoration,,Ship Part Workshop,4 Level,1,4,30,Lead Ingot,2,Golden Pearl,2,Sturdy Timber Square,100,Black Stone Powder,,,,,
+Ship Parts Workshop Recipes,Kaia Rowboat Prow,,Ship Part Workshop,4 Level ,1,4,3,Pure Vanadium Crystal,8,Oil of Storms,2,Sturdy Timber Square,75,Black Stone Powder,,,,,
+Ship Parts Workshop Recipes,Origin of Wind,,Ship Part Workshop,4 Level,5,2,2,Breezy Crystal,2,Glue,2,Shining Powder,,,,,,,
+Ship Parts Workshop Recipes,Rowboat Cargo Container,,Ship Part Workshop,2 Level,1,4,3,Sturdy Ash Plywood,1,Iron Ingot,7,Black Stone Powder,,,,,,,
+Ship Parts Workshop Recipes,Rowboat Decoration,,Ship Part Workshop,1 Level,1,4,25,Lead Ingot,3,Pure Lead Crystal,10,Black Stone Powder,,,,,,,
+Ship Parts Workshop Recipes,Rowboat Prow,,Ship Part Workshop,1 Level,1,4,1,Sturdy Ash Plywood,1,Sinners Blood,15,Black Stone Powder,,,,,,,
+Ship Parts Workshop Recipes,Ship Repair Kit,,Ship Part Workshop,4 Level ,1,4,5,Ship Repair Material,2,Steel,2,Glue,,,,,,,
+Ship Parts Workshop Recipes,Valencia Rowboat Cargo Container,,Ship Part Workshop,3 Level,1,4,4,Sturdy Palm Plywood,1,Vanadium Ingot,15,Black Stone Powder,,,,,,,
+Ship Parts Workshop Recipes,Valencia Rowboat Decoration,,Ship Part Workshop,2 Level,1,4,25,Vanadium Ingot,3,Pure Vanadium Crystal,25,Black Stone Powder,,,,,,,
+Ship Parts Workshop Recipes,Valencia Rowboat Prow,,Ship Part Workshop,2 Level,1,4,1,Sturdy Palm Plywood,1,Wise Mans Blood,20,Black Stone Powder,3,Vanadium Ingot,,,,,
+,,,,,,,,,,,,,,,,,,,
+Wagon Workshop Recipes,Farm Wagon,,Wagon Workshop,Level 2,1,3,2,Wagon Horse,8,Maple Plywood,8,Iron Ingot,10,Fox Hide,10,Black Stone Powder,,,
+Wagon Workshop Recipes,Flimsy Wagon,,Wagon Workshop,Level 1,1,3,1,Wagon Horse,3,Ash Plywood,3,Bronze Ingot,5,Fox Hide,3,Black Stone Powder,,,
+Wagon Workshop Recipes,Forest Path Wagon,,Wagon Workshop,Level 4 (Grana 4),1,5,4,First-Grade Wagon Horse,15,Sturdy Loopy Tree Plywood,15,Noc Ingot,4,Indigo Lapis Lazuli,4000,Piece of Image,,,
+Wagon Workshop Recipes,Merchant Wagon,,Wagon Workshop,Level 2,1,3,4,Wagon Horse,12,Acacia Plywood,12,Brass Ingot,15,Soft Hide,25,Black Stone Powder,,,
+Wagon Workshop Recipes,Noble Wagon,,Wagon Workshop,Level 3,1,4,4,Wagon Horse,12,Sturdy Pine Plywood,12,Brass Ingot,15,Fine Soft Hide,30,Black Stone Powder,,,
+Wagon Workshop Recipes,Shabby Wagon,,Wagon Workshop,Level 1,1,3,1,Wagon Horse,3,Ash Plywood,3,Bronze Ingot,5,Fox Hide,5,Black Stone Powder,,,
+Wagon Workshop Recipes,Strong Wagon,,Wagon Workshop,Level 1,1,3,1,Wagon Horse,5,Maple Plywood,5,Iron Ingot,5,Tough Hide,15,Black Stone Powder,,,
+Wagon Workshop Recipes,Trade Wagon,,Wagon Workshop,Level 2,1,3,2,Wagon Horse,8,Cedar Plywood,8,Brass Ingot,10,Soft Hide,20,Black Stone Powder,,,
+Wagon Workshop Recipes,White Wagon,,Wagon Workship,Level 1 (Altinova 5-8),1,3,1,Wagon Horse,5,White Cedar Plywood,5,Brass Ingot,5,Fine Soft Hide,20,Black Stone Powder,,,
+Wagon Workshop Recipes,Desert Wagon,,Wagon Workshop,"Level 4 (Valenica 16-3, 1F)",1,4,4,Wagon Horse,12,Sturdy Elder Tree Plywood,12,Titanium Ingot,15,Fine Soft Hide,30,Black Stone Powder,,,"While this is in the Game Files, it is not live in our version yet."
+,,,,,,,,,,,,,,,,,,,
+Wagon Part Workshop,Farm Wagon Badge,,Wagon Part Workshop,Level 1,1,4,3,Pure Iron Crystal,3,Flax Fabric,10,Black Stone Powder,,,,,,,
+Wagon Part Workshop,Farm Wagon Cover,,Wagon Part Workshop,Level 1,1,3,4,Maple Plywood,8,Iron Ingot,9,Flax Fabric,22,Black Stone Powder,,,,,
+Wagon Part Workshop,Farm Wagon Flag,,Wagon Part Workshop,Level 1,1,4,1,Maple Timber,5,Flax Fabric,1,Legendary Beasts Blood,7,Black Stone Powder,,,,,
+Wagon Part Workshop,Farm Wagon Wheel,,Wagon Part Workshop,Level 1,1,3,17,Maple Timber,25,Iron Ingot,10,Black Stone Powder,,,,,,,
+Wagon Part Workshop,Forest Path Wagon Badge,,Wagon Part Workshop,"Level 4 (Grana 3, 2F)",1,5,3,Pure Noc Crystal,3,Flax Fabric,1000,Piece of Image,,,,,,,
+Wagon Part Workshop,Forest Path Wagon Cover,,Wagon Part Workshop,"Level 4 (Grana 3, 2F)",1,3,15,Loopy Tree Plywood,15,Noc Ingot,8,Iron Ingot,1000,Piece of Image,,,,,
+Wagon Part Workshop,Forest Path Wagon Flag,,Wagon Part Workshop,"Level 4 (Grana 3, 2F)",1,4,1,Loopy Tree Timber,9,Flax Fabric,4,Legendary Beasts Blood,1000,Piece of Image,,,,,
+Wagon Part Workshop,Forest Path Wagon Wheel,,Wagon Part Workshop,"Level 4 (Grana 3, 2F)",1,3,30,Loopy Tree Timber,60,Steel,1000,Piece of Image,,,,,,,
+Wagon Part Workshop,High-Quality Four-wheeled Wagon Badge,,Wagon Part Workshop,Level 3,1,5,5,Pure Lead Crystal,10,Flax Fabric,100,Black Stone Powder,,,,,,,
+Wagon Part Workshop,Merchant Wagon Badge,,Wagon Part Workshop,Level 3,1,5,3,Pure Zinc Crystal,3,Flax Fabric,10,Black Stone Powder,,,,,,,
+Wagon Part Workshop,Merchant Wagon Cover,,Wagon Part Workshop,Level 3,1,3,8,Acacia Plywood,12,Brass Ingot,3,Iron Ingot,22,Black Stone Powder,,,,,
+Wagon Part Workshop,Merchant Wagon Flag,,Wagon Part Workshop,Level 3,1,4,1,Acacia Timber,9,Flax Fabric,3,Legendary Beasts Blood,7,Black Stone Powder,,,,,
+Wagon Part Workshop,Merchant Wagon Wheel,,Wagon Part Workshop,Level 3,1,3,17,Acacia Timber,30,Iron Ingot,25,Black Stone Powder,,,,,,,
+Wagon Part Workshop,Noble Wagon Badge,,Wagon Part Workshop,Level 3,1,5,3,Pure Tin Crystal,3,Flax Fabric,10,Black Stone Powder,,,,,,,
+Wagon Part Workshop,Noble Wagon Cover,,Wagon Part Workshop,Level 3,1,3,8,Pine Plywood,12,Brass Ingot,5,Iron Ingot,22,Black Stone Powder,,,,,
+Wagon Part Workshop,Noble Wagon Flag,,Wagon Part Workshop,Level 3,1,4,1,Pine Timber,9,Flax Fabric,3,Legendary Beasts Blood,7,Black Stone Powder,,,,,
+Wagon Part Workshop,Noble Wagon Wheel,,Wagon Part Workshop,Level 3,1,3,17,Pine Timber,50,Steel,30,Black Stone Powder,,,,,,,
+Wagon Part Workshop,Shabby Wagon Badge,,Wagon Part Workshop,Level 1,1,5,3,Pure Copper Crystal,2,Flax Fabric,8,Black Stone Powder,,,,,,,
+Wagon Part Workshop,Shabby Wagon Cover,,Wagon Part Workshop,Level 1,1,3,3,Ash Plywood,3,Bronze Ingot,8,Flax Thread,14,Black Stone Powder,,,,,
+Wagon Part Workshop,Shabby Wagon Flag,,Wagon Part Workshop,Level 1,1,4,1,Ash Timber,5,Flax Fabric,1,Legendary Beasts Blood,5,Black Stone Powder,,,,,
+Wagon Part Workshop,Shabby Wagon Wheel,,Wagon Part Workshop,Level 1,1,3,12,Ash Timber,10,Iron Ingot,5,Black Stone Powder,,,,,,,
+Wagon Part Workshop,Strong Wagon Badge,,Wagon Part Workshop,Level 2,1,5,3,Pure Iron Crystal,2,Flax Fabric,8,Black Stone Powder,,,,,,,
+Wagon Part Workshop,Strong Wagon Cover,,Wagon Part Workshop,Level 2,1,3,3,Maple Plywood,5,Iron Ingot,3,Flax Fabric,14,Black Stone Powder,,,,,
+Wagon Part Workshop,Strong Wagon Flag,,Wagon Part Workshop,Level 2,1,4,1,Maple Timber,5,Flax Fabric,1,Legendary Beasts Blood,5,Black Stone Powder,,,,,
+Wagon Part Workshop,Strong Wagon Wheel,,Wagon Part Workshop,Level 2,1,3,17,Maple Timber,10,Iron Ingot,15,Black Stone Powder,,,,,,,
+Wagon Part Workshop,Trade Wagon Badge,,Wagon Part Workshop,Level 2,1,5,3,Pure Lead Crystal,3,Flax Fabric,10,Black Stone Powder,,,,,,,
+Wagon Part Workshop,Trade Wagon Cover,,Wagon Part Workshop,Level 2,1,3,8,Cedar Plywood,8,Bronze Ingot,3,Iron Ingot,22,Black Stone Powder,,,,,
+Wagon Part Workshop,Trade Wagon Flag,,Wagon Part Workshop,Level 2,1,4,1,Cedar Timber,5,Flax Fabric,2,Legendary Beasts Blood,7,Black Stone Powder,,,,,
+Wagon Part Workshop,Trade Wagon Wheel,,Wagon Part Workshop,Level 2,1,3,17,Cedar Timber,25,Iron Ingot,20,Black Stone Powder,,,,,,,
+Wagon Part Workshop,White Wagon Badge,,Wagon Part Workshop,Level 2,1,5,3,Pure Zinc Crystal,8,Black Stone Powder,,,,,,,,,
+Wagon Part Workshop,White Wagon Cover,,Wagon Part Workshop,Level 2,1,3,3,White Cedar Plywood,5,Brass Ingot,5,Flax Fabric,14,Black Stone Powder,,,,,
+Wagon Part Workshop,White Wagon Flag,,Wagon Part Workshop,Level 2,1,4,1,White Cedar Timber,5,Flax Fabric,2,Legendary Beasts Blood,5,Black Stone Powder,,,,,
+Wagon Part Workshop,White Wagon Wheel,,Wagon Part Workshop,Level 2,1,3,15,White Cedar Timber,10,Iron Ingot,20,Black Stone Powder,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Manos Gear,Manos Processing Stone - Lake,,Manufacture,,1,5,30,Ocean Sapphire,15,Gem Polisher,5,Manos Stone,50,Magical Shard,,,,,
+Manos Gear,Manos Processing Stone - Vitality,,Manufacture,,1,5,30,Forest Emerald,15,Gem Polisher,5,Manos Stone,50,Magical Shard,,,,,
+Manos Gear,Manos Processing Stone - Energy,,Manufacture,,1,5,30,Moonlight Opal,15,Gem Polisher,5,Manos Stone,50,Magical Shard,,,,,
+Manos Gear,Manos Processing Stone - Sun,,Manufacture,,1,5,30,Gold Topaz,15,Gem Polisher,5,Manos Stone,50,Magical Shard,,,,,
+Manos Gear,Manos Processing Stone - Wind,,Manufacture,,1,5,30,Starlight Diamond,15,Gem Polisher,5,Manos Stone,50,Magical Shard,,,,,
+Manos Gear,Manos Processing Stone - Magma,,Manufacture,,1,5,30,Blood Ruby,15,Gem Polisher,5,Manos Stone,50,Magical Shard,,,,,
+Manos Gear,Manos Craft Clothes - Lake,,Manufacture,,1,5,30,Ocean Sapphire,15,Sunset-laden Wool,5,Manos Stone,50,Magical Shard,,,,,
+Manos Gear,Manos Craft Clothes - Vitality,,Manufacture,,1,5,30,Forest Emerald,15,Sunset-laden Wool,5,Manos Stone,50,Magical Shard,,,,,
+Manos Gear,Manos Craft Clothes - Energy,,Manufacture,,1,5,30,Moonlight Opal,15,Sunset-laden Wool,5,Manos Stone,50,Magical Shard,,,,,
+Manos Gear,Manos Craft Clothes - Sun,,Manufacture,,1,5,30,Gold Topaz,15,Sunset-laden Wool,5,Manos Stone,50,Magical Shard,,,,,
+Manos Gear,Manos Craft Clothes - Wood,,Manufacture,,1,5,30,Star Diamond,15,Sunset-laden Wool,5,Manos Stone,50,Magical Shard,,,,,
+Manos Gear,Manos Craft Clothes - Lava,,Manufacture,,1,5,30,Blood Ruby,15,Sunset-laden Wool,5,Manos Stone,50,Magical Shard,,,,,
+Manos Gear,Manos Craft Earring,,Manufacture,,1,5,30,Pure Silver Crystal,1,Blood Ruby,15,Scorched Shard,5,Manos Stone,,,,,
+Manos Gear,Manos Craft Ring,,Manufacture,,1,5,30,Pure Iron Crystal,1,Blood Ruby,15,Scorched Shard,5,Manos Stone,,,,,
+Manos Gear,Manos Craft Necklace,,Manufacture,,1,5,30,Pure Platinum Crystal,1,Blood Ruby,15,Scorched Shard,5,Manos Stone,,,,,
+Manos Gear,Manos Craft Belt,,Manufacture,,1,5,30,Supreme Tough Hide,1,Blood Ruby,15,Scorched Shard,5,Manos Stone,,,,,
+Manos Gear,Manos Hoe,,Manufacture,,1,4,1,Shining Steel Hoe,50,Magical Shard,15,Metal Solvent,1,Manos Stone,,,,,
+Manos Gear,Manos Lumbering Axe,,Manufacture,,1,4,1,Shining Steel Lumbering Axe,50,Magical Shard,15,Metal Solvent,1,Manos Stone,,,,,
+Manos Gear,Manos Fluid Collector,,Manufacture,,1,4,1,Shining Steel Fluid Collector,50,Magical Shard,15,Metal Solvent,1,Manos Stone,,,,,
+Manos Gear,Manos Tanning Knife,,Manufacture,,1,4,1,Shining Steel Tanning Knife,50,Magical Shard,15,Metal Solvent,1,Manos Stone,,,,,
+Manos Gear,Manos Butchering Knife,,Manufacture,,1,4,1,Shining Steel Buthering Knife,50,Magical Shard,15,Metal Solvent,1,Manos Stone,,,,,
+Manos Gear,Manos Pickaxe,,Manufacture,,1,4,1,Shining Steel Pickaxe,50,Magical Shard,15,Metal Solvent,1,Manos Stone,,,,,
+Manos Gear,Manos Butchers Clothes,,Manufacture,,1,6,15,Twilight-laden Fabric,5,Manos Stone,50,Magical Shard,30,Gold Topaz,,,,,
+Manos Gear,Manos Collectors Clothes,,Manufacture,,1,6,15,Twilight-laden Fabric,5,Manos Stone,50,Magical Shard,30,Forest Emerald,,,,,
+Manos Gear,Manos Gatherers Clothes,,Manufacture,,1,6,15,Twilight-laden Fabric,5,Manos Stone,50,Magical Shard,30,Moonlight Opal,,,,,
+Manos Gear,Manos Miners Clothes,,Manufacture,,1,6,15,Twilight-laden Fabric,5,Manos Stone,50,Magical Shard,30,Bloody Ruby,,,,,
+Manos Gear,Manos Tanners Clothes,,Manufacture,,1,6,15,Twilight-laden Fabric,5,Manos Stone,50,Magical Shard,30,Star Diamond,,,,,
+Manos Gear,Manos Woodchoppers Clothes,,Manufacture,,1,6,15,Twilight-laden Fabric,5,Manos Stone,50,Magical Shard,30,Ocean Sapphire,,,,,
+Manos Gear,Manos Grass Green Necklace,,Manufacture,,1,5,1,Forest Emerald,15,Scorched Shard,5,Manos Stone,30,Pure Platinum Crystal,,,,,
+Manos Gear,Manos Grass Green Earring,,Manufacture,,1,5,1,Forest Emerald,15,Scorched Shard,5,Manos Stone,30,Pure Silver Crystal,,,,,
+Manos Gear,Manos Grass Green Ring,,Manufacture,,1,5,1,Forest Emerald,15,Scorched Shard,5,Manos Stone,30,Pure Iron Crystal,,,,,
+Manos Gear,Manos Grass Green Belt,,Manufacture,,1,5,1,Forest Emerald,15,Scorched Shard,5,Manos Stone,30,Supreme Tough Hide,,,,,
+Manos Gear,Manos Necklace,,Manufacture,,1,,10,Essence of the Sun,100,Pure Titanium Crystal,5,Manos Stone,40,Magical Shard,,,,,
+Manos Gear,Manos Earring,,Manufacture,,1,,10,Essence of Enchantment,100,Pure Vanadium Crystal,5,Manos Stone,40,Magical Shard,,,,,
+Manos Gear,Manos Ring,,Manufacture,,1,,10,Essence of Abundance,100,Pure Vanadium Crystal,5,Manos Stone,40,Magical Shard,,,,,
+Manos Gear,Manos Belt,,Manufacture,,1,,10,Essence of Crimson Flame,100,Pure Titanium Crystal,5,Manos Stone,40,Magical Shard,,,,,
+Manos Gear,Manos Gatherer's Clothes,,Manufacture,,1,,30,Moonlight Opal,15,Dusk Laden Cotton Fabric,5,Manos Stone,50,Magical Shard,,,,,
+Manos Gear,Manos Craftsman's Clothes,,Manufacture,,1,,30,Blood Ruby,15,Sunset Dyed Wool,5,Manos Stone,50,Magical Shard,,,,,
+Manos Gear,Manos Cook's Clothes,,Manufacture,,1,,30,Indigo Lapis Lazuli,15,Dawn Fallen Silk,10,Manos Stone,10,Fundamentals of Cooking,,,,,
+Manos Gear,Manos Fisher's Clothes,,Manufacture,,1,,30,Ocean Sapphire,30,Tear of the Great Ocean,5,Manos Stone,50,Magical Shard,,,,,
+Manos Gear,Manos Alchemist's Clothes,,Manufacture,,1,,200,Pure Gold Crystal,20,Essence of Perfection,5,Manos Stone,15,Enlightened One's Cotton Fabric,,,,,
+Manos Gear,Manos Hunter's Clothes,,Manufacture,,1,,30,Gold Topaz,50,Fire Horn,5,Manos Stone,50,Magical Shard,15,Dusk Laden Cotton Fabric,,,
+Manos Gear,Manos Sailor's Clothes,,Manufacture,,1,,30,Ocean Sapphire,3,Twilight Red Coral,5,Manos Stone,50,Magical Shard,,,,,
+Manos Gear,Manos Trainer's Clothes,,Manufacture,,1,,5,Krogdalo's Origin Stone,1,Dusk Laden Cotton Fabric,5,Manos Stone,50,Magical Shard,,,,,
+Manos Gear,Manos Hoe,,Manufacture,,1,,1,Shining Steel Hoe,15,Metal Solvent,5,Manos Stone,50,Magical Shard,,,,,
+Manos Gear,Manos Lumbering Axe,,Manufacture,,1,,1,Shining Steel Lumbering Axe,15,Metal Solvent,5,Manos Stone,50,Magical Shard,,,,,
+Manos Gear,Manos Fluid Collector,,Manufacture,,1,,1,Shining Fluid Collector,15,Metal Solvent,5,Manos Stone,50,Magical Shard,,,,,
+Manos Gear,Manos Tanning Knife,,Manufacture,,1,,1,Shining Steel Tanning Knife,15,Metal Solvent,5,Manos Stone,50,Magical Shard,,,,,
+Manos Gear,Manos Butcher Knife,,Manufacture,,1,,1,Shining Steel Butcher Knife,15,Metal Solvent,5,Manos Stone,50,Magical Shard,,,,,
+Manos Gear,Manos Pickaxe,,Manufacture,,1,,1,Shining Steel Pickaxe,15,Metal Solvent,5,Manos Stone,50,Magical Shard,,,,,
+Manos Gear,Manos Processing Stone - Lake,,Manufacture,,1,,30,Ocean Sapphire,15,Gem Polisher,5,Manos Stone,50,Magical Shard,,,,,
+Manos Gear,Manos Processing Stone - Vitality,,Manufacture,,1,,30,Forest Emerald,15,Gem Polisher,5,Manos Stone,50,Magical Shard,,,,,
+Manos Gear,Manos Processing Stone - Energy,,Manufacture,,1,,30,Moonlight Opal,15,Gem Polisher,5,Manos Stone,50,Magical Shard,,,,,
+Manos Gear,Manos Processing Stone - Sun,,Manufacture,,1,,30,Gold Topaz,15,Gem Polisher,5,Manos Stone,50,Magical Shard,,,,,
+Manos Gear,Manos Processing Stone - Wind,,Manufacture,,1,,30,Star Diamond,15,Gem Polisher,5,Manos Stone,50,Magical Shard,,,,,
+Manos Gear,Manos Processing Stone - Lava,,Manufacture,,1,,30,Blood Ruby,15,Gem Polisher,5,Manos Stone,50,Magical Shard,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Manos Gear,Emergency Ship Repair Kit,,Manufacture,,1,1,5,Steel,1,Plywood Hardener,10,Ship Repair Material,,,,,,,
+Manos Gear,Supreme Hard Hide,,Shaking,,2,4,3,Fine Hard Hide,5,Leather Glaze,,,,,,,,,
+Manos Gear,Dusk Laden Cotton Fabric,,Grinding,,2.5,2,50,Oil of Fortitude,50,Cotton Fabric,,,,,,,,,
+Manos Gear,Enlightened One's Cotton Fabric,,Simple Alchemy,,1,2,50,EXP Elixir,50,Cotton Fabric,,,,,,,,,

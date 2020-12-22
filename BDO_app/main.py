@@ -43,7 +43,7 @@ class KutumVsNouverWindow(QMainWindow):
         self.submitButton.clicked.connect(self.submit)
 
     def submit(self):
-        """Check if all the data inputs are ok."""
+        """Check if all the data inputs are ok and run calculations."""
 
         import modules.kutVsNou as kvs
 
@@ -111,6 +111,39 @@ class CookingWindow(QMainWindow):
         loadUi("BDO_app/pyqt5_ui/cookingWindow.ui", self)
 
         self.mainButton.clicked.connect(self.gotoMain)
+        self.recipesButton.clicked.connect(self.showRecipes)
+
+
+    def showRecipes(self):
+        """Load all the recipes to the view."""
+        import modules.cooking as cooking
+
+        self.allRecipes = cooking.importAll()
+
+        for row in range(len(self.allRecipes)):
+            self.cookingList.insertItem(row, self.allRecipes[row][0])
+
+
+        self.cookingList.currentRowChanged.connect(
+            lambda: self.infoLabel.setText(
+                f"""Effect:
+{self.allRecipes[self.cookingList.currentRow()][14]}\n
+Ingredients:
+{self.allRecipes[self.cookingList.currentRow()][4]} {self.allRecipes[self.cookingList.currentRow()][5]}
+{self.allRecipes[self.cookingList.currentRow()][6]} {self.allRecipes[self.cookingList.currentRow()][7]}
+{self.allRecipes[self.cookingList.currentRow()][8]} {self.allRecipes[self.cookingList.currentRow()][9]}
+{self.allRecipes[self.cookingList.currentRow()][10]} {self.allRecipes[self.cookingList.currentRow()][11]}
+{self.allRecipes[self.cookingList.currentRow()][12]} {self.allRecipes[self.cookingList.currentRow()][13]}\n
+Skill level required:   {self.allRecipes[self.cookingList.currentRow()][2]}\n
+Expirience:     {self.allRecipes[self.cookingList.currentRow()][1]}
+                """
+                )
+            )
+
+
+    def _recipeClicked(self):
+        """Show details of the recipe."""
+        self.infoLabel.setText(f"Effect:\n{self.allRecipes[row][0]}")
 
 
     def gotoMain(self):
@@ -127,6 +160,7 @@ class NodesWindow(QMainWindow):
         self.showAll()
         self.tableWidget.setSortingEnabled(False)
 
+        #set size of the table
         self.tableWidget.setColumnWidth(0, 100)
         self.tableWidget.setColumnWidth(1, 195)
         self.tableWidget.setColumnWidth(2, 190)
@@ -134,6 +168,7 @@ class NodesWindow(QMainWindow):
         self.tableWidget.setColumnWidth(4, 180)
         self.tableWidget.setColumnWidth(5, 30)
 
+        # filter buttons
         self.allButton.clicked.connect(self.showAll)
         self.balenosButton.clicked.connect(self.showBalenos)
         self.calpheonButton.clicked.connect(self.showCalpheon)
@@ -144,6 +179,7 @@ class NodesWindow(QMainWindow):
         self.serendiaButton.clicked.connect(self.showSerendia)
         self.valenciaButton.clicked.connect(self.showValencia)
 
+        # return to Main window
         self.mainButton.clicked.connect(self.gotoMain)
 
 
