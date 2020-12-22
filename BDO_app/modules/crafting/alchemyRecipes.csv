@@ -1,0 +1,75 @@
+Main Product Result,XP,Skill Level Required,Craft Step,Ingredient 1 Qty ,Material,Ingredient 2 Qty ,Material,Ingredient 3 Qty ,Material,Ingredient 4 Qty,Material,Ingredient 5 Qty,Material,Usage,Avg Qty Made
+Antidote Elixir,,Beginner 1,3,1,Pure Powder Reagent,1,Weed,2,Blood 2,3,Olive Oil,,,Cure Toxications,2.5
+Clear Liquid Reagent,,Beginner 1,2,1,Weed,1,Sunrise Herb,1,Salt,1,Purified Water,,,Used in Alchemy Recipes,2.5
+Clowns Blood,,Apprentice 1,3,1,Spirits Leaf,1,Powder of Darkness,1,Clear Liquid Reagent,2,Blood 1,,,Used in Alchemy Recipes,2.5
+Defense Elixir,,Beginner 1,3,1,Clear Liquid Reagent,6,Ash Sap,5,Blood 2,3,Purified Water,,,All Damage Reduction +5,2.5
+Elixir of Amity,,Apprentice 1,4,1,Legendary Beasts Blood,5,Fire Flake Flower,6,Ash Sap,3,Black Stone Powder,,,Amity Gain +20%,2.5
+Elixir of Assassination,,Skilled 1,5,1,Oil of Regeneration,5,Pure Powder Reagent,4,Amanita Mushroom,2,Red Tree Lump,2,Trace of Memory,Back Attack Damage +10%,2.5
+Elixir of Burn Removal,,Beginner 1,3,1,Clear Liquid Reagent,1,Purified Water,2,Fruit,2,Weed,,,,2.5
+Elixir of Carnage,,Skilled 1,5,1,Oil of Corruption,7,Pure Powder Reagent,2,Tiger Mushroom,2,Spirits Leaf,3,Trace of the Earth,Down Attack Damage +10%,2.5
+Elixir of Concentration,,Beginner 1,3,1,Clear Liquid Reagent,3,Cloud Mushroom,2,Weed,3,Blood 4,,,All Accuracy +8,2.5
+Elixir of Death,,Skilled 1,5,1,Oil of Tranquility,6,Clear Liquid Reagent,2,Ancient Mushroom,7,Ash Sap,2,Trace of Death,Defense Nullifying Damage +5 per Critical Hit,2.5
+Elixir of Deep Sea,,Skilled 1,5,1,Oil of the Abyss,2,Coral Crystal,5,Clear Liquid Reagent,5,Arrow Mushroom,5,White Cedar Sap,"All AP +10, Max Stamina +100, Max HP +100, Back Attack Damage +10%, Down Attack Damage +10%, Air Attack Damage +10%",2.5
+Elixir of Demihuman Hunt,,Apprentice 1,4,1,Sinners Blood,4,Arrow Mushroom,4,Fir Sap,3,Black Stone Powder,,,Extra Damage Against Demihumans +10,2.5
+Elixir of Detection,,Skilled 1,5,1,Oil of Storms,6,Pure Powder Reagent,3,Truffle Mushroom,2,Old Tree Bark,3,Trace of Savagery,Critical Hit Damage +10%,2.5
+Elixir of Draining,,Skilled 1,5,1,Oil of Fortitude,4,Clear Liquid Reagent,3,Hump Mushroom,4,Birch Sap,2,Trace of Forest,HP +3 per Critical Hit,2.5
+Elixir of Endurance,,Beginner 1,3,1,Pure Powder Reagent,2,Dwarf Mushroom,5,Birch Sap,4,Blood 4,,,Max Stamina +100,2.5
+Elixir of Energy,,Beginner 1,3,1,Pure Powder Reagent,4,Blood 3,3,Purified Water,2,MP Potion (Small),,,MP(EP) Recovery Amount +10,2.5
+Elixir of Frenzy,,Skilled 1,5,1,Oil of Regeneration,5,Clear Liquid Reagent,5,Cedar Sap,3,Trace of Battle,2,Ghost Mushroom,"All DP -5, All AP +10",2.5
+Elixir of Fury,,Beginner 1,3,4,Dwarf Mushroom,1,Ash Sap,4,Blood 4,3,Purified Water,,,All AP +5,2.5
+Elixir of Hemostasis,,Beginner 1,3,1,Pure Powder Reagent,1,Cloud Mushroom,1,Ash Sap,3,Purified Water,,,Cure Bleeding,2.5
+Elixir of Human Hunt,,Apprentice 1,4,1,Clowns Blood,4,Fortune Teller Mushroom,4,Maple Sap,3,Black Stone Powder,,,Extra Damage Against Humans +6,2.5
+Elixir of Life,,Beginner 1,3,1,Pure Powder Reagent,3,Silver Azalea,5,Blood 3,3,HP Potion (Small),,,Max HP +100,2.5
+Elixir of Mentality,,Beginner 1,3,1,Clear Liquid Reagent,4,Ash Sap,3,Purified Water,3,MP Potion (Small),,,Max MP(EP) +100,2.5
+Elixir of Penetration,,Skilled 1,5,1,Oil of Corruption,4,Clear Liquid Reagent,5,Bluffer Mushroom,5,Pine Sap,2,Trace of Violence,Defense Nullifying Damage +5 per Back Attack,2.5
+Elixir of Resistance,,Beginner 1,2,3,Cloud Mushroom,1,Birch Sap,7,Blood 1,3,Purified Water,,,Debuff Resistance Against Monsters +10%,2.5
+Elixir of Seal,,Beginner 1,2,3,Dwarf Mushroom,1,Birch Sap,4,Blood 1,5,Purified Water,,,Underwater Breathing +10 sec.,2.5
+Elixir of Shock,,Apprentice 1,4,1,Clowns Blood,5,Tiger Mushroom,7,Cedar Sap,3,Powder of Time,,,Critical Hit Rate +2,2.5
+Elixir of Sky,,Skilled 1,5,1,Oil of Tranquility,6,Pure Powder Reagent,1,Emperor Mushroom,2,Bloody Tree Knot,4,Trace of Ascension,Air Attack Damage +10%,2.5
+Elixir of Spells,,Apprentice 1,4,1,Tyrants Blood,5,Fire Flake Flower,3,Maple Sap,2,Powder of Darkness,,,Casting Speed +2,2.5
+Elixir of Swiftness,,Apprentice 1,4,1,Legendary Beasts Blood,5,Arrow Mushroom,5,Birch Sap,2,Powder of Darkness,,,Movement Speed +2,2.5
+Elixir of Time,,Apprentice 1,4,1,Wise Mans Blood,5,Fire Flake Flower,2,Powder of Time,5,Maple Sap,,,Life EXP +10%,2.5
+Elixir of Training,,Apprentice 1,4,1,Legendary Beasts Blood,7,Silver Azalea,4,Pine Sap,2,Powder of Crevice,,,Horse EXP +8%,2.5
+Elixir of Will,,Beginner 1,3,1,Pure Powder Reagent,6,Blood 1,4,Sunrise Herb,3,Purified Water,,,Damages from Monster -7.5%,2.5
+Elixir of Wind,,Apprentice 1,4,1,Wise Mans Blood,5,Fortune Teller Mushroom,5,Pine Sap,2,Powder of Darkness,,,Attack Speed +2,2.5
+Elixir of Wings,,Beginner 1,2,2,Silver Azalea,1,Ash Sap,4,Blood 4,5,Purified Water,,,Jump Height Up,2.5
+Essence of Abundance,,Apprentice 1,1,2,Fruit of Abundance,3,Cloud Mushroom,4,Birch Sap,2,Trace of Ascension,,,used in Alchemy,2.5
+Essence of Crimson Flame,,Apprentice 1,1,2,Fruit of Crimson Flame,3,Dwarf Mushroom,4,Ash Sap,2,Trace of Ascension,,,Used in Alchemy,2.5
+Essence of Destruction,,Apprentice 1,1,2,Fruit of Destruction,3,Silver Azalea,4,Pine Sap,2,Powder of Flame,,,Used in Alchemy,2.5
+Essence of Enchantment,,Apprentice 1,1,2,Fruit of Enchantment,3,Fire Flake Flower,4,Ash Sap,2,Powder of Darkness,,,Used in Alchemy,2.5
+Essence of Magic Power,,Apprentice 1,1,2,Fruit of Magic Power,3,Dry Mane Grass,4,Birch Sap,2,Powder of Darkness,,,Used in Alchemy,2.5
+Essence of Nature,,Apprentice 1,1,2,Fruit of Nature,3,Fortune Teller Mushroom,4,Maple Sap,2,Trace of the Earth,,,Used in Alchemy,2.5
+Essence of Perfection,,Apprentice 1,1,2,Fruit of Perfection,3,Sunrise Herb,4,Maple Sap,2,Powder of Flame,,,Used in Alchemy,2.5
+Essence of the Sun,,Apprentice 1,1,2,Fruit of the Sun,3,Arrow Mushroom,4,Pine Sap,2,Trace of the Earth,,,Used in Alchemy,2.5
+EXP Elixir,,Apprentice 1,4,1,Clowns Blood,7,Dry Mane Grass,5,Pine Sap,2,Powder of Flame,,,Combat EXP +10%,2.5
+Fishers Elixir,,Apprentice 1,4,1,Wise Mans Blood,6,Sunrise Herb,3,Fir Sap,2,Powder of Flame,,,Fishing +2,2.5
+Gem Polisher,,Apprentice 1,3,2,Trace of Origin,1,Pure Powder Reagent,6,Processed Coal,6,Purified Water,,,used to change resplendent Gemstones into higher quality Gemstones through processing,2
+Golden Hand Elixir,,Skilled 1,5,1,Oil of Storms,4,Clear Liquid Reagent,4,Fog Mushroom,3,Trace of Hunting,6,Fir Sap,Luck +2,2.5
+Griffons Elixir,,Skilled 1,4,1,Griffon Claw,6,Cedar Sap,3,Trace of Battle,3,Purified Water,2,Sinners Blood,Additional Damage against Kamasylvian Monsters +12,2.5
+Grim Reapers Elixir,,Skilled 1,5,1,Oil of Fortitude,4,Pure Powder Reagent,2,Sky Mushroom,2,Monks Branch,4,Trace of Origin,HP Recovery +1 per Hit,2.5
+Herbal Gunpowder,,,2,1,Insectivore Plant Powder,1,Powder of Darkness,,,,,,,Used in Explosives,2.5
+Herbal Poison,,,1,1,Insectivore Plant Sap,5,Amanita Mushroom,,,,,,,Used as an Ingredient,2.5
+Khalks Elixir,,Skilled 1,5,1,Fugitive Khalks Skin,10,White Cedar Sap,5,Trace of Chaos,4,Purified Water,2,Oil of Corruption,"All Debuff Resistance +10%, Damage Reduction +15, Max HP +100, Movement Speed +5%",2.5
+Leather Glaze,,Apprentice 1,3,1,Clear Liquid Reagent,3,Maple Sap,3,Trace of Ascension,2,Powder of Darkness,,,"Used to reinforce leather, fur and feathers through processing",2
+Legendary Beasts Blood,,Apprentice 1,3,1,Spirits Leaf,1,Trace of the Earth,1,Pure Powder Reagent,2,Blood 5,,,Used in alchemy recipes,2.5
+Looney Elixir,,Apprentice 1,1,4,Moss Tree Sap,2,Volcanic Umbrella Mushroom,3,Powder of Flame,5,Red Tree Lump,1,Violet Flower,Chance to Gain Higher-Grade Knowledge +3%,2.5
+Metal Solvent,,Apprentice 1,3,3,Melted Iron Shard,2,Trace of Savagery,1,Clear Liquid Reagent,4,Rough Stone,,,A material used to change metals into a pure crystal form through processing,2
+Oil of Corruption,,Skilled 1,4,1,Sinners Blood,1,Spirits Leaf,1,Fruit of the Sun,1,Powder of Darkness,,,used in Alchemy recipes,2.5
+Oil of Fortitude,,Skilled 1,4,1,Clowns Blood,1,Monks Branch,1,Fruit of Nature,1,Powder of Flame,,,used in Alchemy recipes,2.5
+Oil of Regeneration,,Skilled 1,4,1,Legendary Beasts Blood,1,Red Tree Lump,1,Fruit of Crimson Flame,1,Powder of Crevice,,,used in Alchemy recipes,2.5
+Oil of Storms,,Skilled 1,4,1,Tyrants Blood,1,Old Tree Bark,1,Fruit of Abundance,1,Powder of Time,,,used in Alchemy recipes,2.5
+Oil of the Abyss,,Skilled 1,4,1,Tyrants Blood,1,Deep Sea Fruit,2,Powder of Time,2,Bloody Tree Knot,,,used in Alchemy recipes,2.5
+Oil of Tranquility,,Skilled 1,4,1,Wise Mans Blood,1,Bloody Tree Knot,1,Fruit of Magic Power,1,Powder of Earth,,,used in Alchemy recipes,2.5
+Perfume of Courage,,Skilled 1,3,1,Blue Whale Oil,3,Trace of Violence,6,Bloody Tree Knot,4,Purified Water,2,Clear Liquid Reagent,"All AP +20, Max HP +200, Attack Speed +5 Casting Speed +5, Movement Speed +5",2
+Perfume of Swiftness,,Skilled 1,3,1,Blue Whale Oil,4,Powder of Time,6,Everlasting Herb,4,Purified Water,2,Clear Liquid Reagent,"Weight Limit +200lt, Life EXP +20%, Move Speed +5, Gather Speed +5, Fishing Speed +5",2
+Plywood Hardener,,Apprentice 1,3,1,Pure Powder Reagent,3,Bloody Tree Knot,4,Fir Sap,3,Trace of Earth,,,A material used to strengthen Plywood through Processing,2
+Pure Powder Reagent,,Beginner 1,2,1,Weed,1,Silver Azalea,1,Sugar,1,Purified Water,,,used in alchemy recipes,2.5
+Resurrection Elixir,,Beginner 1,3,1,Clear Liquid Reagent,3,Sunrise Herb,3,Purified Water,2,HP Potion (Small),,,HP recovery +10,2.5
+Sinners Blood,,Apprentice 1,3,2,Bloody Tree Knot,1,Powder of Flame,1,Clear Liquid Reagent,2,Blood 2,,,Used in Alchemy Recipes,2.5
+Spirit Perfume Elixir,,Skilled 1,1,1,Dead Tree Essence,1,Fruit of Nature,10,Loopy Tree Sap,10,Powder of Darkness,2,Violet Flower,"Max HP +300, Critical Hit Rate +5, MP/WP/SP +3 per every good hit",2
+Tyrants Blood,,Apprentice 1,3,1,Monks Branch,1,Trace of Savagery,1,Pure Powder Reagent,2,Blood 4,,,Used in Alchemy Recipes,2.5
+Weenie Elixir,,Apprentice 1,1,4,Moss Tree Sap,2,Blue Umbrella Mushroom,3,Powder of Time,5,Monks Branch,1,Sky Blue Flower,Knowledge Gain Chance +7%,2.5
+Whale Tendon Elixir,,Skilled 1,4,1,Blue Whale Tendon,1,Clowns Blood,12,Ash Sap,5,Purified Water,2,Clear Liquid Reagent,All Damage Reduction +100,2
+Whale Tendon Potion,,Apprentice 1,2,1,Blue Whale Tandon,3,HP Potion (Medium),3,MP Potion (Medium),8,Purified Water,,,"HP Recovery +500, MP(EP)/WP/SP Recovery +300",10
+Wise Mans Blood,,Apprentice 1,3,1,Monks Branch,1,Trace of Ascension,1,Clear Liquid Reagent,2,Blood 3,,,Used in Alchemy Recipes,2.5
+Workers Elixir,,Apprentice 1,4,1,Sinners Blood,6,Silver Azalea,4,Ash Sap,2,Powder of Flame,,,Gathering +2,2.5

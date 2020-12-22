@@ -34,7 +34,7 @@
      <bool>false</bool>
     </property>
     <property name="text">
-     <string>Cooking</string>
+     <string>Alchemy</string>
     </property>
     <property name="scaledContents">
      <bool>false</bool>
@@ -91,7 +91,7 @@
         <bool>false</bool>
        </property>
        <property name="text">
-        <string>Cooking XP</string>
+        <string>Alchemy XP</string>
        </property>
        <property name="flat">
         <bool>false</bool>
@@ -104,7 +104,7 @@
         <bool>false</bool>
        </property>
        <property name="text">
-        <string>Cooking Mastery</string>
+        <string>Alchemy Mastery</string>
        </property>
        <property name="flat">
         <bool>false</bool>
@@ -117,7 +117,7 @@
         <bool>false</bool>
        </property>
        <property name="text">
-        <string>Cooking Tools</string>
+        <string>Alchemy Tools</string>
        </property>
        <property name="flat">
         <bool>false</bool>
@@ -139,7 +139,7 @@
      </item>
     </layout>
    </widget>
-   <widget class="QListWidget" name="cookingList">
+   <widget class="QListWidget" name="alchemyList">
     <property name="geometry">
      <rect>
       <x>10</x>

@@ -1,0 +1,289 @@
+Main Product Result,XP,Skill Level Required,Craft Step,Ingredient 1 Qty ,Material,Ingredient 2 Qty ,Material,Ingredient 3 Qty ,Material,Ingredient 4 Qty,Material,Ingredient 5 Qty,Material,Usage,Crafting Type,Avg Qty Made
+Acacia Plank,,,1,5,Acacia Timber,,,,,,,,,,Chopping,2.5
+Acacia Plywood,,,2,10,Acacia Plank,,,,,,,,,,Chopping,2.5
+Ash Plank,,,1,5,Ash Timber,,,,,,,,,,Chopping,2.5
+Ash Plywood,,,2,10,Ash Plank,,,,,,,,,,Chopping,2.5
+Birch Plank,,,1,5,Birch Timber,,,,,,,,,,Chopping,2.5
+Birch Plywood,,,2,10,Birch Plank,,,,,,,,,,Chopping,2.5
+Cedar Plank,,,1,5,Cedar Timber,,,,,,,,,,Chopping,2.5
+Cedar Plywood,,,2,10,Cedar Plank,,,,,,,,,,Chopping,2.5
+Elder Tree Plank,,,1,5,Elder Tree Timber,,,,,,,,,,Chopping,2.5
+Elder Tree Plywood,,,2,10,Elder Tree Plank,,,,,,,,,,Chopping,1.5
+Fir Plank,,,1,5,Fir Timber,,,,,,,,,,Chopping,2.5
+Fir Plywood,,,2,10,Fir Plank,,,,,,,,,,Chopping,2.5
+Loopy Tree Plank,,,1,5,Loopy Tree Timber,,,,,,,,,,Chopping,2.5
+Loopy Tree Plywood,,,2,10,Loopy Tree Plank,,,,,,,,,,Chopping,2.5
+Maple Plank,,,1,5,Maple Timber,,,,,,,,,,Chopping,2.5
+Maple Plywood,,,2,10,Maple Plank,,,,,,,,,,Chopping,2.5
+Moss Tree Plank,,,1,5,Moss Tree Timber,,,,,,,,,,Chopping,2.5
+Moss Tree Plywood,,,2,10,Moss Tree Plank,,,,,,,,,,Chopping,2.5
+Palm Plank,,,1,5,Palm Timber,,,,,,,,,,Chopping,2.5
+Palm Plywood,,,2,10,Palm Plank,,,,,,,,,,Chopping,2.5
+Pine Plank,,,1,5,Pine Timber,,,,,,,,,,Chopping,2.5
+Pine Plywood,,,2,10,Pine Plank,,,,,,,,,,Chopping,2.5
+Ship Repair Material,,,3,2,Any Type Plywood,,,,,,,,,,Chopping,2
+Standardized Timber Square,,,2,10,Usable Scantling,,,,,,,,,,Chopping,2
+Usable Scantling,,,1,10,Log,,,,,,,,,,Chopping,2.5
+White Cedar Plank,,,1,5,White Cedar Timber,,,,,,,,,,Chopping,2.5
+White Cedar Plywood,,,2,10,White Cedar Plank,,,,,,,,,,Chopping,2.5
+Cheese,,,1,1,Milk,,,,,,,,,,Drying,2.5
+Fancy Reptile Skin,,,1,5,Reptile Skin,,,,,,,,,,Drying,2.5
+Fine Fancy Reptile Skin,,,2,10,Fancy Reptile Skin,,,,,,,,,,Drying,2.5
+Fine Hard Hide,,,2,10,Hard Hide,,,,,,,,,,Drying,2.5
+Fine Soft Hide,,,2,10,Soft Hide,,,,,,,,,,Drying,2.5
+Fine Thick Fur,,,2,10,Thick Fur,,,,,,,,,,Drying,2.5
+Fine Thin Hide,,,2,10,Thin Hide,,,,,,,,,,Drying,2.5
+Fine Tough Hide,,,2,10,Tough Hide,,,,,,,,,,Drying,2.5
+Fragrant Jerky,,,1,1,Red Meat,,,,,,,,,,Drying,2.5
+Golden Pearl,,,1,1,Giant Pearl Oyster,,,,,,,,,,Drying,0.2
+Hard Hide,,,1,5,Hide 1,,,,,,,,,,Drying,2.5
+Haystack,,,1,50,Weed,,,,,,,,,,Drying,1
+Inorganic Fertilizer,,,1,5,Grain,,,,,,,,,,Drying,2.5
+Rare Jerky,,,1,1,Reptile Meat,,,,,,,,,,Drying,2.5
+Soft Hide,,,1,5,Hide 2,,,,,,,,,,Drying,2.5
+Thick Fur,,,1,5,Fur,,,,,,,,,,Drying,2.5
+Thin Hide,,,1,5,Hide 3,,,,,,,,,,Drying,2.5
+Tough Hide,,,1,5,Hide 4,,,,,,,,,,Drying,2.5
+Well-Dried Jerky,,,1,1,Chick Meat,,,,,,,,,,Drying,2.5
+Old Casual (Female),,,1,1,Washed-Up Laundry,,,,,,,,,,Drying,0.13
+Alluvial Gold,,,1,1,Bottle of River Water,,,,,,,,,,Filtering,0.07
+Fancy Feather,,,1,5,Feather,,,,,,,,,,Filtering,2.5
+Fine Fancy Feather,,,2,10,Fancy Feather,,,,,,,,,,Filtering,2.5
+Fine Lightweight Plume,,,2,10,LIghtweight Plume,,,,,,,,,,Filtering,2.5
+Lightweight Plume,,,1,5,Plume,,,,,,,,,,Filtering,2.5
+Purified Water,,,1,1,Bottle of River Water,,,,,,,,,,Filtering,2.5
+Chicken Feed,,,1,20,Rough Stone,100,Barley,,,,,,,,Grinding,1.5
+Cotton Fabric,,,2,10,Cotton Yarn,,,,,,,,,,Grinding,2.5
+Diamond,,,1,5,Rough Diamond,,,,,,,,,,Grinding,2.5
+Emerald,,,1,5,Rough Emerald,,,,,,,,,,Grinding,2.5
+Enhanced Flax Fabric,,,3,5,Flax Fabric,5,Shining Powder,,,,,,,,Grinding,6
+Flax Fabric,,,2,10,Flax Thread,,,,,,,,,,Grinding,2.5
+Flour,,,1,1,Grain,,,,,,,,,,Grinding,2.5
+Freekeh Flour,,,1,1,Freekeh,,,,,,,,,,Grinding,2.5
+Ground Bird Meat,,,1,3,Bird Meat,,,,,,,,,,Grinding,2.5
+Insectivore Plant Powder,,,1,5,Insectivore Plant Flower or Leaf,,,,,,,,,,Grinding,2.5
+Insectivore Plant Sap,,,1,5,Insectivore Plant Stalk or Root,,,,,,,,,,Grinding,2.5
+Lapis Lazuli,,,1,4,Rough Lapis Lazuli,,,,,,,,,,Grinding,2.5
+Mystical Spirit Powder,,,1,1,Spirit Stone (Green),,,,,,,,,,Grinding,10
+Polished Stone,,,1,10,Rough Stone,,,,,,,,,,Grinding,2.5
+Resplendent Diamond,,,2,5,Diamond,,,,,,,,,,Grinding,2
+Resplendent Emerald,,,2,5,Emerald,,,,,,,,,,Grinding,2
+Resplendent Lapis Lazuli,,,2,5,Lapis Lazuli,,,,,,,,,,Grinding,2
+Resplendent Ruby,,,2,5,Ruby,,,,,,,,,,Grinding,2
+Resplendent Sapphire,,,2,5,Sapphire,,,,,,,,,,Grinding,2
+Resplendent Topaz,,,2,5,Topaz,,,,,,,,,,Grinding,2
+Sapphire,,,1,5,Rough Sapphire,,,,,,,,,,Grinding,2.5
+Teff Flour,,,1,1,Teff,,,,,,,,,,Grinding,2.5
+Top-Quality Cooking Honey,,,1,3,Wild Beehive,,,,,,,,,,Griding,0.11
+Topaz,,,1,5,Rough Topaz,,,,,,,,,,Grinding,2.5
+Wool,,,2,10,Knitting Yarn,,,,,,,,,,Grinding,2.5
+[Guild] Beasts Skin,,Guild Hall,4,5,Lion Hide,1,Trace of Savagery,1,Leather Glaze,,,,,,Guild Manufacture,1.1
+[Guild] Charior Exterior Strenghening Material,,Guild Hall,4,1,[Guild] Clearance Permit,1,Pure Vanadium Crystal,1,Brass Ingot,10,Trace of Violence,,,,Guild Manufacture,1.1
+[Guid] Clearance Request,,Guild Hall,3,1,[Guild] Ink,1,[Guild] Parchment,1,[Guild] Wax,1,[Guild] Seal,,,,Guild Manufacture,1.1
+[Guild] Cloudy Timber,,Guild Hall,1,2,[Guild] Candidium Shell,1,[Guild] Ocean Stalkers Skin,100,Palm Timber,10,Trace of Savagery,,,,Guild Manufacture,1.1
+[Guild] Crude Decoration,,Guild Hall,1,1,Giant Pearl Oyster,1,Cone Snail,,,,,,,,Guild Manufacture,1.1
+[Guild] Desert Alloy Ingot,,Guild Hall,4,1,[Guild] Clearance Permit,5,Melted Vanadium Shard,5,Melted Titanium Shard,1,Legendary Beasts Blood,,,,Guild Manufacture,1.1
+[Guild] Elephant Cage Parts,,Guild Hall,4,1,[Guild] Clearance Permit,1,Cedar Plywood,,,,,,,,Guild Manufacture,1.1
+[Guild] Elephant Food,,Guild Hall,4,1,[Guild] Clearance Permit,5,Spirits Leaf,5,Old Tree Bark,5,Fruit of Nature,5,Weed,,Guild Manufacture,1.1
+[Guild] Everlasting Tree Plywood,,Guild Hall,3,5,Palm Plywood,1,Powder of Time,1,Trace of Origin,,,,,,Guild Manufacture,1.1
+[Guild] Fresh Veggies,,Guild Hall,1,10,Special Corn,10,Special Pumpkin,10,Special Carrot,,,,,,Guild Manufacture,1.1
+[Guild] Ink,,Guild Hall,2,2,Processed Coal,2,Black Stone Powder,,,,,,,,Guild Manufacture,1.1
+[Guild] Iron Core Timber Square,,Guild Hall,4,1,[Guild] Clearance Permit,2,Steel,2,Standardized Timber Square,4,White Cedar Sap,,,,Guild Manufacture,1.1
+[Guild] Juicy Fruits,,Guild Hall,1,10,Coconut,10,Special Grape,10,Special Olive,,,,,,Guild Manufacture,1.1
+[Guild] Old Moon Magic Neutralizer,,Guild Hall,4,1,Fruit of Magic Power (Any type will work),1,Wise Mans Blood,10,Wolf Blood,10,Powder of Crevice,,,,Guild Manufacture,1.1
+[Guild] Parchment,,Guild Hall,1,2,Ox Hide,2,Black Stone Powder,,,,,,,,Guild Manufacture,1.1
+[Guild] Phoenix Skin,,Guild Hall,4,2,Fine Tough Hide,2,Fine Hard Hide,2,Legendary Beasts Blood,,,,,,Guild Manufacture,1.1
+[Guild] Restoration of Cadrys Forbidden Book,,Guild Hall,2,100,Cadrys Token,1,[Guild] Parchment,10,Sheep Blood,10,Powder of Darkness,,,,Guild Manufacture,1.1
+[Guild] Sandy Ingot,,Guild Hall,1,2,[Guild] Black Rust Jawbone,1,[Guild] Ocean Stalkers Skin,100,Vanadium Ore,10,Trace of the Earth,,,,Guild Manufacture,1.1
+[Guild] Sea Horn,,Guild Hall,5,10,[Guild] Ninesharks Horn Fragment,1,[Guild] Ocean Stalkers Skin,10,Sturdy Timber Square,10,Trace of Origin,,,,Guild Manufacture,1.1
+[Guild] Seal,,Guild Hall,1,2,White Cedar Timber,2,Rough Translucent Quartz,,,,,,,,Guild Manufacture,1.1
+[Guild] Soft Hay,,Guild Hall,1,10,Weed,10,Barley,,,,,,,,Guild Manufacture,1.1
+[Guild] Spirit-laden Plywood,,Guild Hall,4,1,[Guild] Clearance Permit,10,Spirits Leaf,2,Pine Plywood,4,Red Tree Lump,,,,Guild Manufacture,1.1
+[Guild] Sticky Glue,,Guild Hall,1,1,Lobster,10,Sulfur,,,,,,,,Guild Manufacture,1.1
+[Guild] Stormy Rope,,Guild Hall,1,3,[Guild] Hekarus Spike,1,Ocean Stalkers Skin,100,Flax,10,Trace of Despair,,,,Guild Manufacture,1.1
+[Guild] Test Gunpowder,,Guild Hall,4,1,[Guild] Clearance Permit,10,Sulfur,2,Coal,10,Black Stone Powder,1,Rough Stone,,Guild Manufacture,1.1
+[Guild] Timber for Fixing the Cage,,Guild Hall,4,1,[Guild] Clearance Permit,5,Usable Scantling,,,,,,,,Guild Manufacture,1.1
+[Guild] Titanium Stud,,Guild Hall,2,2,Melted Titanium Shard,1,Black Stone Powder,,,,,,,,Guild Manufacture,1.1
+[Guild] Tough Silk Thread,,Guild Hall,2,1,Silk Thread,1,Weed,1,Powder of Crevice,,,,,,Guild Manufacture,1.1
+[Guild] Vanadium Chain,,Guild Hall,2,2,Melted Vanadium Shard,1,Black Stone Powder,,,,,,,,Guild Manufacture,1.1
+[Guild] Vanadium Steel Ingot,,Guild Hall,4,1,[Guild] Clearance Permit,1,Pure Vanadium Crystal,1,Brass Ingot,4,Steel,,,,Guild Manufacture,1.1
+[Guild] War Goddesss Thill,,Guild Hall,4,1,[Guild] Clearance Permit,5,Sturdy Timber Square,5,Steel,50,Palm Sap,10,Trace of Battle,,Guild Manufacture,1.1
+[Guild] Water for Elephant,,Guild Hall,4,1,[Guild] Clearance Permit,5,Mineral Water,5,Purified Water,,,,,,Guild Manufacture,1.1
+[Guild] Wax,,Guild Hall,1,2,Pine Sap,2,Rough Ruby,,,,,,,,Guild Manufacture,1.1
+[Guild] Wind-laden Flax Cloth,,Guild Hall,4,1,[Guild] Clearance Permit,2,Flax Fabric,1,Elixir of Flowing Wind,1,Monks Branch,,,,Guild Manufacture,1.1
+Black Crystal,,,1,5,Rough Black Crystal,,,,,,,,,,Heating,2.5
+Black Gold Ingot,,,4,10,Ocean Stalkers Skin,2,Pure Platinum Crystal,,,,,,,,Heating,2
+Blue Coral,,,2,10,Coral Piece,1,Sapphire,,,,,,,,Heating,1.5
+Blue Crystal,,,1,5,Rough Blue Crystal,,,,,,,,,,Heating,2.5
+Brass Ingot,,,2,5,Melted Copper Shard,5,Melted Zinc Shard,,,,,,,,Heating,2.5
+Breezy White Coral,,,3,3,White Coral,1,Resplendent Diamond,,,,,,,,Heating,1
+Brilliant Opal,,,2,10,Polished Opal,,,,,,,,,,Heating,2.5
+Bronze Ingot,,,2,5,Melted Copper Shard,5,Melted Tin Shard,,,,,,,,Heating,2.5
+Copper Ingot,,,2,10,Melted Copper Shard,,,,,,,,,,Heating,2.5
+Cotton Yarn,,,1,5,Cotton,,,,,,,,,,Heating,2.5
+Daybreak Blue Coral,,,3,3,Blue Coral,1,Resplendent Sapphire,,,,,,,,Heating,1
+Distilled Water,,,1,1,Bottle of River Water,,,,,,,,,,Heating,2.5
+Flax Thread,,,1,5,Flax,,,,,,,,,,Heating,2.5
+Glue,,,1,1,Lobster,,,,,,,,,,Heating,2.5
+Gold Ingot,,,2,10,Melted Gold Shard,,,,,,,,,,Heating,2.5
+Golden Coral,,,2,10,Coral Piece,1,Topaz,,,,,,,,Heating,1.5
+Golden Sun Coral,,,3,3,Golden Coral,1,Resplendent Topaz,,,,,,,,Heating,1
+Green Coral,,,2,10,Coral Piece,1,Emerald,,,,,,,,Heating,1.5
+Green Crystal,,,1,5,Rough Green Crystal,,,,,,,,,,Heating,2.5
+Hard Pillar,,,4,10,Log,10,Plywood Hardener,,,,,,,,Heating,1
+Healing STone,,,1,5,Rough Healing Stone,,,,,,,,,,Heating,2.5
+Iron Ingot,,,2,10,Melted Iron Shard,,,,,,,,,,Heating,2.5
+Jade Coral Ingot,,,4,25,Melted Titanium Shard,5,Prairie Green Coral,,,,,,,,Heating,5.5
+Knitting Yarn,,,1,5,Fleece,,,,,,,,,,Heating,2.5
+Lead Ingot,,,2,10,Melted Lead Shard,,,,,,,,,,Heating,2.5
+Lump of Raw Sugar,,,1,10,Raw Sugar,1,Mineral Water,,,,,,,,Heating,2.5
+Magical Shard,,,1,1,Any Black Magic Crystal,,,,,,,,,,Heating,1.1
+Margoria Dark Iron,,,4,1,[Guild] Hekarus Spike,2,Pure Iron Crystal,,,,,,,,Heating,2
+Melted Copper Shard,,,1,5,Copper Ore,,,,,,,,,,Heating,2.5
+Melted Gold Shard,,,1,5,Gold Ore,,,,,,,,,,Heating,2.5
+Melted Iron Shard,,,1,5,Iron Ore,,,,,,,,,,Heating,2.5
+Melted Lead Shard,,,1,5,Lead Ore,,,,,,,,,,Heating,2.5
+Melted Mythril Shard,,,1,5,Mythril Ore,,,,,,,,,,Heating,2.5
+Melted Noc Shard,,,1,5,Noc Ore,,,,,,,,,,Heating,2.5
+Melted Platinum Shard,,,1,5,Platinum Ore,,,,,,,,,,Heating,2.5
+Melted Silver Shard,,,1,5,Silver Ore,,,,,,,,,,Heating,2.5
+Melted Tin Shard,,,1,5,Tin Ore,,,,,,,,,,Heating,2.5
+Melted Titanium Shard,,,1,5,Titanium Ore,,,,,,,,,,Heating,2.5
+Melted Vanadium Shard,,,1,5,Vanadium Ore,,,,,,,,,,Heating,2.5
+Melted Zinc Shard,,,1,5,Zinc Ore,,,,,,,,,,Heating,2.5
+Moonlight Opal,,,4,1,Metal Solvent,3,Brilliant Opal,,,,,,,,Heating,2
+Mud Crystal,,,1,10,Rough Mud Crystal,,,,,,,,,,Heating,2.5
+Mythril Ingot,,,2,10,Melted Mythril Shard,,,,,,,,,,Heating,2.5
+Noc Ingot,,,2,10,Melted Noc Shard,,,,,,,,,,Heating,2.5
+Pine Coated Plywood,,,3,5,Pine Plywood,50,Coconut,,,,,,,,Heating,5.5
+Platinum Ingot,,,2,10,Melted Platinum Shard,,,,,,,,,,Heating,2.5
+Polished Opal,,,1,5,Rough Opal,,,,,,,,,,Heating,2.5
+Prairie Green Coral,,,3,3,Green Coral,1,Resplendent Emerald,,,,,,,,Heating,1
+Processed Coal,,,1,5,Coal,,,,,,,,,,Heating,2.5
+Pure Copper Crystal,,,4,2,Metal Solvent,3,Copper Ingot,,,,,,,,Heating,2
+Pure Gold Crystal,,,4,1,Metal Solvent,3,Gold Ingot,,,,,,,,Heating,2
+Pure Iron Crystal,,,4,2,Metal Solvent,3,Iron Ingot,,,,,,,,Heating,2
+Pure Lead Crystal,,,4,2,Metal Solvent,3,Lead Ingot,,,,,,,,Heating,2
+Pure Mythril Crystal,,,4,1,Metal Solvent,3,Mythril Ingot,,,,,,,,Heating,2
+Pure Noc Crystal,,,4,2,Metal Solvent,3,Noc Ingot,,,,,,,,Heating,2
+Pure Platinum Crystal,,,4,1,Metal Solvent,3,Platinum Ingot,,,,,,,,Heating,2
+Pure Silver Crystal,,,4,1,Metal Solvent,3,Silver Ingot,,,,,,,,Heating,2
+Pure Tin Crystal,,,4,2,Metal Solvent,3,Tin Ingot,,,,,,,,Heating,2
+Pure Titanium Crystal,,,4,2,Metal Solvent,3,Titanium Ingot,,,,,,,,Heating,2
+Pure Vanadium Crystal,,,4,2,Metal Solvent,3,Vanadium Ingot,,,,,,,,Heating,2
+Pure Zinc Crystal,,,4,2,Metal Solvent,3,Zinc Ingot,,,,,,,,Heating,2
+Red Coral,,,2,10,Coral Piece,1,Ruby,,,,,,,,Heating,1.5
+Red Crystal,,,1,5,Rough Red Crystal,,,,,,,,,,Heating,2.5
+Silk Thread,,,1,5,Silkworm Cocoon,,,,,,,,,,Heating,2.5
+Silver Ingot,,,2,10,Melted Silver Shard,,,,,,,,,,Heating,2.5
+Steel,,,2,5,Melted Iron Shard,5,Coal,,,,,,,,Heating,2.5
+Sticky Blood,,,1,15,Cheetah Dragon Blood,5,White Cedar Sap,,,,,,,,Heating,1
+Sturdy Acacia Plywood,,,4,10,Acacia Plywood,3,Plywood Hardener,,,,,,,,Heating,2
+Sturdy Ash Plywood,,,4,10,Ash Plywood,3,Plywood Hardener,,,,,,,,Heating,2
+Sturdy Birch Plywood,,,4,10,Birch Plywood,3,Plywood Hardener,,,,,,,,Heating,2
+Sturdy Cedar Plywood,,,4,10,Cedar Plywood,3,Plywood Hardener,,,,,,,,Heating,2
+Sturdy Elder Tree Plywood,,,4,10,Elder Tree Plywood,3,Plywood Hardener,,,,,,,,Heating,1.5
+Sturdy Fir Plywood,,,4,10,Fir Plywood,3,Plywood Hardener,,,,,,,,Heating,2
+Sturdy Loopy Tree Plywood,,,4,10,Loopy Tree Plywood,3,Plywood Hardener,,,,,,,,Heating,2
+Sturdy Maple Plywood,,,4,10,Maple Plywood,3,Plywood Hardener,,,,,,,,Heating,2
+Sturdy Moss Tree Plywood,,,4,10,Moss Tree Plywood,3,Plywood Hardener,,,,,,,,Heating,2
+Sturdy Palm Plywood,,,4,10,Palm Plywood,3,Plywood Hardener,,,,,,,,Heating,2
+Sturdy Pine Plywood,,,4,10,Pine Plywood,3,Plywood Hardener,,,,,,,,Heating,2
+Sturdy Timber Square,,,4,10,Standardized Timber Square,3,Plywood Hardener,,,,,,,,Heating,2
+Sturdy White Cedar Plywood,,,4,10,White Cedar Plywood,3,Plywood Hardener,,,,,,,,Heating,2
+Tin Ingot,,,2,10,Melted Tin Shard,,,,,,,,,,Heating,2.5
+Titanium Ingot,,,2,10,Melted Titanium Shard,,,,,,,,,,Heating,2.5
+Translucent Crystal,,,1,5,Rough Translucent Crystal,,,,,,,,,,Heating,2.5
+Twilight Red Coral,,,3,3,Red Coral,1,Resplenent Ruby,,,,,,,,Heating,1
+Ultimate Armor Reform STone,,,2,10,Grade 3 Armor Reform Stone,1,Hard Black Crystal Shard,,,,,,,,Heating,1
+Ultimate Weapon Reform Stone,,,2,10,Grade 3 Weapon Reform Stone,1,Sharp Black Crystal Shard,,,,,,,,Heating,1
+Vanadium Ingot,,,2,10,Melted Vanadium Shard,,,,,,,,,,Heating,2.5
+Violet Crystal,,,1,5,Rough Violet Crystal,,,,,,,,,,Heating,2.5
+White Coral,,,2,10,Coral Piece,1,Diamond,,,,,,,,Heating,1.5
+Zinc Ingot,,,2,10,Melted Zinc Shard,,,,,,,,,,Heating,2.5
+Apprentice Alchemy Box,,Apprentice 1,3,20,Clear Liquid Reagent,20,Pure Powder Reagent,,,,,,,,Imperial Alchemy,1.1
+Apprentices Elixir of Wings Alchemy Box,,Apprentice 1,3,10,Elixir of Wings,,,,,,,,,,Imperial Alchemy,1.1
+Artisans Elixir of Carnage Alchemy Box,,Artisan 1,6,25,Elixir of Carnage,,,,,,,,,,Imperial Alchemy,1.1
+Artisans Elixir of Sky Alchemy Box,,Artisan 1,6,15,Elixir of Sky,,,,,,,,,,Imperial Alchemy,1.1
+Artisans Grim Reapers Elixir Alchemy Box,,Artisan 1,6,15,Grim Reapers Elixir,,,,,,,,,,Imperial Alchemy,1.1
+Masters Elixir of Death Alchemy Box,,Master 1,6,35,Elixir of Death,,,,,,,,,,Imperial Alchemy,1.1
+Masters Elixir of Detection Alchemy Box,,Master 1,6,20,Elixir of Detection,,,,,,,,,,Imperial Alchemy,1.1
+Masters Elixir of Frenzy Alchemy Box,,Master 1,6,30,Elixir of Frenzy,,,,,,,,,,Imperial Alchemy,1.1
+Masters Golden Hand Elixir alchemy Box,,Master 1,6,50,Golden Hand Elixir,,,,,,,,,,Imperial Alchemy,1.1
+Masters Elixir of Assassination Alchemy Box,,Master 1,6,25,Elixir of Assassination,,,,,,,,,,Imperial Alchemy,1.1
+Masters Elixir of Penetration Alchemy Box,,Master 1,6,25,Elixir of Penetration,,,,,,,,,,Imperial Alchemy,1.1
+Professionals Elixir of Amity Alchemy Box,,Professional 1,5,20,Elixir of Amity,,,,,,,,,,Imperial Alchemy,1.1
+Professionals Elixir of Demihuman Hunt Alchemy Box,,Professional 1,5,25,Elixir of Demihuman Hunt,,,,,,,,,,Imperial Alchemy,1.1
+Professionals Secret Alchemy Box,,Professional 1,5,10,Elixir of Swiftness,10,Elixir of Wind,,,,,,,,Imperial Alchemy,1.1
+Professionals Sturdy Alchemy Box,,Professional 1,5,10,Workers Elixir,10,Fishers Elixir,,,,,,,,Imperial Alchemy,1.1
+Skilled Alchemists Elixir of Energy Alchemy Box,,Skilled 1,4,20,Elixir of Energy,,,,,,,,,,Imperial Alchemy,1.1
+Skilled Alchemists Elixir of Mentality Alchemy Box,,Skilled 1,4,20,Elixir of Mentality,,,,,,,,,,Imperial Alchemy,1.1
+Skilled Alchemists Elixir of Seal Alchemy Box,,Skilled 1,4,10,Elixir of Seal,,,,,,,,,,Imperial Alchemy,1.1
+[Event] Beer Crate,,Beginner 0,2,50,Beer,1,[Event] Imperial Craft Delivery Invoice,,,,,,,,Imperial Cuisine,1.1
+[Event] Sample Beer Crate,,Beginner 0,2,1,Beer,1,[Event] Imperial Craft Deliver Propasl,,,,,,,,Imperial Cuisine,1.1
+Apprentices Boiled Egg Cooking Box,,Apprentice 1,2,20,Boiled Bird Eggs,,,,,,,,,,Imperial Cuisine,1.1
+Apprentices Fried Fish Cooking Box,,Apprentice 1,3,20,Fried Fish,,,,,,,,,,Imperial Cuisine,1.1
+Apprentices Five-Grain Chicken Porridge Cooking Box,,Apprentice 1,3,20,Five-Grain Chicken Porridge,,,,,,,,,,Imperial Cuisine,1.1
+Artisans Cheese Gratin Cooking Box,,Artisan 1,4,40,Cheese Gratin,,,,,,,,,,Imperial Cuisine,1.1
+Artisans Desert Dumpling Cooking Box,,Artisan 1,4,40,Desert Dumpling,,,,,,,,,,Imperial Cuisine,1.1
+Artisans Honey Wine Cooking Box,,Artisan 1,4,50,Honey Wine,,,,,,,,,,Imperial Cuisine,1.1
+Artisans Honeycomb Cookie Cooking Box,,Artisan 1,4,40,Honeycomb Cookie,,,,,,,,,,Imperial Cuisine,1.1
+Artisans Meat Croquette Cooking Box,,Artisan 1,3,40,Meat Croquette,,,,,,,,,,Imperial Cuisine,1.1
+Masters Dark Pudding Cooking Box,,Master 1,4,60,Dark Pudding,,,,,,,,,,Imperial Cuisine,1.1
+Masters Ham Sandwich Cooking Box,,Master 1,5,40,Ham Sandwich,,,,,,,,,,Imperial Cuisine,1.1
+Masters Seafood Pasta Cooking Box,,Master 1,4,40,Seafood Pasta,,,,,,,,,,Imperial Cuisine,1.1
+Masters Sute Tea Cooking Box,,Master 1,4,60,Sute Tea,,,,,,,,,,Imperial Cuisine,1.1
+Masters Meat Sandwich Cooking Box,,Master 1,5,40,Meat Sandwich,,,,,,,,,,Imperial Cuisine,1.1
+Masters Milk Tea Cooking Box,,Master 1,3,50,Milk Tea,,,,,,,,,,Imperial Cuisine,1.1
+Professionals Fine Scent Cooking Box,,Professional 1,2,30,Tea With Fine Scent,,,,,,,,,,Imperial Cuisine,1.1
+Professionals Meat Pie Cooking Box,,Professional 1,4,30,Meat Pie,,,,,,,,,,Imperial Cuisine,1.1
+Professionals Omelet Cooking Box,,Professional 1,2,40,Omelet,,,,,,,,,,Imperial Cuisine,1.1
+Professionals Steak Cooking Box,,Professional 1,3,20,Steak,,,,,,,,,,Imperial Cuisine,1.1
+Skilled Cooks Fish Fillet Chip Cooking Box,,Skilled 1,3,20,Fish Fillet Chips,,,,,,,,,,Imperial Cuisine,1.1
+Skilled Cooks Fruit Pudding Cooking Box,,Skilled 1,3,20,Fruit Pudding,,,,,,,,,,Imperial Cuisine,1.1
+Skilled Cooks Meat Stew Cooking Box,,Skilled 1,3,20,Meat Stew,,,,,,,,,,Imperial Cuisine,1.1
+Skilled Cooks Soft Bread Cooking Box,,Skilled 1,4,20,Soft Bread,,,,,,,,,,Imperial Cuisine,1.1
+[Combat] Trina Demolition Axe,,Beginner 0,4,5,Steel,1,Cedar Timber,1,Pure Iron Crystal,10,Black Stone Powder,,,,Manufacture,1.1
+[Combat] Trina Lead Bullet,,Beginner 0,3,5,Lead Ingot,10,Powder of Flame,5,Rough STone,1,Fire Horn,,,,Manufacture,1
+[Combat] Trina Matchlock,,Beginner 0,4,5,Steel,1,Fir Timber,1,Pure Iron Crystal,1,Fine Hard Hide,,,,Manufacture,1
+Sealed Old Moon Camping Anvil,,Beginner 0,4,10,Old Moon Anticorrosive,20,Steel,2,Pure Vanadium Crystal,2,Polished Stone,2,Golden Pearl,,Manufacture,1
+Blood Ruby,,,4,7,Resplendent Ruby,3,Gem Polisher,,,,,,,,Shaking,1.5
+Butter,,,2,1,Salt,1,Cream,,,,,,,,Shaking,2
+Byproduct Fertilizer,,,2,3,Inorganic Fertilizer,2,Leavening Agent,,,,,,,Crop Growth Buff: Fertilizer 10,Shaking,2
+Cream,,,1,1,Sugar,1,Milk,,,,,,,,Shaking,2
+Dough,,,2,1,Flour,1,Mineral Water,,,,,,,,Shaking,2
+Forest Emerald,,,4,7,Resplendent Emerald,3,Gem Polisher,,,,,,,,Shaking,1.5
+Freekeh Flour Dough,,,3,1,Freekeh Flour,1,Mineral Water,,,,,,,,Shaking,2.5
+Gold Topaz,,,4,7,Resplendent Topaz,3,Gem Polisher,,,,,,,,Shaking,1.5
+Indigo Lapis Lazuli,,,4,7,Resplendent Lapis Lazuli,3,Gem Polisher,,,,,,,,Shaking,1.5
+Ocean Sapphire,,,4,7,Resplendent Sapphire,3,Gem Polisher,,,,,,,,Shaking,1.5
+Organic Fertilizer,,,3,1,Byproduct Fertilizer,3,Bottle of River Water,,,,,,,,Shaking,2.5
+Star Diamond,,,4,7,Resplendent Diamond,3,Gem Polisher,,,,,,,,Shaking,1.5
+Supreme Fancy Feather,,,4,3,Fine Fancy Feather,5,Leather Glaze,,,,,,,,Shaking,2
+Supreme Fancy Reptile Skin,,,4,3,Fine Fancy Reptile Skin,5,Leather Glaze,,,,,,,,Shaking,2
+Surpreme Hard Hide,,,4,3,Fine Hard Hide,5,Leather Glaze,,,,,,,,Shaking,2
+Supreme Lightweight Plume,,,4,3,Fine Lightweight Plume,5,Leather Glaze,,,,,,,,Shaking,2
+Supreme Soft Hide,,,4,3,Fine Soft Hide,5,Leather Glaze,,,,,,,,Shaking,2
+Supreme Thick Fur,,,4,3,Fine Thick Fur,5,Leather Glaze,,,,,,,,Shaking,2
+Supreme Thin Hide,,,4,3,Fine Thin Hide,5,Leather Glaze,,,,,,,,Shaking,2
+Supreme Tough Hide,,,4,3,Fine Tough Hide,5,Leather Glaze,,,,,,,,Shaking,2
+Teff Flour Dough,,,2,1,Teff Flour,1,Mineral Water,,,,,,,,Shaking,2.5
+Tough Flax Fabric,,,3,1,[Guild] Hekarus Spike,10,Flax Fabric,,,,,,,,Shaking,2
+Concentrated Herbal Juice,,,2,3,Herbal Juice,,,,,,,,,,Simple Alchemy,1
+Herbal Juice,,,1,3,Any plant type,1,Mineral Water,,,,,,,,Simple Alchemy,4
+Highly concentrated Herbal Juice,,,3,3,Concentrated Herbal Juice,,,,,,,,,,Simple Alchemy,1
+Piece of Image,,,1,1,Merindora's Element,100,Trace of Memory,100,Trace of Forest,100,Trace of Death,100,Weed,,Simple Alchemy,100
+Refined Herbal Juice,,,4,3,Highly Concentrated Herbal Juice,,,,,,,,,,Simple Alchemy,1
+Vells Heart,,,1,1,Vells Concentrated Magic,1500,Alchemy Stone Shard,,,,,,,,Simple Alchemy,1
+Concentrated Grain Juice,,,2,3,Grain Juice,,,,,,,,,,Simple Cooking,1
+Energizing Cron Meal,,,6,1,Special Drieghanese Meal,3,Serendia Meal,3,Mediah Meal,1,Ancient Cron Spice,,,,Simple Cooking,1
+Exquisite Cron Meal,,,6,3,Serendia Meal,1,Special Arehaza Meal,3,Kamasylvia Meal,1,Ancient Cron Spice,,,"AP +7, Accuracy +10, Move Speed +2, Critical Hit Level +2, Evasion +10, Max HP +100, All Resistance +4%, Ignore All Resistance +4%",Simple Cooking,1
+Seafood Cron Meal,,,6,3,Balenos Meal,3,Calpheon Meal,1,Margoria Seafood Meal,1,Ancient Cron Spice,,,"Cooking/Alchemy -0.3 sec., Life Skill EXP +8%, Processing Success Rate +5%, Gather Speed Level +2, Move Speed +2, Fishing Speed +2, Weight LImit +50LT",Simple Cooking,1
+Simple Cron Meal,,,6,1,Knight Combat Rations,3,Mediah Meal,3,Valencia Meal,1,Ancient Cron Spice,,,"AP against Monsters +10, Accuracy +10, Combat EXP +8%, Skill EXP +5%, Move Speed +2, Critical Hit Level +2, Max HP +100",Simple Cooking,1
+Grain Juice,,,1,3,Grain,1,Mineral Water,,,,,,,,Simple Cooking,4
+Highly Concentrated Grain Juice,,,3,3,Concentrated Grain Juice,,,,,,,,,,Simple Cooking,1
+Refined Grain Juice,,,4,3,Highly Concentrated Grain Juice,,,,,,,,,,Simple Cooking,1
+Spirit Essence of Earth,,,2,1,Earth Spirit Stone Fragment,1,Purified Water,,,,,,,,Simple Cooking,1
+Spirit Essence of Water,,,2,1,Water Spirit Stone Fragment,1,Purified Water,,,,,,,,Simple Cooking,1
+Spirit Essence of Wind,,,2,1,Wind Spirit Stone Fragment,1,Purified Water,,,,,,,,Simple Cooking,1
+Star Anise Tea,,,2,1,Star Anise,1,Purified Water,,,,,,,,Simple Cooking,2.5

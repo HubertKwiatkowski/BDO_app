@@ -10,6 +10,8 @@ Window index list:
 1 - KutumVsNouverWindow
 2 - CookingWindow
 3 - NodesWindow
+4 - AlchemyWindow
+5 - ProcessingWindow
 """
 
 
@@ -22,6 +24,8 @@ class MainWindow(QMainWindow):
         self.kutVsNouButton.clicked.connect(self.gotoKutVsNou)
         self.cookingButton.clicked.connect(self.gotoCooking)
         self.nodesButton.clicked.connect(self.gotoNodes)
+        self.alchemyButton.clicked.connect(self.gotoAlchemy)
+        self.processingButton.clicked.connect(self.gotoProcessing)
 
     def gotoKutVsNou(self):
         widget.setCurrentIndex(1)
@@ -31,6 +35,12 @@ class MainWindow(QMainWindow):
 
     def gotoNodes(self):
         widget.setCurrentIndex(3)
+
+    def gotoAlchemy(self):
+        widget.setCurrentIndex(4)
+
+    def gotoProcessing(self):
+        widget.setCurrentIndex(5)
 
 
 class KutumVsNouverWindow(QMainWindow):
@@ -141,9 +151,86 @@ Expirience:     {self.allRecipes[self.cookingList.currentRow()][1]}
             )
 
 
-    def _recipeClicked(self):
-        """Show details of the recipe."""
-        self.infoLabel.setText(f"Effect:\n{self.allRecipes[row][0]}")
+    def gotoMain(self):
+        widget.setCurrentIndex(0)
+
+
+class AlchemyWindow(QMainWindow):
+    """A class to manage the cooking window."""
+    def __init__(self):
+        super(AlchemyWindow, self).__init__()
+        loadUi("BDO_app/pyqt5_ui/alchemyWindow.ui", self)
+
+        self.mainButton.clicked.connect(self.gotoMain)
+        self.recipesButton.clicked.connect(self.showRecipes)
+
+
+    def showRecipes(self):
+        """Load all the recipes to the view."""
+        import modules.alchemy as alchemy
+
+        self.allRecipes = alchemy.importAll()
+
+        for row in range(len(self.allRecipes)):
+            self.alchemyList.insertItem(row, self.allRecipes[row][0])
+
+
+        self.alchemyList.currentRowChanged.connect(
+            lambda: self.infoLabel.setText(
+                f"""Effect:
+{self.allRecipes[self.alchemyList.currentRow()][14]}\n
+Ingredients:
+{self.allRecipes[self.alchemyList.currentRow()][4]} {self.allRecipes[self.alchemyList.currentRow()][5]}
+{self.allRecipes[self.alchemyList.currentRow()][6]} {self.allRecipes[self.alchemyList.currentRow()][7]}
+{self.allRecipes[self.alchemyList.currentRow()][8]} {self.allRecipes[self.alchemyList.currentRow()][9]}
+{self.allRecipes[self.alchemyList.currentRow()][10]} {self.allRecipes[self.alchemyList.currentRow()][11]}
+{self.allRecipes[self.alchemyList.currentRow()][12]} {self.allRecipes[self.alchemyList.currentRow()][13]}\n
+Skill level required:   {self.allRecipes[self.alchemyList.currentRow()][2]}\n
+Expirience:     {self.allRecipes[self.alchemyList.currentRow()][1]}
+                """
+                )
+            )
+
+
+    def gotoMain(self):
+        widget.setCurrentIndex(0)
+
+
+class ProcessingWindow(QMainWindow):
+    """A class to manage the cooking window."""
+    def __init__(self):
+        super(ProcessingWindow, self).__init__()
+        loadUi("BDO_app/pyqt5_ui/processingWindow.ui", self)
+
+        self.mainButton.clicked.connect(self.gotoMain)
+        self.recipesButton.clicked.connect(self.showRecipes)
+
+
+    def showRecipes(self):
+        """Load all the recipes to the view."""
+        import modules.processing as proc
+
+        self.allRecipes = proc.importAll()
+
+        for row in range(len(self.allRecipes)):
+            self.processingList.insertItem(row, self.allRecipes[row][0])
+
+
+        self.processingList.currentRowChanged.connect(
+            lambda: self.infoLabel.setText(
+                f"""Effect:
+{self.allRecipes[self.processingList.currentRow()][14]}\n
+Ingredients:
+{self.allRecipes[self.processingList.currentRow()][4]} {self.allRecipes[self.processingList.currentRow()][5]}
+{self.allRecipes[self.processingList.currentRow()][6]} {self.allRecipes[self.processingList.currentRow()][7]}
+{self.allRecipes[self.processingList.currentRow()][8]} {self.allRecipes[self.processingList.currentRow()][9]}
+{self.allRecipes[self.processingList.currentRow()][10]} {self.allRecipes[self.processingList.currentRow()][11]}
+{self.allRecipes[self.processingList.currentRow()][12]} {self.allRecipes[self.processingList.currentRow()][13]}\n
+Skill level required:   {self.allRecipes[self.processingList.currentRow()][2]}\n
+Expirience:     {self.allRecipes[self.processingList.currentRow()][1]}
+                """
+                )
+            )
 
 
     def gotoMain(self):
@@ -301,11 +388,15 @@ def main():
     kutumVsNouverWindow = KutumVsNouverWindow()
     cookingWindow = CookingWindow()
     nodesWindow = NodesWindow()
+    alchemyWindow = AlchemyWindow()
+    processingWindow = ProcessingWindow()
 
     widget.addWidget(mainWindow)            # index 0
     widget.addWidget(kutumVsNouverWindow)   # index 1
     widget.addWidget(cookingWindow)         # index 2
     widget.addWidget(nodesWindow)           # index 3
+    widget.addWidget(alchemyWindow)         # index 4
+    widget.addWidget(processingWindow)      # index 5
 
     widget.setFixedWidth(800)
     widget.setFixedHeight(600)
