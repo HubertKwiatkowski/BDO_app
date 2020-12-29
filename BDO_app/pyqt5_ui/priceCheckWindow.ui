@@ -34,7 +34,7 @@
      <bool>false</bool>
     </property>
     <property name="text">
-     <string>Processing</string>
+     <string>Price Check</string>
     </property>
     <property name="scaledContents">
      <bool>false</bool>
@@ -72,26 +72,13 @@
      </rect>
     </property>
     <layout class="QGridLayout" name="cookingGrid">
-     <item row="0" column="3">
-      <widget class="QPushButton" name="toolsButton">
+     <item row="0" column="0">
+      <widget class="QPushButton" name="recipesButton">
        <property name="enabled">
-        <bool>false</bool>
+        <bool>true</bool>
        </property>
        <property name="text">
-        <string>Processing Tools</string>
-       </property>
-       <property name="flat">
-        <bool>false</bool>
-       </property>
-      </widget>
-     </item>
-     <item row="0" column="2">
-      <widget class="QPushButton" name="masteryButton">
-       <property name="enabled">
-        <bool>false</bool>
-       </property>
-       <property name="text">
-        <string>Processing Mastery</string>
+        <string>Recipes</string>
        </property>
        <property name="flat">
         <bool>false</bool>
@@ -104,7 +91,33 @@
         <bool>false</bool>
        </property>
        <property name="text">
-        <string>Processing XP</string>
+        <string>Alchemy XP</string>
+       </property>
+       <property name="flat">
+        <bool>false</bool>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="2">
+      <widget class="QPushButton" name="masteryButton">
+       <property name="enabled">
+        <bool>false</bool>
+       </property>
+       <property name="text">
+        <string>Alchemy Mastery</string>
+       </property>
+       <property name="flat">
+        <bool>false</bool>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="3">
+      <widget class="QPushButton" name="toolsButton">
+       <property name="enabled">
+        <bool>false</bool>
+       </property>
+       <property name="text">
+        <string>Alchemy Tools</string>
        </property>
        <property name="flat">
         <bool>false</bool>
@@ -124,88 +137,9 @@
        </property>
       </widget>
      </item>
-     <item row="0" column="0">
-      <widget class="QComboBox" name="recipesComboBox">
-       <item>
-        <property name="text">
-         <string>Recipes</string>
-        </property>
-       </item>
-       <item>
-        <property name="text">
-         <string>All</string>
-        </property>
-       </item>
-       <item>
-        <property name="text">
-         <string>Shaking</string>
-        </property>
-       </item>
-       <item>
-        <property name="text">
-         <string>Grinding</string>
-        </property>
-       </item>
-       <item>
-        <property name="text">
-         <string>Chopping</string>
-        </property>
-       </item>
-       <item>
-        <property name="text">
-         <string>Drying</string>
-        </property>
-       </item>
-       <item>
-        <property name="text">
-         <string>Filtering</string>
-        </property>
-       </item>
-       <item>
-        <property name="text">
-         <string>Heating</string>
-        </property>
-       </item>
-       <item>
-        <property name="text">
-         <string>Repair</string>
-        </property>
-       </item>
-       <item>
-        <property name="text">
-         <string>Simple Alchemy</string>
-        </property>
-       </item>
-       <item>
-        <property name="text">
-         <string>Simple Cooking</string>
-        </property>
-       </item>
-       <item>
-        <property name="text">
-         <string>Imperial Cuisine</string>
-        </property>
-       </item>
-       <item>
-        <property name="text">
-         <string>Imperial Alchemy</string>
-        </property>
-       </item>
-       <item>
-        <property name="text">
-         <string>Guild Processing</string>
-        </property>
-       </item>
-       <item>
-        <property name="text">
-         <string>Manufacture</string>
-        </property>
-       </item>
-      </widget>
-     </item>
     </layout>
    </widget>
-   <widget class="QListWidget" name="processingList">
+   <widget class="QListWidget" name="itemsList">
     <property name="geometry">
      <rect>
       <x>10</x>
@@ -213,25 +147,6 @@
       <width>310</width>
       <height>350</height>
      </rect>
-    </property>
-   </widget>
-   <widget class="QPushButton" name="calculateButton">
-    <property name="enabled">
-     <bool>false</bool>
-    </property>
-    <property name="geometry">
-     <rect>
-      <x>470</x>
-      <y>510</y>
-      <width>150</width>
-      <height>25</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>Calculate</string>
-    </property>
-    <property name="flat">
-     <bool>false</bool>
     </property>
    </widget>
    <widget class="QLabel" name="infoLabel">

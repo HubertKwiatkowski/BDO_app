@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import sys
 from PyQt5 import QtCore, QtWidgets
 from PyQt5.QtWidgets import QMainWindow, QDialog, QApplication, QTableWidget, QTableWidgetItem
@@ -12,6 +14,7 @@ Window index list:
 3 - NodesWindow
 4 - AlchemyWindow
 5 - ProcessingWindow
+6 - PriceCheckWindow
 """
 
 
@@ -26,6 +29,7 @@ class MainWindow(QMainWindow):
         self.nodesButton.clicked.connect(self.gotoNodes)
         self.alchemyButton.clicked.connect(self.gotoAlchemy)
         self.processingButton.clicked.connect(self.gotoProcessing)
+        self.priceCheckButton.clicked.connect(self.gotoPriceCheck)
 
     def gotoKutVsNou(self):
         widget.setCurrentIndex(1)
@@ -42,6 +46,8 @@ class MainWindow(QMainWindow):
     def gotoProcessing(self):
         widget.setCurrentIndex(5)
 
+    def gotoPriceCheck(self):
+        widget.setCurrentIndex(6)
 
 class KutumVsNouverWindow(QMainWindow):
     """Window for the Kutum vs Nouver comparison."""
@@ -203,7 +209,7 @@ class ProcessingWindow(QMainWindow):
         loadUi("BDO_app/pyqt5_ui/processingWindow.ui", self)
 
         self.mainButton.clicked.connect(self.gotoMain)
-        self.recipesButton.clicked.connect(self.showRecipes)
+        # self.recipesButton.clicked.connect(self.showRecipes)
 
 
     def showRecipes(self):
@@ -379,6 +385,44 @@ class NodesWindow(QMainWindow):
         widget.setCurrentIndex(0)
 
 
+class PriceCheckWindow(QMainWindow):
+    """A class to manage the price check window."""
+    def __init__(self):
+        super(PriceCheckWindow, self).__init__()
+        loadUi("BDO_app/pyqt5_ui/priceCheckWindow.ui", self)
+
+        import modules.priceCheck as pc
+
+        self.allItems = pc.importAll()
+
+        for row in range(len(self.allItems)):
+            self.itemsList.insertItem(row, self.allItems[row][13])
+
+
+        self.itemsList.currentRowChanged.connect(
+            lambda: self.infoLabel.setText(self._checkItem())
+            )
+
+        self.mainButton.clicked.connect(self.gotoMain)
+
+
+    def _checkItem(self):
+        import modules.priceCheck as pc
+
+        region = ['eu', 'na']
+
+        a = region[0]                                       # region
+        b = self.allItems[self.itemsList.currentRow()][5]   # mainKey
+        c = self.allItems[self.itemsList.currentRow()][9]   # subKey
+        d = pc.priceCheck(a, b, c)
+
+        checkItem = ("Price: " + d[7])
+
+        return checkItem
+
+    def gotoMain(self):
+        widget.setCurrentIndex(0)
+
 def main():
     global app, widget
     app = QApplication(sys.argv)
@@ -390,6 +434,7 @@ def main():
     nodesWindow = NodesWindow()
     alchemyWindow = AlchemyWindow()
     processingWindow = ProcessingWindow()
+    priceCheckWindow = PriceCheckWindow()
 
     widget.addWidget(mainWindow)            # index 0
     widget.addWidget(kutumVsNouverWindow)   # index 1
@@ -397,6 +442,7 @@ def main():
     widget.addWidget(nodesWindow)           # index 3
     widget.addWidget(alchemyWindow)         # index 4
     widget.addWidget(processingWindow)      # index 5
+    widget.addWidget(priceCheckWindow)      # index 6
 
     widget.setFixedWidth(800)
     widget.setFixedHeight(600)
