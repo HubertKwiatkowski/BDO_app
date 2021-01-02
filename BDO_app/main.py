@@ -1,8 +1,8 @@
-#!/usr/bin/env python
-
 import sys
-from PyQt5 import QtCore, QtWidgets
-from PyQt5.QtWidgets import QMainWindow, QDialog, QApplication, QTableWidget, QTableWidgetItem
+
+
+from PyQt5 import QtWidgets, QtCore
+from PyQt5.QtWidgets import QMainWindow, QApplication, QTableWidgetItem
 from PyQt5.uic import loadUi
 
 
@@ -15,6 +15,7 @@ Window index list:
 4 - AlchemyWindow
 5 - ProcessingWindow
 6 - PriceCheckWindow
+7 - CookingCostWindow
 """
 
 
@@ -48,6 +49,7 @@ class MainWindow(QMainWindow):
 
     def gotoPriceCheck(self):
         widget.setCurrentIndex(6)
+
 
 class KutumVsNouverWindow(QMainWindow):
     """Window for the Kutum vs Nouver comparison."""
@@ -126,23 +128,32 @@ class CookingWindow(QMainWindow):
         super(CookingWindow, self).__init__()
         loadUi("BDO_app/pyqt5_ui/cookingWindow.ui", self)
 
-        self.mainButton.clicked.connect(self.gotoMain)
-        self.recipesButton.clicked.connect(self.showRecipes)
+        import modules.cooking as cooking
+        import modules.priceCheck as pc
 
+        self.pc = pc
+        self.allRecipes = cooking.importAll()
+        self.allItems = pc.importAll()
+
+        self.showRecipes()
+
+        self.mainButton.clicked.connect(self.gotoMain)
 
     def showRecipes(self):
-        """Load all the recipes to the view."""
-        import modules.cooking as cooking
-
-        self.allRecipes = cooking.importAll()
-
+        """Show all the recipes."""
         for row in range(len(self.allRecipes)):
             self.cookingList.insertItem(row, self.allRecipes[row][0])
 
-
         self.cookingList.currentRowChanged.connect(
-            lambda: self.infoLabel.setText(
-                f"""Effect:
+            lambda: self.infoLabel.setText(self._changeLabel())
+            )
+
+    def _changeLabel(self):
+        """Display info about the meal."""
+        totalPrice = int((self._calculateMeal()) / 2.5)
+
+
+        labelText = f"""Effect:
 {self.allRecipes[self.cookingList.currentRow()][14]}\n
 Ingredients:
 {self.allRecipes[self.cookingList.currentRow()][4]} {self.allRecipes[self.cookingList.currentRow()][5]}
@@ -151,14 +162,118 @@ Ingredients:
 {self.allRecipes[self.cookingList.currentRow()][10]} {self.allRecipes[self.cookingList.currentRow()][11]}
 {self.allRecipes[self.cookingList.currentRow()][12]} {self.allRecipes[self.cookingList.currentRow()][13]}\n
 Skill level required:   {self.allRecipes[self.cookingList.currentRow()][2]}\n
-Expirience:     {self.allRecipes[self.cookingList.currentRow()][1]}
-                """
-                )
-            )
+Expirience:     {self.allRecipes[self.cookingList.currentRow()][1]}\n
+Ingredients market price:   {totalPrice}
+Meal market price:"""
 
+        return labelText
+
+    def _checkName(self, itemName):
+        """Check if the name is generic or detail (eg. Red Meat or Lamb Meat)"""
+        return itemName
+
+    def _calculateMeal(self):
+        """Calculate gain/loss on 1 meal."""
+        checkItems = []
+        itemsPrice = []
+        itemsQty = []
+        totalPrice = 0
+        mpItems = self.allItems
+
+        mealName = self.allRecipes[self.cookingList.currentRow()][0]
+        if mealName != '':
+            for mpItem in range(len(mpItems)):
+                if mealName == mpItems[mpItem][6]:
+                    a = 'eu'                    # region
+                    b = mpItems[mpItem][5]      # mainKey
+                    c = mpItems[mpItem][9]      # subKey
+                    mealPrice = self._priceCheck(a, b, c)
+
+        ing1Qty = self.allRecipes[self.cookingList.currentRow()][4]
+        ing1Name = self.allRecipes[self.cookingList.currentRow()][5]
+        if ing1Name != '':
+            item1 = self._checkName(ing1Name)
+            checkItems.append(item1)
+
+        ing2Qty = self.allRecipes[self.cookingList.currentRow()][6]
+        mat2Name = self.allRecipes[self.cookingList.currentRow()][7]
+        if mat2Name != '':
+            item2 = self._checkName(mat2Name)
+            checkItems.append(item2)
+
+        ing4Qty = self.allRecipes[self.cookingList.currentRow()][8]
+        mat3Name = self.allRecipes[self.cookingList.currentRow()][9]
+        if mat3Name != '':
+            item3 = self._checkName(mat3Name)
+            checkItems.append(item3)
+
+        ing3Qty = self.allRecipes[self.cookingList.currentRow()][10]
+        mat4Name = self.allRecipes[self.cookingList.currentRow()][11]
+        if mat4Name != '':
+            item4 = self._checkName(mat4Name)
+            checkItems.append(item4)
+
+        ing4Qty = self.allRecipes[self.cookingList.currentRow()][12]
+        mat5Name = self.allRecipes[self.cookingList.currentRow()][13]
+        if mat5Name != '':
+            item5 = self._checkName(mat5Name)
+            checkItems.append(item5)
+
+        for item in checkItems:
+            for mpItem in range(len(mpItems)):
+                if item == mpItems[mpItem][6]:
+                    a = 'eu'                    # region
+                    b = mpItems[mpItem][5]      # mainKey
+                    c = mpItems[mpItem][9]      # subKey
+                    price = self._priceCheck(a, b, c)
+                    totalPrice += int(price)
+
+        return totalPrice
+
+    def _priceCheck(self, a, b, c):
+
+        priceCheck = self.pc.priceCheck(a, b, c)
+
+        return priceCheck[7]
 
     def gotoMain(self):
         widget.setCurrentIndex(0)
+
+
+class CookingCostWindow(QMainWindow):
+    """A class to manage cost of the meals calculation."""
+    def __init__(self):
+        super(CookingCostWindow, self).__init__()
+        loadUi("BDO_app/pyqt5_ui/cookingCostWindow.ui", self)
+
+        self.mainButton.clicked.connect(self.gotoMain)
+        self.backButton.clicked.connect(self.gotoCooking)
+        self.calculateButton.clicked.connect(self.calculate)
+
+    def calculate(self):
+        """Calculate loss/gain on the meal."""
+        _translate = QtCore.QCoreApplication.translate
+        cooking = CookingWindow()
+
+        mealName = cooking.allRecipes[cooking.cookingList.currentRow()][0]
+        ing1Qty = cooking.allRecipes[cooking.cookingList.currentRow()][4]
+        ing1Name = cooking.allRecipes[cooking.cookingList.currentRow()][5]
+        ing2Qty = cooking.allRecipes[cooking.cookingList.currentRow()][6]
+        mat2Name = cooking.allRecipes[cooking.cookingList.currentRow()][7]
+        ing3Qty = cooking.allRecipes[cooking.cookingList.currentRow()][8]
+        mat3Name = cooking.allRecipes[cooking.cookingList.currentRow()][9]
+        ing4Qty = cooking.allRecipes[cooking.cookingList.currentRow()][10]
+        mat4Name = cooking.allRecipes[cooking.cookingList.currentRow()][11]
+        ing5Qty = cooking.allRecipes[cooking.cookingList.currentRow()][12]
+        mat5Name = cooking.allRecipes[cooking.cookingList.currentRow()][13]
+
+        self.treeWidget.topLevelItem(0).setText(0, _translate("MainWindow", mealName))
+
+    def gotoMain(self):
+        widget.setCurrentIndex(0)
+
+    def gotoCooking(self):
+        widget.setCurrentIndex(2)
 
 
 class AlchemyWindow(QMainWindow):
@@ -170,7 +285,6 @@ class AlchemyWindow(QMainWindow):
         self.mainButton.clicked.connect(self.gotoMain)
         self.recipesButton.clicked.connect(self.showRecipes)
 
-
     def showRecipes(self):
         """Load all the recipes to the view."""
         import modules.alchemy as alchemy
@@ -179,7 +293,6 @@ class AlchemyWindow(QMainWindow):
 
         for row in range(len(self.allRecipes)):
             self.alchemyList.insertItem(row, self.allRecipes[row][0])
-
 
         self.alchemyList.currentRowChanged.connect(
             lambda: self.infoLabel.setText(
@@ -197,7 +310,6 @@ Expirience:     {self.allRecipes[self.alchemyList.currentRow()][1]}
                 )
             )
 
-
     def gotoMain(self):
         widget.setCurrentIndex(0)
 
@@ -209,8 +321,6 @@ class ProcessingWindow(QMainWindow):
         loadUi("BDO_app/pyqt5_ui/processingWindow.ui", self)
 
         self.mainButton.clicked.connect(self.gotoMain)
-        # self.recipesButton.clicked.connect(self.showRecipes)
-
 
     def showRecipes(self):
         """Load all the recipes to the view."""
@@ -220,7 +330,6 @@ class ProcessingWindow(QMainWindow):
 
         for row in range(len(self.allRecipes)):
             self.processingList.insertItem(row, self.allRecipes[row][0])
-
 
         self.processingList.currentRowChanged.connect(
             lambda: self.infoLabel.setText(
@@ -289,7 +398,6 @@ class NodesWindow(QMainWindow):
                 item = QTableWidgetItem(self.allCityNodes[row][col])
                 self.tableWidget.setItem(row, col, item)
 
-
     def showAll(self):
         """Show all the city nodes."""
         all = self.allCityNodes
@@ -297,7 +405,6 @@ class NodesWindow(QMainWindow):
             self.tableWidget.setRowHidden(row, False)
 
         self.tableWidget.setColumnWidth(2, 190)
-
 
     def showBalenos(self):
         """Show Balenos only city nodes."""
@@ -310,7 +417,6 @@ class NodesWindow(QMainWindow):
 
         self.tableWidget.setColumnWidth(2, 195)
 
-
     def showCalpheon(self):
         """Show Calpheon only city nodes."""
         calpheon = self.allCityNodes
@@ -319,7 +425,6 @@ class NodesWindow(QMainWindow):
                 self.tableWidget.setRowHidden(row, True)
             else:
                 self.tableWidget.setRowHidden(row, False)
-
 
     def showDrieghan(self):
         """Show Drieghan only city nodes."""
@@ -330,7 +435,6 @@ class NodesWindow(QMainWindow):
             else:
                 self.tableWidget.setRowHidden(row, False)
 
-
     def showKamasylvia(self):
         """Show Kamasylvia only city nodes."""
         kamasylvia = self.allCityNodes
@@ -339,7 +443,6 @@ class NodesWindow(QMainWindow):
                 self.tableWidget.setRowHidden(row, True)
             else:
                 self.tableWidget.setRowHidden(row, False)
-
 
     def showMediah(self):
         """Show Mediah only city nodes."""
@@ -350,7 +453,6 @@ class NodesWindow(QMainWindow):
             else:
                 self.tableWidget.setRowHidden(row, False)
 
-
     def showOdyllita(self):
         """Show Odyllita only city nodes."""
         odyllita = self.allCityNodes
@@ -359,7 +461,6 @@ class NodesWindow(QMainWindow):
                 self.tableWidget.setRowHidden(row, True)
             else:
                 self.tableWidget.setRowHidden(row, False)
-
 
     def showSerendia(self):
         """Show Serendia only city nodes."""
@@ -370,7 +471,6 @@ class NodesWindow(QMainWindow):
             else:
                 self.tableWidget.setRowHidden(row, False)
 
-
     def showValencia(self):
         """Show Valencia only city nodes."""
         valencia = self.allCityNodes
@@ -379,7 +479,6 @@ class NodesWindow(QMainWindow):
                 self.tableWidget.setRowHidden(row, True)
             else:
                 self.tableWidget.setRowHidden(row, False)
-
 
     def gotoMain(self):
         widget.setCurrentIndex(0)
@@ -397,7 +496,6 @@ class PriceCheckWindow(QMainWindow):
 
         for row in range(len(self.allItems)):
             self.itemsList.insertItem(row, self.allItems[row][13])
-
 
         self.itemsList.currentRowChanged.connect(
             lambda: self.infoLabel.setText(self._checkItem())
@@ -435,6 +533,7 @@ def main():
     alchemyWindow = AlchemyWindow()
     processingWindow = ProcessingWindow()
     priceCheckWindow = PriceCheckWindow()
+    cookingCostWindow = CookingCostWindow()
 
     widget.addWidget(mainWindow)            # index 0
     widget.addWidget(kutumVsNouverWindow)   # index 1
@@ -443,6 +542,7 @@ def main():
     widget.addWidget(alchemyWindow)         # index 4
     widget.addWidget(processingWindow)      # index 5
     widget.addWidget(priceCheckWindow)      # index 6
+    widget.addWidget(cookingCostWindow)     # index 7
 
     widget.setFixedWidth(800)
     widget.setFixedHeight(600)

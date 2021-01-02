@@ -1,4 +1,4 @@
-Main Product Result,XP,Skill Level Required,Craft Step,Ingredient 1 Qty ,Material,Ingredient 2 Qty ,Material,Ingredient 3 Qty ,Material,Ingredient 4 Qty,Material,Ingredient 5 Qty,Material,Usage
+mealName,Xp,skillLevelRequired,craftStep,ing1Qty ,ing1Name,ing2Qty ,ing2Name,ing3Qty ,ing3Name,ing4Qty ,ing4Name,ing5Qty ,ing5Name,usage
 Aloe Cookie,,Beginner 6,3,5,Aloe,7,Dough,3,Honey,4,Sugar,,,All Accuracy +4
 Aloe Yogurt,,Beginner 6,1,5,Aloe,2,Milk,3,Sugar,3,Leavening Agent,,,Fishing Speed +1
 Special Arehaza Meal,,Artisan 1,5,2,Coconut Cocktail,1,Coconut Pasta,1,Coconut Fried Fish,1,Meat Stew,1,Steak,"Heatstroke, Hypothermia Resistance +10%, Auto-Fishing time -5%, Movement Speed +2, Critical Hit +1"

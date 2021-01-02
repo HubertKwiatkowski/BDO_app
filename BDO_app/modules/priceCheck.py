@@ -37,7 +37,7 @@ def priceCheck(a, b, c):
     checkedItem = []
 
     url = 'http://omegapepega.com/' + a + '/' + b + '/' + c
-    # url = http://omegapepega.com/region/mainKey/enchantment
+    # url = http://omegapepega.com/region/mainKey/subKey
     page = requests.get(url)
 
     soup = BeautifulSoup(page.content, 'html.parser')
