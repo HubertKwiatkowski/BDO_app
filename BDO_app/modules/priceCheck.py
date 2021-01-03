@@ -1,4 +1,4 @@
-import csv, requests, pprint
+import csv, requests
 from bs4 import BeautifulSoup
 
 
@@ -52,7 +52,6 @@ def priceCheck(a, b, c):
     mpItem.pop(0)
     mpItem.pop(-1)
 
-
     for i in mpItem:
         try:
             s = i.index(':')
@@ -63,6 +62,5 @@ def priceCheck(a, b, c):
             checkedItem.append(v.strip())
         except:
             continue
-
 
     return checkedItem

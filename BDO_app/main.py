@@ -15,7 +15,6 @@ Window index list:
 4 - AlchemyWindow
 5 - ProcessingWindow
 6 - PriceCheckWindow
-7 - CookingCostWindow
 """
 
 
@@ -150,8 +149,11 @@ class CookingWindow(QMainWindow):
 
     def _changeLabel(self):
         """Display info about the meal."""
-        totalPrice = int((self._calculateMeal()) / 2.5)
-
+        prices = []
+        prices = self._calculateMeal()
+        mealPrice = int(prices[0])
+        totalPrice = int((prices[1]) / 2.5)
+        tax = 0.85
 
         labelText = f"""Effect:
 {self.allRecipes[self.cookingList.currentRow()][14]}\n
@@ -164,22 +166,47 @@ Ingredients:
 Skill level required:   {self.allRecipes[self.cookingList.currentRow()][2]}\n
 Expirience:     {self.allRecipes[self.cookingList.currentRow()][1]}\n
 Ingredients market price:   {totalPrice}
-Meal market price:"""
+Meal market price:  {mealPrice} (taxed {int(mealPrice * tax)})
+Gain/loss (if sold to MP):  {int(mealPrice * tax - totalPrice)}"""
 
         return labelText
 
     def _checkName(self, itemName):
         """Check if the name is generic or detail (eg. Red Meat or Lamb Meat)"""
+        if itemName == 'Red Meat':
+            itemName = 'Wolf Meat'
+        if itemName == 'Flour':
+            itemName = 'Barley Flour'
+        if itemName == 'Grain':
+            itemName = 'Barley'
+        if itemName == 'Dough':
+            itemName = 'Barley Dough'
         return itemName
 
     def _calculateMeal(self):
         """Calculate gain/loss on 1 meal."""
-        checkItems = []
+        checkIng = []
+        ingQty = []
         itemsPrice = []
         itemsQty = []
+        mealPrice = 0
         totalPrice = 0
         mpItems = self.allItems
+        # Non-market ingredients
+        npcPrices = {
+            'Salt': 20,
+            'Sugar': 20,
+            'Leavening Agent': 20,
+            'Cooking Oil': 20,
+            'Deep Frying Oil': 40,
+            'Cooking Wine': 40,
+            'Base Sauce': 40,
+            'Mineral Water': 30,
+            'Vegetable': 850,
+            'Fruit': 650
+            }
 
+        # Check price of the main meal
         mealName = self.allRecipes[self.cookingList.currentRow()][0]
         if mealName != '':
             for mpItem in range(len(mpItems)):
@@ -189,91 +216,72 @@ Meal market price:"""
                     c = mpItems[mpItem][9]      # subKey
                     mealPrice = self._priceCheck(a, b, c)
 
+        # Make a list of ingredients
         ing1Qty = self.allRecipes[self.cookingList.currentRow()][4]
         ing1Name = self.allRecipes[self.cookingList.currentRow()][5]
         if ing1Name != '':
             item1 = self._checkName(ing1Name)
-            checkItems.append(item1)
+            checkIng.append(item1)
+            ingQty.append(ing1Qty)
 
         ing2Qty = self.allRecipes[self.cookingList.currentRow()][6]
         mat2Name = self.allRecipes[self.cookingList.currentRow()][7]
         if mat2Name != '':
             item2 = self._checkName(mat2Name)
-            checkItems.append(item2)
+            checkIng.append(item2)
+            ingQty.append(ing2Qty)
 
-        ing4Qty = self.allRecipes[self.cookingList.currentRow()][8]
+        ing3Qty = self.allRecipes[self.cookingList.currentRow()][8]
         mat3Name = self.allRecipes[self.cookingList.currentRow()][9]
         if mat3Name != '':
             item3 = self._checkName(mat3Name)
-            checkItems.append(item3)
+            checkIng.append(item3)
+            ingQty.append(ing3Qty)
 
-        ing3Qty = self.allRecipes[self.cookingList.currentRow()][10]
+        ing4Qty = self.allRecipes[self.cookingList.currentRow()][10]
         mat4Name = self.allRecipes[self.cookingList.currentRow()][11]
         if mat4Name != '':
             item4 = self._checkName(mat4Name)
-            checkItems.append(item4)
+            checkIng.append(item4)
+            ingQty.append(ing4Qty)
 
-        ing4Qty = self.allRecipes[self.cookingList.currentRow()][12]
+        ing5Qty = self.allRecipes[self.cookingList.currentRow()][12]
         mat5Name = self.allRecipes[self.cookingList.currentRow()][13]
         if mat5Name != '':
             item5 = self._checkName(mat5Name)
-            checkItems.append(item5)
+            checkIng.append(item5)
+            ingQty.append(ing5Qty)
 
-        for item in checkItems:
+        # Check prices for all the ingredients
+        count = 0
+        for ing in checkIng:
             for mpItem in range(len(mpItems)):
-                if item == mpItems[mpItem][6]:
+                if ing == mpItems[mpItem][6]:
                     a = 'eu'                    # region
                     b = mpItems[mpItem][5]      # mainKey
                     c = mpItems[mpItem][9]      # subKey
-                    price = self._priceCheck(a, b, c)
-                    totalPrice += int(price)
+                    price = int(self._priceCheck(a, b, c))
+                    qty = int(ingQty[count])
+                    totalPrice += price * qty
+                    count += 1
+            for key in npcPrices.keys():
+                if ing == key:
+                    price = npcPrices[key]
+                    qty = int(ingQty[count])
+                    totalPrice += price * qty
+                    count += 1
 
-        return totalPrice
+        # Return the price of main meal and cost of all ingredients
+        return mealPrice, totalPrice
 
     def _priceCheck(self, a, b, c):
-
+        """Check the market price of an item."""
         priceCheck = self.pc.priceCheck(a, b, c)
 
         return priceCheck[7]
 
     def gotoMain(self):
         widget.setCurrentIndex(0)
-
-
-class CookingCostWindow(QMainWindow):
-    """A class to manage cost of the meals calculation."""
-    def __init__(self):
-        super(CookingCostWindow, self).__init__()
-        loadUi("BDO_app/pyqt5_ui/cookingCostWindow.ui", self)
-
-        self.mainButton.clicked.connect(self.gotoMain)
-        self.backButton.clicked.connect(self.gotoCooking)
-        self.calculateButton.clicked.connect(self.calculate)
-
-    def calculate(self):
-        """Calculate loss/gain on the meal."""
-        _translate = QtCore.QCoreApplication.translate
-        cooking = CookingWindow()
-
-        mealName = cooking.allRecipes[cooking.cookingList.currentRow()][0]
-        ing1Qty = cooking.allRecipes[cooking.cookingList.currentRow()][4]
-        ing1Name = cooking.allRecipes[cooking.cookingList.currentRow()][5]
-        ing2Qty = cooking.allRecipes[cooking.cookingList.currentRow()][6]
-        mat2Name = cooking.allRecipes[cooking.cookingList.currentRow()][7]
-        ing3Qty = cooking.allRecipes[cooking.cookingList.currentRow()][8]
-        mat3Name = cooking.allRecipes[cooking.cookingList.currentRow()][9]
-        ing4Qty = cooking.allRecipes[cooking.cookingList.currentRow()][10]
-        mat4Name = cooking.allRecipes[cooking.cookingList.currentRow()][11]
-        ing5Qty = cooking.allRecipes[cooking.cookingList.currentRow()][12]
-        mat5Name = cooking.allRecipes[cooking.cookingList.currentRow()][13]
-
-        self.treeWidget.topLevelItem(0).setText(0, _translate("MainWindow", mealName))
-
-    def gotoMain(self):
-        widget.setCurrentIndex(0)
-
-    def gotoCooking(self):
-        widget.setCurrentIndex(2)
 
 
 class AlchemyWindow(QMainWindow):
@@ -533,7 +541,6 @@ def main():
     alchemyWindow = AlchemyWindow()
     processingWindow = ProcessingWindow()
     priceCheckWindow = PriceCheckWindow()
-    cookingCostWindow = CookingCostWindow()
 
     widget.addWidget(mainWindow)            # index 0
     widget.addWidget(kutumVsNouverWindow)   # index 1
@@ -542,7 +549,6 @@ def main():
     widget.addWidget(alchemyWindow)         # index 4
     widget.addWidget(processingWindow)      # index 5
     widget.addWidget(priceCheckWindow)      # index 6
-    widget.addWidget(cookingCostWindow)     # index 7
 
     widget.setFixedWidth(800)
     widget.setFixedHeight(600)
