@@ -550,7 +550,7 @@ def main():
     widget.addWidget(processingWindow)      # index 5
     widget.addWidget(priceCheckWindow)      # index 6
 
-    widget.setFixedWidth(800)
-    widget.setFixedHeight(600)
+    widget.setFixedWidth(1200)
+    widget.setFixedHeight(800)
     widget.show()
     sys.exit(app.exec_())

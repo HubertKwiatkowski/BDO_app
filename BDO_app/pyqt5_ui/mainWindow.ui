@@ -6,57 +6,28 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>798</width>
-    <height>600</height>
+    <width>1200</width>
+    <height>800</height>
    </rect>
   </property>
   <property name="windowTitle">
    <string>MainWindow</string>
   </property>
   <widget class="QWidget" name="centralwidget">
-   <widget class="QLabel" name="classesLabel">
-    <property name="geometry">
-     <rect>
-      <x>0</x>
-      <y>50</y>
-      <width>800</width>
-      <height>32</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <pointsize>20</pointsize>
-      <strikeout>false</strikeout>
-      <kerning>true</kerning>
-     </font>
-    </property>
-    <property name="autoFillBackground">
-     <bool>false</bool>
-    </property>
-    <property name="text">
-     <string>Classes</string>
-    </property>
-    <property name="scaledContents">
-     <bool>false</bool>
-    </property>
-    <property name="alignment">
-     <set>Qt::AlignCenter</set>
-    </property>
-   </widget>
    <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
       <x>10</x>
-      <y>440</y>
-      <width>781</width>
-      <height>89</height>
+      <y>460</y>
+      <width>321</width>
+      <height>131</height>
      </rect>
     </property>
     <layout class="QGridLayout" name="otherGridLayout">
      <property name="sizeConstraint">
       <enum>QLayout::SetNoConstraint</enum>
      </property>
-     <item row="1" column="1">
+     <item row="2" column="1">
       <widget class="QPushButton" name="nodesButton">
        <property name="enabled">
         <bool>true</bool>
@@ -69,7 +40,7 @@
        </property>
       </widget>
      </item>
-     <item row="0" column="0">
+     <item row="1" column="0">
       <widget class="QPushButton" name="kutVsNouButton">
        <property name="enabled">
         <bool>true</bool>
@@ -82,7 +53,7 @@
        </property>
       </widget>
      </item>
-     <item row="1" column="0">
+     <item row="2" column="0">
       <widget class="QPushButton" name="imperialsButton">
        <property name="enabled">
         <bool>false</bool>
@@ -95,7 +66,7 @@
        </property>
       </widget>
      </item>
-     <item row="0" column="1">
+     <item row="1" column="1">
       <widget class="QPushButton" name="failStacksButton">
        <property name="enabled">
         <bool>false</bool>
@@ -108,20 +79,7 @@
        </property>
       </widget>
      </item>
-     <item row="2" column="0">
-      <widget class="QPushButton" name="placeholder">
-       <property name="enabled">
-        <bool>false</bool>
-       </property>
-       <property name="text">
-        <string>placeholder</string>
-       </property>
-       <property name="flat">
-        <bool>false</bool>
-       </property>
-      </widget>
-     </item>
-     <item row="2" column="1">
+     <item row="3" column="1">
       <widget class="QPushButton" name="priceCheckButton">
        <property name="enabled">
         <bool>true</bool>
@@ -134,90 +92,42 @@
        </property>
       </widget>
      </item>
+     <item row="0" column="0" colspan="2">
+      <widget class="QLabel" name="otherLabel">
+       <property name="font">
+        <font>
+         <pointsize>20</pointsize>
+         <strikeout>false</strikeout>
+         <kerning>true</kerning>
+        </font>
+       </property>
+       <property name="autoFillBackground">
+        <bool>false</bool>
+       </property>
+       <property name="text">
+        <string>Other</string>
+       </property>
+       <property name="scaledContents">
+        <bool>false</bool>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
     </layout>
-   </widget>
-   <widget class="QLabel" name="otherLabel">
-    <property name="geometry">
-     <rect>
-      <x>1</x>
-      <y>400</y>
-      <width>800</width>
-      <height>32</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <pointsize>20</pointsize>
-      <strikeout>false</strikeout>
-      <kerning>true</kerning>
-     </font>
-    </property>
-    <property name="autoFillBackground">
-     <bool>false</bool>
-    </property>
-    <property name="text">
-     <string>Other</string>
-    </property>
-    <property name="scaledContents">
-     <bool>false</bool>
-    </property>
-    <property name="alignment">
-     <set>Qt::AlignCenter</set>
-    </property>
-   </widget>
-   <widget class="QLabel" name="lifeSkillsLabel">
-    <property name="geometry">
-     <rect>
-      <x>0</x>
-      <y>250</y>
-      <width>800</width>
-      <height>32</height>
-     </rect>
-    </property>
-    <property name="font">
-     <font>
-      <pointsize>20</pointsize>
-      <strikeout>false</strikeout>
-      <kerning>true</kerning>
-     </font>
-    </property>
-    <property name="autoFillBackground">
-     <bool>false</bool>
-    </property>
-    <property name="text">
-     <string>Life Skills</string>
-    </property>
-    <property name="scaledContents">
-     <bool>false</bool>
-    </property>
-    <property name="alignment">
-     <set>Qt::AlignCenter</set>
-    </property>
    </widget>
    <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
-      <x>10</x>
-      <y>290</y>
-      <width>781</width>
-      <height>89</height>
+      <x>570</x>
+      <y>300</y>
+      <width>551</width>
+      <height>161</height>
      </rect>
     </property>
     <layout class="QGridLayout" name="lifeSkillsGridLayout">
-     <item row="2" column="3">
-      <widget class="QPushButton" name="barteringButton">
-       <property name="enabled">
-        <bool>false</bool>
-       </property>
-       <property name="text">
-        <string>Bartering</string>
-       </property>
-       <property name="flat">
-        <bool>false</bool>
-       </property>
-      </widget>
-     </item>
-     <item row="0" column="1">
+     <item row="1" column="1">
       <widget class="QPushButton" name="gatheringButton">
        <property name="enabled">
         <bool>false</bool>
@@ -230,33 +140,7 @@
        </property>
       </widget>
      </item>
-     <item row="0" column="3">
-      <widget class="QPushButton" name="cookingButton">
-       <property name="enabled">
-        <bool>true</bool>
-       </property>
-       <property name="text">
-        <string>Cooking</string>
-       </property>
-       <property name="flat">
-        <bool>false</bool>
-       </property>
-      </widget>
-     </item>
-     <item row="1" column="1">
-      <widget class="QPushButton" name="farmingButton">
-       <property name="enabled">
-        <bool>false</bool>
-       </property>
-       <property name="text">
-        <string>Farming</string>
-       </property>
-       <property name="flat">
-        <bool>false</bool>
-       </property>
-      </widget>
-     </item>
-     <item row="0" column="0">
+     <item row="1" column="0">
       <widget class="QPushButton" name="lifeSkillMasteryButton">
        <property name="enabled">
         <bool>false</bool>
@@ -269,7 +153,7 @@
        </property>
       </widget>
      </item>
-     <item row="0" column="2">
+     <item row="1" column="2">
       <widget class="QPushButton" name="processingButton">
        <property name="enabled">
         <bool>true</bool>
@@ -282,33 +166,20 @@
        </property>
       </widget>
      </item>
-     <item row="1" column="3">
-      <widget class="QPushButton" name="fishingButton">
+     <item row="4" column="2">
+      <widget class="QPushButton" name="barteringButton">
        <property name="enabled">
         <bool>false</bool>
        </property>
        <property name="text">
-        <string>Fishing</string>
+        <string>Bartering</string>
        </property>
        <property name="flat">
         <bool>false</bool>
        </property>
       </widget>
      </item>
-     <item row="1" column="2">
-      <widget class="QPushButton" name="trainingButton">
-       <property name="enabled">
-        <bool>false</bool>
-       </property>
-       <property name="text">
-        <string>Training</string>
-       </property>
-       <property name="flat">
-        <bool>false</bool>
-       </property>
-      </widget>
-     </item>
-     <item row="2" column="2">
+     <item row="4" column="1">
       <widget class="QPushButton" name="sailingButton">
        <property name="enabled">
         <bool>false</bool>
@@ -321,20 +192,20 @@
        </property>
       </widget>
      </item>
-     <item row="2" column="1">
-      <widget class="QPushButton" name="huntingButton">
+     <item row="2" column="2">
+      <widget class="QPushButton" name="farmingButton">
        <property name="enabled">
         <bool>false</bool>
        </property>
        <property name="text">
-        <string>Hunting</string>
+        <string>Farming</string>
        </property>
        <property name="flat">
         <bool>false</bool>
        </property>
       </widget>
      </item>
-     <item row="1" column="0">
+     <item row="2" column="1">
       <widget class="QPushButton" name="alchemyButton">
        <property name="enabled">
         <bool>true</bool>
@@ -348,6 +219,45 @@
       </widget>
      </item>
      <item row="2" column="0">
+      <widget class="QPushButton" name="cookingButton">
+       <property name="enabled">
+        <bool>true</bool>
+       </property>
+       <property name="text">
+        <string>Cooking</string>
+       </property>
+       <property name="flat">
+        <bool>false</bool>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="0">
+      <widget class="QPushButton" name="trainingButton">
+       <property name="enabled">
+        <bool>false</bool>
+       </property>
+       <property name="text">
+        <string>Training</string>
+       </property>
+       <property name="flat">
+        <bool>false</bool>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="1">
+      <widget class="QPushButton" name="fishingButton">
+       <property name="enabled">
+        <bool>false</bool>
+       </property>
+       <property name="text">
+        <string>Fishing</string>
+       </property>
+       <property name="flat">
+        <bool>false</bool>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="2">
       <widget class="QPushButton" name="tradingButton">
        <property name="enabled">
         <bool>false</bool>
@@ -360,6 +270,42 @@
        </property>
       </widget>
      </item>
+     <item row="4" column="0">
+      <widget class="QPushButton" name="huntingButton">
+       <property name="enabled">
+        <bool>false</bool>
+       </property>
+       <property name="text">
+        <string>Hunting</string>
+       </property>
+       <property name="flat">
+        <bool>false</bool>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="1">
+      <widget class="QLabel" name="lifeSkillsLabel">
+       <property name="font">
+        <font>
+         <pointsize>20</pointsize>
+         <strikeout>false</strikeout>
+         <kerning>true</kerning>
+        </font>
+       </property>
+       <property name="autoFillBackground">
+        <bool>false</bool>
+       </property>
+       <property name="text">
+        <string>Life Skills</string>
+       </property>
+       <property name="scaledContents">
+        <bool>false</bool>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
     </layout>
    </widget>
    <widget class="QLabel" name="mainWindowLabel">
@@ -367,7 +313,7 @@
      <rect>
       <x>0</x>
       <y>0</y>
-      <width>800</width>
+      <width>1201</width>
       <height>32</height>
      </rect>
     </property>
@@ -394,14 +340,14 @@
    <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
-      <x>10</x>
+      <x>580</x>
       <y>90</y>
-      <width>781</width>
-      <height>151</height>
+      <width>551</width>
+      <height>189</height>
      </rect>
     </property>
-    <layout class="QGridLayout" name="classesGridLayout" rowstretch="0,0,0,0,0" rowminimumheight="0,0,0,0,0">
-     <item row="2" column="2">
+    <layout class="QGridLayout" name="classesGridLayout" rowstretch="0,0,0,0,0,0" rowminimumheight="0,0,0,0,0,0">
+     <item row="3" column="2">
       <widget class="QPushButton" name="darkKnightButton">
        <property name="enabled">
         <bool>false</bool>
@@ -414,7 +360,7 @@
        </property>
       </widget>
      </item>
-     <item row="2" column="3">
+     <item row="3" column="3">
       <widget class="QPushButton" name="strikerButton">
        <property name="enabled">
         <bool>false</bool>
@@ -427,7 +373,7 @@
        </property>
       </widget>
      </item>
-     <item row="0" column="2">
+     <item row="1" column="2">
       <widget class="QPushButton" name="sorceressButton">
        <property name="enabled">
         <bool>false</bool>
@@ -440,7 +386,7 @@
        </property>
       </widget>
      </item>
-     <item row="0" column="1">
+     <item row="1" column="1">
       <widget class="QPushButton" name="rangerButton">
        <property name="enabled">
         <bool>false</bool>
@@ -453,7 +399,7 @@
        </property>
       </widget>
      </item>
-     <item row="1" column="4">
+     <item row="2" column="4">
       <widget class="QPushButton" name="witchButton">
        <property name="enabled">
         <bool>false</bool>
@@ -466,7 +412,7 @@
        </property>
       </widget>
      </item>
-     <item row="0" column="3">
+     <item row="1" column="3">
       <widget class="QPushButton" name="berserkerButton">
        <property name="enabled">
         <bool>false</bool>
@@ -479,7 +425,7 @@
        </property>
       </widget>
      </item>
-     <item row="0" column="0">
+     <item row="1" column="0">
       <widget class="QPushButton" name="warriorButton">
        <property name="enabled">
         <bool>false</bool>
@@ -492,7 +438,7 @@
        </property>
       </widget>
      </item>
-     <item row="0" column="4">
+     <item row="1" column="4">
       <widget class="QPushButton" name="tamerButton">
        <property name="enabled">
         <bool>false</bool>
@@ -505,7 +451,7 @@
        </property>
       </widget>
      </item>
-     <item row="1" column="3">
+     <item row="2" column="3">
       <widget class="QPushButton" name="wizardButton">
        <property name="enabled">
         <bool>false</bool>
@@ -518,7 +464,7 @@
        </property>
       </widget>
      </item>
-     <item row="1" column="0">
+     <item row="2" column="0">
       <widget class="QPushButton" name="valkyrieButton">
        <property name="enabled">
         <bool>false</bool>
@@ -531,7 +477,7 @@
        </property>
       </widget>
      </item>
-     <item row="1" column="1">
+     <item row="2" column="1">
       <widget class="QPushButton" name="musaButton">
        <property name="enabled">
         <bool>false</bool>
@@ -544,7 +490,7 @@
        </property>
       </widget>
      </item>
-     <item row="1" column="2">
+     <item row="2" column="2">
       <widget class="QPushButton" name="maehvaButton">
        <property name="enabled">
         <bool>false</bool>
@@ -557,7 +503,7 @@
        </property>
       </widget>
      </item>
-     <item row="3" column="3">
+     <item row="4" column="3">
       <widget class="QPushButton" name="guardianButton">
        <property name="enabled">
         <bool>false</bool>
@@ -570,7 +516,7 @@
        </property>
       </widget>
      </item>
-     <item row="3" column="4">
+     <item row="4" column="4">
       <widget class="QPushButton" name="hashashinButton">
        <property name="enabled">
         <bool>false</bool>
@@ -583,7 +529,7 @@
        </property>
       </widget>
      </item>
-     <item row="2" column="1">
+     <item row="3" column="1">
       <widget class="QPushButton" name="ninjaButton">
        <property name="enabled">
         <bool>false</bool>
@@ -596,7 +542,7 @@
        </property>
       </widget>
      </item>
-     <item row="2" column="0">
+     <item row="3" column="0">
       <widget class="QPushButton" name="kunoichiButton">
        <property name="enabled">
         <bool>false</bool>
@@ -609,7 +555,7 @@
        </property>
       </widget>
      </item>
-     <item row="2" column="4">
+     <item row="3" column="4">
       <widget class="QPushButton" name="mysticButton">
        <property name="enabled">
         <bool>false</bool>
@@ -622,7 +568,7 @@
        </property>
       </widget>
      </item>
-     <item row="3" column="0">
+     <item row="4" column="0">
       <widget class="QPushButton" name="lahnButton">
        <property name="enabled">
         <bool>false</bool>
@@ -635,7 +581,7 @@
        </property>
       </widget>
      </item>
-     <item row="3" column="1">
+     <item row="4" column="1">
       <widget class="QPushButton" name="archerButton">
        <property name="enabled">
         <bool>false</bool>
@@ -648,7 +594,7 @@
        </property>
       </widget>
      </item>
-     <item row="3" column="2">
+     <item row="4" column="2">
       <widget class="QPushButton" name="shaiButton">
        <property name="enabled">
         <bool>false</bool>
@@ -661,7 +607,7 @@
        </property>
       </widget>
      </item>
-     <item row="4" column="0">
+     <item row="5" column="0">
       <widget class="QPushButton" name="novaButton">
        <property name="enabled">
         <bool>false</bool>
@@ -674,6 +620,29 @@
        </property>
       </widget>
      </item>
+     <item row="0" column="0" colspan="5">
+      <widget class="QLabel" name="classesLabel">
+       <property name="font">
+        <font>
+         <pointsize>20</pointsize>
+         <strikeout>false</strikeout>
+         <kerning>true</kerning>
+        </font>
+       </property>
+       <property name="autoFillBackground">
+        <bool>false</bool>
+       </property>
+       <property name="text">
+        <string>Classes</string>
+       </property>
+       <property name="scaledContents">
+        <bool>false</bool>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignCenter</set>
+       </property>
+      </widget>
+     </item>
     </layout>
    </widget>
   </widget>
@@ -682,12 +651,363 @@
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>798</width>
+     <width>1200</width>
      <height>22</height>
     </rect>
    </property>
+   <widget class="QMenu" name="menuClasses">
+    <property name="title">
+     <string>Classes</string>
+    </property>
+    <addaction name="actionWarrior"/>
+    <addaction name="actionRanger"/>
+    <addaction name="actionSorceress"/>
+    <addaction name="actionBerserker"/>
+    <addaction name="actionTamer"/>
+    <addaction name="actionValkyrie"/>
+    <addaction name="actionMusa"/>
+    <addaction name="actionMaehwa"/>
+    <addaction name="actionWizard"/>
+    <addaction name="actionWich"/>
+    <addaction name="actionKunoichi"/>
+    <addaction name="actionNinja"/>
+    <addaction name="actionDark_Knight"/>
+    <addaction name="actionStriker"/>
+    <addaction name="actionMystic"/>
+    <addaction name="actionLahn"/>
+    <addaction name="actionArcher"/>
+    <addaction name="actionShai"/>
+    <addaction name="actionGuardian"/>
+    <addaction name="actionHashashin"/>
+    <addaction name="actionNova"/>
+   </widget>
+   <widget class="QMenu" name="menuLife_Skills">
+    <property name="title">
+     <string>Life Skills</string>
+    </property>
+    <addaction name="actionLife_Mastery"/>
+    <addaction name="actionGathering"/>
+    <addaction name="actionProcessing"/>
+    <addaction name="actionCooking"/>
+    <addaction name="actionAlchemy"/>
+    <addaction name="actionFarming"/>
+    <addaction name="actionTraining"/>
+    <addaction name="actionFishing"/>
+    <addaction name="actionTrading"/>
+    <addaction name="actionHunting"/>
+    <addaction name="actionSailing"/>
+    <addaction name="actionBartering"/>
+   </widget>
+   <widget class="QMenu" name="menuOther">
+    <property name="title">
+     <string>Other</string>
+    </property>
+    <addaction name="actionKutum_vs_Nouver"/>
+    <addaction name="actionFail_Stacks"/>
+    <addaction name="actionImperials"/>
+    <addaction name="actionNodes"/>
+    <addaction name="actionPrice_Check"/>
+   </widget>
+   <addaction name="menuClasses"/>
+   <addaction name="menuLife_Skills"/>
+   <addaction name="menuOther"/>
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
+  <action name="actionWarrior">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Warrior</string>
+   </property>
+  </action>
+  <action name="actionRanger">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Ranger</string>
+   </property>
+  </action>
+  <action name="actionSorceress">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Sorceress</string>
+   </property>
+  </action>
+  <action name="actionBerserker">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Berserker</string>
+   </property>
+  </action>
+  <action name="actionTamer">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Tamer</string>
+   </property>
+  </action>
+  <action name="actionValkyrie">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Valkyrie</string>
+   </property>
+  </action>
+  <action name="actionMusa">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Musa</string>
+   </property>
+  </action>
+  <action name="actionMaehwa">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Maehwa</string>
+   </property>
+  </action>
+  <action name="actionWizard">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Wizard</string>
+   </property>
+  </action>
+  <action name="actionWich">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Wich</string>
+   </property>
+  </action>
+  <action name="actionKunoichi">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Kunoichi</string>
+   </property>
+  </action>
+  <action name="actionNinja">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Ninja</string>
+   </property>
+  </action>
+  <action name="actionDark_Knight">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Dark Knight</string>
+   </property>
+  </action>
+  <action name="actionStriker">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Striker</string>
+   </property>
+  </action>
+  <action name="actionMystic">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Mystic</string>
+   </property>
+  </action>
+  <action name="actionLahn">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Lahn</string>
+   </property>
+  </action>
+  <action name="actionArcher">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Archer</string>
+   </property>
+  </action>
+  <action name="actionShai">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Shai</string>
+   </property>
+  </action>
+  <action name="actionGuardian">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Guardian</string>
+   </property>
+  </action>
+  <action name="actionHashashin">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Hashashin</string>
+   </property>
+  </action>
+  <action name="actionNova">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Nova</string>
+   </property>
+  </action>
+  <action name="actionLife_Mastery">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Life Mastery</string>
+   </property>
+  </action>
+  <action name="actionGathering">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Gathering</string>
+   </property>
+  </action>
+  <action name="actionProcessing">
+   <property name="enabled">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>Processing</string>
+   </property>
+  </action>
+  <action name="actionCooking">
+   <property name="enabled">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>Cooking</string>
+   </property>
+  </action>
+  <action name="actionAlchemy">
+   <property name="enabled">
+    <bool>true</bool>
+   </property>
+   <property name="text">
+    <string>Alchemy</string>
+   </property>
+  </action>
+  <action name="actionFarming">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Farming</string>
+   </property>
+  </action>
+  <action name="actionTraining">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Training</string>
+   </property>
+  </action>
+  <action name="actionFishing">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Fishing</string>
+   </property>
+  </action>
+  <action name="actionTrading">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Trading</string>
+   </property>
+  </action>
+  <action name="actionHunting">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Hunting</string>
+   </property>
+  </action>
+  <action name="actionSailing">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Sailing</string>
+   </property>
+  </action>
+  <action name="actionBartering">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Bartering</string>
+   </property>
+  </action>
+  <action name="actionKutum_vs_Nouver">
+   <property name="text">
+    <string>Kutum vs Nouver</string>
+   </property>
+  </action>
+  <action name="actionFail_Stacks">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Fail Stacks</string>
+   </property>
+  </action>
+  <action name="actionImperials">
+   <property name="enabled">
+    <bool>false</bool>
+   </property>
+   <property name="text">
+    <string>Imperials</string>
+   </property>
+  </action>
+  <action name="actionNodes">
+   <property name="text">
+    <string>Nodes</string>
+   </property>
+  </action>
+  <action name="actionPrice_Check">
+   <property name="text">
+    <string>Price Check</string>
+   </property>
+  </action>
  </widget>
  <resources/>
  <connections/>
