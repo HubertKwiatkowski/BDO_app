@@ -136,6 +136,8 @@ class CookingWindow(QMainWindow):
 
         self.showRecipes()
 
+        self.calcButton.clicked.connect(lambda: self.priceLabel.setText(self._changePriceLabel()))
+
         self.mainButton.clicked.connect(self.gotoMain)
 
     def showRecipes(self):
@@ -144,32 +146,72 @@ class CookingWindow(QMainWindow):
             self.cookingList.insertItem(row, self.allRecipes[row][0])
 
         self.cookingList.currentRowChanged.connect(
-            lambda: self.infoLabel.setText(self._changeLabel())
-            )
+            lambda: self.infoLabel.setText(self._changeInfoLabel())
+        )
+        
+        self.cookingList.currentRowChanged.connect(
+            lambda: self.ingLabel.setText(self._changeIngLabel())
+        )
 
-    def _changeLabel(self):
+        self.cookingList.currentRowChanged.connect(
+            lambda: self.priceLabel.setText("")
+        )
+
+
+    def _changeInfoLabel(self):
         """Display info about the meal."""
-        prices = []
-        prices = self._calculateMeal()
-        mealPrice = int(prices[0])
-        totalPrice = int((prices[1]) / 2.5)
-        tax = 0.85
+ 
+        infoLabelText = f"""Effect:\n{self.allRecipes[self.cookingList.currentRow()][14]}\n"""
 
-        labelText = f"""Effect:
-{self.allRecipes[self.cookingList.currentRow()][14]}\n
-Ingredients:
+        return infoLabelText
+
+
+    def _changeIngLabel(self):
+        """Display ingredients."""
+ 
+        ingLabelText = f"""Ingredients:
 {self.allRecipes[self.cookingList.currentRow()][4]} {self.allRecipes[self.cookingList.currentRow()][5]}
 {self.allRecipes[self.cookingList.currentRow()][6]} {self.allRecipes[self.cookingList.currentRow()][7]}
 {self.allRecipes[self.cookingList.currentRow()][8]} {self.allRecipes[self.cookingList.currentRow()][9]}
 {self.allRecipes[self.cookingList.currentRow()][10]} {self.allRecipes[self.cookingList.currentRow()][11]}
 {self.allRecipes[self.cookingList.currentRow()][12]} {self.allRecipes[self.cookingList.currentRow()][13]}\n
 Skill level required:   {self.allRecipes[self.cookingList.currentRow()][2]}\n
-Expirience:     {self.allRecipes[self.cookingList.currentRow()][1]}\n
-Ingredients market price:   {totalPrice}
-Meal market price:  {mealPrice} (taxed {int(mealPrice * tax)})
-Gain/loss (if sold to MP):  {int(mealPrice * tax - totalPrice)}"""
+Expirience:     {self.allRecipes[self.cookingList.currentRow()][1]}\n"""
 
-        return labelText
+        return ingLabelText
+
+    def _changePriceLabel(self):
+        """Display prices."""
+        prices = []
+        prices = self._calculateMeal()
+        mealPrice = int(prices[0])
+        totalPrice = int((prices[1]) / 2.5)
+        base = 0.65
+        zeroFive = 0.005
+        oneZero = 0.01
+        oneFive = 0.015
+        valuePack = 0.3
+        bonus = 0
+        if self.zeroFiveCheckBox.checkState() == 2:
+            bonus = zeroFive
+        if self.oneZeroCheckBox.checkState() == 2:
+            bonus = oneFZero
+        if self.oneFiveCheckBox.checkState() == 2:
+            bonus = oneFive      
+        if self.valuePackCheckBox.checkState() == 2: 
+            bonus += valuePack
+        
+        if bonus == 0:
+            netto = base
+        else:
+            netto = base * (1 + bonus)
+
+        priceLabelText = f"""Price check:
+Ingredients market price:   {totalPrice}
+Meal market price:  {mealPrice} (taxed {int(mealPrice * netto)})
+Gain/loss (if sold to MP):  {int(mealPrice * netto - totalPrice)}"""
+
+        return priceLabelText
 
     def _checkName(self, itemName):
         """Check if the name is generic or detail (eg. Red Meat or Lamb Meat)"""

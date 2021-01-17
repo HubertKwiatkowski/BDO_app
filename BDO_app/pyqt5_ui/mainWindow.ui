@@ -314,7 +314,7 @@
       <x>0</x>
       <y>0</y>
       <width>1201</width>
-      <height>32</height>
+      <height>51</height>
      </rect>
     </property>
     <property name="font">
@@ -645,72 +645,6 @@
      </item>
     </layout>
    </widget>
-  </widget>
-  <widget class="QMenuBar" name="menubar">
-   <property name="geometry">
-    <rect>
-     <x>0</x>
-     <y>0</y>
-     <width>1200</width>
-     <height>22</height>
-    </rect>
-   </property>
-   <widget class="QMenu" name="menuClasses">
-    <property name="title">
-     <string>Classes</string>
-    </property>
-    <addaction name="actionWarrior"/>
-    <addaction name="actionRanger"/>
-    <addaction name="actionSorceress"/>
-    <addaction name="actionBerserker"/>
-    <addaction name="actionTamer"/>
-    <addaction name="actionValkyrie"/>
-    <addaction name="actionMusa"/>
-    <addaction name="actionMaehwa"/>
-    <addaction name="actionWizard"/>
-    <addaction name="actionWich"/>
-    <addaction name="actionKunoichi"/>
-    <addaction name="actionNinja"/>
-    <addaction name="actionDark_Knight"/>
-    <addaction name="actionStriker"/>
-    <addaction name="actionMystic"/>
-    <addaction name="actionLahn"/>
-    <addaction name="actionArcher"/>
-    <addaction name="actionShai"/>
-    <addaction name="actionGuardian"/>
-    <addaction name="actionHashashin"/>
-    <addaction name="actionNova"/>
-   </widget>
-   <widget class="QMenu" name="menuLife_Skills">
-    <property name="title">
-     <string>Life Skills</string>
-    </property>
-    <addaction name="actionLife_Mastery"/>
-    <addaction name="actionGathering"/>
-    <addaction name="actionProcessing"/>
-    <addaction name="actionCooking"/>
-    <addaction name="actionAlchemy"/>
-    <addaction name="actionFarming"/>
-    <addaction name="actionTraining"/>
-    <addaction name="actionFishing"/>
-    <addaction name="actionTrading"/>
-    <addaction name="actionHunting"/>
-    <addaction name="actionSailing"/>
-    <addaction name="actionBartering"/>
-   </widget>
-   <widget class="QMenu" name="menuOther">
-    <property name="title">
-     <string>Other</string>
-    </property>
-    <addaction name="actionKutum_vs_Nouver"/>
-    <addaction name="actionFail_Stacks"/>
-    <addaction name="actionImperials"/>
-    <addaction name="actionNodes"/>
-    <addaction name="actionPrice_Check"/>
-   </widget>
-   <addaction name="menuClasses"/>
-   <addaction name="menuLife_Skills"/>
-   <addaction name="menuOther"/>
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
   <action name="actionWarrior">

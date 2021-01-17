@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>800</width>
-    <height>600</height>
+    <width>1200</width>
+    <height>800</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -18,8 +18,8 @@
     <property name="geometry">
      <rect>
       <x>0</x>
-      <y>0</y>
-      <width>800</width>
+      <y>20</y>
+      <width>1201</width>
       <height>32</height>
      </rect>
     </property>
@@ -43,35 +43,42 @@
      <set>Qt::AlignCenter</set>
     </property>
    </widget>
-   <widget class="QPushButton" name="mainButton">
-    <property name="enabled">
-     <bool>true</bool>
-    </property>
-    <property name="geometry">
-     <rect>
-      <x>630</x>
-      <y>510</y>
-      <width>150</width>
-      <height>25</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>Main</string>
-    </property>
-    <property name="flat">
-     <bool>false</bool>
-    </property>
-   </widget>
    <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
       <x>10</x>
       <y>90</y>
-      <width>781</width>
-      <height>27</height>
+      <width>171</width>
+      <height>171</height>
      </rect>
     </property>
     <layout class="QGridLayout" name="cookingGrid">
+     <item row="3" column="0">
+      <widget class="QPushButton" name="toolsButton">
+       <property name="enabled">
+        <bool>false</bool>
+       </property>
+       <property name="text">
+        <string>Cooking Tools</string>
+       </property>
+       <property name="flat">
+        <bool>false</bool>
+       </property>
+      </widget>
+     </item>
+     <item row="4" column="0">
+      <widget class="QPushButton" name="guidsButton">
+       <property name="enabled">
+        <bool>false</bool>
+       </property>
+       <property name="text">
+        <string>Guids</string>
+       </property>
+       <property name="flat">
+        <bool>false</bool>
+       </property>
+      </widget>
+     </item>
      <item row="0" column="0">
       <widget class="QPushButton" name="recipesButton">
        <property name="enabled">
@@ -85,20 +92,7 @@
        </property>
       </widget>
      </item>
-     <item row="0" column="1">
-      <widget class="QPushButton" name="xpButton">
-       <property name="enabled">
-        <bool>false</bool>
-       </property>
-       <property name="text">
-        <string>Cooking XP</string>
-       </property>
-       <property name="flat">
-        <bool>false</bool>
-       </property>
-      </widget>
-     </item>
-     <item row="0" column="2">
+     <item row="2" column="0">
       <widget class="QPushButton" name="masteryButton">
        <property name="enabled">
         <bool>false</bool>
@@ -111,26 +105,26 @@
        </property>
       </widget>
      </item>
-     <item row="0" column="3">
-      <widget class="QPushButton" name="toolsButton">
+     <item row="1" column="0">
+      <widget class="QPushButton" name="xpButton">
        <property name="enabled">
         <bool>false</bool>
        </property>
        <property name="text">
-        <string>Cooking Tools</string>
+        <string>Cooking XP</string>
        </property>
        <property name="flat">
         <bool>false</bool>
        </property>
       </widget>
      </item>
-     <item row="0" column="4">
-      <widget class="QPushButton" name="guidsButton">
+     <item row="5" column="0">
+      <widget class="QPushButton" name="mainButton">
        <property name="enabled">
-        <bool>false</bool>
+        <bool>true</bool>
        </property>
        <property name="text">
-        <string>Guids</string>
+        <string>Main</string>
        </property>
        <property name="flat">
         <bool>false</bool>
@@ -140,57 +134,28 @@
     </layout>
    </widget>
    <widget class="QListWidget" name="cookingList">
-    <property name="geometry">
-     <rect>
-      <x>10</x>
-      <y>130</y>
-      <width>310</width>
-      <height>350</height>
-     </rect>
-    </property>
-   </widget>
-   <widget class="QPushButton" name="calculateButton">
     <property name="enabled">
      <bool>true</bool>
     </property>
     <property name="geometry">
      <rect>
-      <x>470</x>
-      <y>510</y>
-      <width>150</width>
-      <height>25</height>
+      <x>190</x>
+      <y>90</y>
+      <width>341</width>
+      <height>571</height>
      </rect>
-    </property>
-    <property name="text">
-     <string>Calculate</string>
-    </property>
-    <property name="flat">
-     <bool>false</bool>
     </property>
    </widget>
-   <widget class="QWidget" name="">
+   <widget class="QWidget" name="layoutWidget">
     <property name="geometry">
      <rect>
-      <x>330</x>
-      <y>130</y>
-      <width>451</width>
-      <height>351</height>
+      <x>570</x>
+      <y>90</y>
+      <width>591</width>
+      <height>571</height>
      </rect>
     </property>
-    <layout class="QGridLayout" name="gridLayout" rowstretch="1,1,1">
-     <item row="0" column="0">
-      <widget class="QLabel" name="infoLabel">
-       <property name="text">
-        <string/>
-       </property>
-       <property name="alignment">
-        <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
-       </property>
-       <property name="wordWrap">
-        <bool>true</bool>
-       </property>
-      </widget>
-     </item>
+    <layout class="QGridLayout" name="gridLayout" rowstretch="1,2,0" rowminimumheight="0,0,0">
      <item row="1" column="0">
       <widget class="QLabel" name="ingLabel">
        <property name="text">
@@ -204,8 +169,21 @@
        </property>
       </widget>
      </item>
-     <item row="2" column="0">
+     <item row="1" column="1">
       <widget class="QLabel" name="priceLabel">
+       <property name="text">
+        <string/>
+       </property>
+       <property name="alignment">
+        <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
+       </property>
+       <property name="wordWrap">
+        <bool>true</bool>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="0" colspan="2">
+      <widget class="QLabel" name="infoLabel">
        <property name="text">
         <string/>
        </property>
@@ -219,16 +197,122 @@
      </item>
     </layout>
    </widget>
-  </widget>
-  <widget class="QMenuBar" name="menubar">
-   <property name="geometry">
-    <rect>
-     <x>0</x>
-     <y>0</y>
-     <width>800</width>
-     <height>22</height>
-    </rect>
-   </property>
+   <widget class="QLineEdit" name="cookMastLine">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>300</y>
+      <width>171</width>
+      <height>25</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>0</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="cookMastLabel">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>260</y>
+      <width>171</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>11</pointsize>
+      <strikeout>false</strikeout>
+      <kerning>true</kerning>
+     </font>
+    </property>
+    <property name="autoFillBackground">
+     <bool>false</bool>
+    </property>
+    <property name="text">
+     <string>Cooking Mastery</string>
+    </property>
+    <property name="scaledContents">
+     <bool>false</bool>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="calcButton">
+    <property name="enabled">
+     <bool>true</bool>
+    </property>
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>510</y>
+      <width>169</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>22</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Calculate</string>
+    </property>
+    <property name="flat">
+     <bool>false</bool>
+    </property>
+   </widget>
+   <widget class="QWidget" name="">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>350</y>
+      <width>171</width>
+      <height>141</height>
+     </rect>
+    </property>
+    <layout class="QGridLayout" name="gridLayout_2">
+     <item row="4" column="0">
+      <widget class="QCheckBox" name="oneFiveCheckBox">
+       <property name="text">
+        <string>1.5%</string>
+       </property>
+      </widget>
+     </item>
+     <item row="0" column="0">
+      <widget class="QCheckBox" name="valuePackCheckBox">
+       <property name="text">
+        <string>Value Pack</string>
+       </property>
+      </widget>
+     </item>
+     <item row="3" column="0">
+      <widget class="QCheckBox" name="oneZeroCheckBox">
+       <property name="text">
+        <string>1.0%</string>
+       </property>
+      </widget>
+     </item>
+     <item row="1" column="0">
+      <widget class="QCheckBox" name="zeroCheckBox">
+       <property name="text">
+        <string>0.0%</string>
+       </property>
+       <property name="checked">
+        <bool>true</bool>
+       </property>
+      </widget>
+     </item>
+     <item row="2" column="0">
+      <widget class="QCheckBox" name="zeroFiveCheckBox">
+       <property name="text">
+        <string>0.5%</string>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
  </widget>
